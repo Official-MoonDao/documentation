@@ -21,7 +21,7 @@ The following [core plugins](https://help.obsidian.md/Plugins/Core+plugins) are 
 - [Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync)
 - [Templates](https://help.obsidian.md/Plugins/Templates)
 
-If Obsidian Sync is installed and your vault is connected to the shared remote vault, the following settings are preferred:
+If Obsidian Sync is installed and your vault i[[@FlaneganEtAl2008]]s connected to the shared remote vault, the following settings are preferred:
 
 - [x] Sync images
 - [ ] Sync audio
@@ -41,9 +41,9 @@ If Obsidian Sync is installed and your vault is connected to the shared remote v
 Be sure to [turn on community plugins](https://help.obsidian.md/Extending+Obsidian/Community+plugins) in your main settings.
 
 The following [community plugins](https://obsidian.md/plugins) are recommended:
+- [Citations](https://obsidian.md/plugins?id=obsidian-citation-plugin)
 - [Dataview](https://obsidian.md/plugins?id=dataview)
 - [Homepage](https://obsidian.md/plugins?id=homepage)
 - [Obsidian Git](https://obsidian.md/plugins?id=obsidian-git)
 - [PlantUML](https://obsidian.md/plugins?id=obsidian-plantuml)
 - [Plugin Update Tracker](https://obsidian.md/plugins?id=obsidian-plugin-update-tracker)
-- [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-desktop-connector)
