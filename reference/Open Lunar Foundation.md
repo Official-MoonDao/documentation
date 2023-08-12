@@ -1,5 +1,5 @@
 ---
 tags: organization
 alias: "Open Lunar"
-website: openlunar.org
 ---
+link:: https://www.openlunar.org/

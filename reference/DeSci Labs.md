@@ -1,5 +1,6 @@
 ---
 tags: organization
 alias: "DeSci"
-website: desci.com
 ---
+
+link:: https://desci.com/
