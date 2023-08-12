@@ -134,7 +134,6 @@ Bio: Greg holds a Bachelor’s degree in Mathematics and Aeronautical Engineerin
 
 ## Estimated Project Timeline (Table B)
 
-
 |Date|Description|
 |---|---|
 |2023-08-07|Begin collecting literature and tools.|
@@ -143,9 +142,9 @@ Bio: Greg holds a Bachelor’s degree in Mathematics and Aeronautical Engineerin
 |2023-09-30|Share summary of analysis so far. What has been done, what was learned, results if any.|
 |2023-10-31|Publish a manuscript, code, and data on DeSci discussing the analysis and results.|
 
-## Deadline for the project: End of Q3.  
+**Deadline for the project: End of Q3**
   
-Budget Justifications (Table C)
+## Budget Justifications (Table C)
 
 Retroactive rewards only.
 
