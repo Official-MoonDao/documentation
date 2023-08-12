@@ -1,5 +1,7 @@
 This folder is used to store media files that act as attachments in other notes. 
-Any file that is not a text file (images, pdfs, audio, video) is an attachment if it is embedded in another note with the syntax `![alt text](path/to/file)`
+Any file that is not a text file (images, pdfs, audio, video) is an attachment if it is embedded in another note with the syntax.
+
+Obsidian supports relative or absolute links, and `[[Wikilinks]]` syntax. For media to appear in GitHub's markdown web viewer, however, media must be embedded with the following syntax: `![alt text](lunar-comms/media-files/filename)`
 
 ## Configuring your local vault
 Please configure your Obsidian settings to place new attachments in the `media-files` folder.
