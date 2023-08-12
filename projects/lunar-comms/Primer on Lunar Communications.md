@@ -28,9 +28,9 @@ All of these factors make telecommunications difficult at and around the Moon. H
 
 While the technology capable of overcoming these challenges has been used for decades to command and control spacecraft in cislunar space, one aspect remains relatively unchanged: *access* (or lack thereof).
 
-Today, NASA's Deep Space Network (DSN) and other state-owned equivalents are the primary resources used to transmit and receive data from cislunar spacecraft. DSN is limited in bandwidth and schedule, which are already heavily oversubscribed [[11]–[13]](https://www.zotero.org/google-docs/?CoBWGk), and must compete with all other deep space missions served by the DSN. Not to mention using a government-operated resource has a multitude of ever-evolving geopolitical and regulatory implications in its own right.
+Today, NASA's Deep Space Network (DSN) and other state-owned equivalents are the primary resources used to transmit and receive data from cislunar spacecraft. DSN is limited in bandwidth and schedule, which are already heavily oversubscribed,[^11][^12][^13] and must compete with all other deep space missions served by the DSN. Not to mention using a government-operated resource has a multitude of ever-evolving geopolitical and regulatory implications in its own right.
 
-Even with a network to use, the technology needed to interface with it is still relatively expensive and/or nascent [[9], [14]–[16]](https://www.zotero.org/google-docs/?JlYwJT). Looking at the landscape of low Earth-orbit (LEO) satellite missions before and after the introduction of the CubeSat standard, it is clear that the barrier to entry for space missions is, well, the barrier itself! An accessible platform for conducting missions in space―such as open reference designs, commodity components, and standardized interfaces―can bootstrap an entire thriving industry that would be otherwise infeasible for all but the largest institutions [[17], [18]](https://www.zotero.org/google-docs/?cipVfu).
+Even with a network to use, the technology needed to interface with it is still relatively expensive and/or nascent.[^9][^14][^15][^16] Looking at the landscape of low Earth-orbit (LEO) satellite missions before and after the introduction of the CubeSat standard, it is clear that the barrier to entry for space missions is, well, the barrier itself! An accessible platform for conducting missions in space―such as open reference designs, commodity components, and standardized interfaces―can bootstrap an entire thriving industry that would be otherwise infeasible for all but the largest institutions.[^17][^18]
 
 The number of missions that plan to operate on and around the Moon is large and growing every day [[19]](https://www.zotero.org/google-docs/?a5trWS). It is clear that more communications infrastructure is needed in order to sustain a diverse, multi-national ecosystem of public and private/commercial lunar activities. 
 
@@ -95,83 +95,42 @@ Below is a list of considerations that we'd need to look into before a mission l
 
 # References
 
-
-[[4] C. Caini and V. Fiore, “Moon to earth DTN communications through lunar relay satellites,” in 2012 6th Advanced Satellite Multimedia Systems Conference (ASMS) and 12th Signal Processing for Space Communications Workshop (SPSC), Sep. 2012, pp. 89–95. doi: 10.1109/ASMS-SPSC.2012.6333112.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[5] D. J. Israel et al., “LunaNet: a Flexible and Extensible Lunar Exploration Communications and Navigation Infrastructure,” in 2020 IEEE Aerospace Conference, Big Sky, MT, USA: IEEE, Mar. 2020, pp. 1–14. doi: 10.1109/AERO47225.2020.9172509.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[6] “Nokia aims for the Moon with LTE/4G,” Nokia. https://www.nokia.com/about-us/newsroom/articles/nokia-aims-for-the-moon-with-lte4g/ (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[7] K. Brown, “NASA Announces Partners to Advance 2020 ‘Tipping Point’ Technologies,” NASA, Oct. 14, 2020. http://www.nasa.gov/press-release/nasa-announces-partners-to-advance-tipping-point-technologies-for-the-moon-mars (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[8] N. O. Harle et al., “Lunar comms and nav infrastructure – first data relay orbiter Lunar Pathfinder, operational in 2024, paves the way for full constellation by 2030s,” in ASCEND 2021, American Institute of Aeronautics and Astronautics. doi: 10.2514/6.2021-4132.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[9] A. Pasquale, G. Zanotti, J. Prinetto, M. Ceresoli, and M. Lavagna, “Cislunar distributed architectures for communication and navigation services of lunar assets,” Acta Astronautica, vol. 199, pp. 345–354, Oct. 2022, doi: 10.1016/j.actaastro.2022.06.004.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[10] M. Naseem, “Last-mile Analogies for a Lunar Communications Network - Open Lunar Foundation,” Open Lunar Foundation, Jan. 26, 2022. https://www.openlunar.org/library/last-mile (accessed Feb. 11, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[11] B. Carruth, M. Johnston, A. Coffman, M. Wallace, B. Arroyo, and S. Malhotra, “A Collaborative Scheduling Environment for NASA’s Deep Space Network,” in SpaceOps 2010 Conference, Huntsville, Alabama: American Institute of Aeronautics and Astronautics, Apr. 2010. doi: 10.2514/6.2010-2284.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[12] B. J. Clement and M. D. Johnston, “The Deep Space Network Scheduling Problem”.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[13] C. Shouraboura, M. D. Johnston, and D. Tran, “Prioritization and Oversubscribed Scheduling for NASA’s Deep Space Network”.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[14] B. Cheetham, “Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE),” in ASCEND 2021, Las Vegas, Nevada & Virtual: American Institute of Aeronautics and Astronautics, Nov. 2021. doi: 10.2514/6.2021-4128.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[15] J. W. Keller, N. E. Petro, and R. R. Vondrak, “The Lunar Reconnaissance Orbiter Mission – Six years of science and exploration at the Moon,” Icarus, vol. 273, pp. 2–24, Jul. 2016, doi: 10.1016/j.icarus.2015.11.024.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[16] J. E. Velazco, A. C. Aguilar, A. R. Klaib, U. S. Escobar, S. E. Cornish, and J. C. Griffin, “Development of Omnidirectional Optical Terminals for Swarm Communications and Navigation”.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[17] A. Chin, R. Coelho, L. Brooks, G. Student, R. Nugent, and J. P. Suari, “Standardization Promotes Flexibility: A Review of CubeSats’ Success,” 2008. Accessed: Feb. 11, 2023. [Online]. Available: https://www.semanticscholar.org/paper/Standardization-Promotes-Flexibility%3A-A-Review-of-Chin-Coelho/2ccd7bcb1f253432bc60dcebd2a4dc2736c3f514#references](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[18] T. Villela, C. A. Costa, A. M. Brandão, F. T. Bueno, and R. Leonardi, “Towards the Thousandth CubeSat: A Statistical Overview,” International Journal of Aerospace Engineering, vol. 2019, pp. 1–13, Jan. 2019, doi: 10.1155/2019/5063145.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[19] C. Al-Ekabi and C. Robinson, “Recent Lunar Activity, Stakeholders and Incentives – A Backgrounder,” Open Lunar Foundation, May 2021. Accessed: Feb. 11, 2023. [Online]. Available: https://www.openlunar.org/library/recent-lunar-activity-stakeholders-and-incentives-a-backgrounder](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[20] S. Jardine, “Building Lunar Security and Cooperation Through an Astropolitcal Lens- how to construct normative behaviours on the moon- enter the registry,” Open Lunar Foundation, Dec. 16, 2022. https://www.openlunar.org/library/open-lunar-registry-project-blog-post-series-blog-4 (accessed Feb. 11, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[21] J. K. Schingler, “Space Tenure: The Policies of Sustained Lunar Presence - Open Lunar Foundation,” Open Lunar Foundation. https://www.openlunar.org/library/space-tenure-the-policies-of-sustained-lunar-presence (accessed Feb. 11, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[22] S. Jardine, “Building Lunar Security and Cooperation Through an Astropolitical Lens- Why Normative Behaviours are Needed for Lunar Activity,” Open Lunar Foundation, Dec. 14, 2022. https://www.openlunar.org/library/open-lunar-registry-blog-post-series-blog-3 (accessed Feb. 11, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[23] S. Jardine, “Building Lunar Security and Cooperation Through an Astropolitical Lens- the role of normative behaviours in creating stability,” Open Lunar Foundation, Nov. 10, 2022. https://www.openlunar.org/library/open-lunar-registry-project-blog-post-series-blog-1 (accessed Feb. 11, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[24] P. Giordano, F. Malman, R. Swinden, P. Zoccarato, and J. Ventura-Traveset, “The Lunar Pathfinder PNT Experiment and Moonlight Navigation Service: The Future of Lunar Position, Navigation and Timing,” presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, California, Long Beach, California, Feb. 2022, pp. 632–642. doi: 10.33012/2022.18225.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[25] M. Cosby and W. Tai, “Report of the Interagency Operations Advisory Group Lunar Communications Architecture Working Group,” Lunar Communications Architecture Working Group, Jan. 2022.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[26] J. Foust, “Quantum Space raises $15 million for cislunar spacecraft,” SpaceNews, Dec. 13, 2022. https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/ (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[27] “ParsecTM Service from Lockheed Martin,” Lockheed Martin, Mar. 28, 2023. https://www.lockheedmartin.com/en-us/news/features/2021/lunar-communication-and-navigation-network.html (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[28] Kongsberg Satellite Services, “KSAT to invest in a dedicated antenna network for lunar missions.” https://www.ksat.no/news/news-archive/2022/ksat-to-invest-in-antenna-network-for-lunar-missions/ (accessed Feb. 03, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[29] S. Burleigh, K. Fall, and E. J. Birrane, “Bundle Protocol Version 7,” Internet Engineering Task Force, Request for Comments RFC 9171, Jan. 2022. doi: 10.17487/RFC9171.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[30] “DTN7,” DTN7. https://dtn7.github.io/ (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[31] E. J. Birrane and K. McKeever, “Bundle Protocol Security (BPSec),” Internet Engineering Task Force, Request for Comments RFC 9172, Jan. 2022. doi: 10.17487/RFC9172.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[32] “dtn7/awesome-dtn: A curated list of awesome delay- and disruption-tolerant networking.” https://github.com/dtn7/awesome-dtn (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[33] R. Malmström, A. Lo, N. Brown, and G. Haney, “Continuous Communications to the Moon’s South Pole,” in Space 2006, in AIAA SPACE Forum. American Institute of Aeronautics and Astronautics, 2006. doi: 10.2514/6.2006-7453.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[34] D. Divsalar, M. S. Net, and K.-M. Cheung, “Acquisition and tracking for communications between Lunar South Pole and Earth,” in 2019 IEEE Aerospace Conference, Mar. 2019, pp. 1–14. doi: 10.1109/AERO.2019.8742112.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[35] A. Reinhold, A Solar Powered Station at a Lunar Pole. 1990.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[36] J. Biswas, P. Q. Malzone, and F. Rößler, “Energy storage selection and operation for night-time survival of small lunar surface systems,” Acta Astronautica, vol. 185, pp. 308–318, Aug. 2021, doi: 10.1016/j.actaastro.2021.04.042.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[37] A. Petro, “Surviving and Operating Through the Lunar Night,” in 2020 IEEE Aerospace Conference, Mar. 2020, pp. 1–6. doi: 10.1109/AERO47225.2020.9172730.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[38] “Light-Weight Radioisotope Heater Unit | Thermal Systems,” NASA RPS: Radioisotope Power Systems. https://rps.nasa.gov/power-and-thermal-systems/thermal-systems/light-weight-radioisotope-heater-unit (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[39] K.-M. Cheung and C. Lee, “Lunar Relay Coverage Analysis for RF and Optical Links,” in 2018 SpaceOps Conference, Marseille, France: American Institute of Aeronautics and Astronautics, May 2018. doi: 10.2514/6.2018-2612.](https://www.zotero.org/google-docs/?2ltKOY)
-
-  
-**
-
 [^1]: [[@zotero-336]] "Radio's First Message -- Fessenden and Marconi." https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html (accessed Apr. 04, 2023).
 [^2]: [[@Araki2021]] T. Araki, “A trade-off study of lunar-earth optical communication links,” in International Conference on Space Optics — ICSO 2020, SPIE, Jun. 2021, pp. 811–819. doi: 10.1117/12.2599331.
 [^3]: [[@RazaEtAl2022]] W. Raza et al., “Toward a Hybrid RF/Optical Lunar Communication System (LunarComm),” IEEE Network, vol. 36, no. 6, pp. 76–83, Nov. 2022, doi: 10.1109/MNET.103.2100419.
-[^4]: 
+[^4]: [[@CainiFiore2012]] C. Caini and V. Fiore, “Moon to earth DTN communications through lunar relay satellites,” in 2012 6th Advanced Satellite Multimedia Systems Conference (ASMS) and 12th Signal Processing for Space Communications Workshop (SPSC), Sep. 2012, pp. 89–95. doi: 10.1109/ASMS-SPSC.2012.6333112.
+[^5]: D. J. Israel et al., “LunaNet: a Flexible and Extensible Lunar Exploration Communications and Navigation Infrastructure,” in 2020 IEEE Aerospace Conference, Big Sky, MT, USA: IEEE, Mar. 2020, pp. 1–14. doi: 10.1109/AERO47225.2020.9172509.
+[^6]: “Nokia aims for the Moon with LTE/4G,” Nokia. https://www.nokia.com/about-us/newsroom/articles/nokia-aims-for-the-moon-with-lte4g/ (accessed Apr. 04, 2023).
+[^7]: K. Brown, “NASA Announces Partners to Advance 2020 ‘Tipping Point’ Technologies,” NASA, Oct. 14, 2020. http://www.nasa.gov/press-release/nasa-announces-partners-to-advance-tipping-point-technologies-for-the-moon-mars (accessed Apr. 04, 2023).
+[^8]: N. O. Harle et al., “Lunar comms and nav infrastructure – first data relay orbiter Lunar Pathfinder, operational in 2024, paves the way for full constellation by 2030s,” in ASCEND 2021, American Institute of Aeronautics and Astronautics. doi: 10.2514/6.2021-4132.
+[^9]: A. Pasquale, G. Zanotti, J. Prinetto, M. Ceresoli, and M. Lavagna, “Cislunar distributed architectures for communication and navigation services of lunar assets,” Acta Astronautica, vol. 199, pp. 345–354, Oct. 2022, doi: 10.1016/j.actaastro.2022.06.004.
+[^10]: M. Naseem, “Last-mile Analogies for a Lunar Communications Network - Open Lunar Foundation,” Open Lunar Foundation, Jan. 26, 2022. https://www.openlunar.org/library/last-mile (accessed Feb. 11, 2023).
+[^11]: B. Carruth, M. Johnston, A. Coffman, M. Wallace, B. Arroyo, and S. Malhotra, “A Collaborative Scheduling Environment for NASA’s Deep Space Network,” in SpaceOps 2010 Conference, Huntsville, Alabama: American Institute of Aeronautics and Astronautics, Apr. 2010. doi: 10.2514/6.2010-2284.
+[^12]: B. J. Clement and M. D. Johnston, “The Deep Space Network Scheduling Problem”.
+[^13]: C. Shouraboura, M. D. Johnston, and D. Tran, “Prioritization and Oversubscribed Scheduling for NASA’s Deep Space Network”.
+[^14]: B. Cheetham, “Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE),” in ASCEND 2021, Las Vegas, Nevada & Virtual: American Institute of Aeronautics and Astronautics, Nov. 2021. doi: 10.2514/6.2021-4128.
+[^15]: J. W. Keller, N. E. Petro, and R. R. Vondrak, “The Lunar Reconnaissance Orbiter Mission – Six years of science and exploration at the Moon,” Icarus, vol. 273, pp. 2–24, Jul. 2016, doi: 10.1016/j.icarus.2015.11.024.
+[^16]: J. E. Velazco, A. C. Aguilar, A. R. Klaib, U. S. Escobar, S. E. Cornish, and J. C. Griffin, “Development of Omnidirectional Optical Terminals for Swarm Communications and Navigation”.
+[^17]: A. Chin, R. Coelho, L. Brooks, G. Student, R. Nugent, and J. P. Suari, “Standardization Promotes Flexibility: A Review of CubeSats’ Success,” 2008. Accessed: Feb. 11, 2023. [Online]. Available: https://www.semanticscholar.org/paper/Standardization-Promotes-Flexibility%3A-A-Review-of-Chin-Coelho/2ccd7bcb1f253432bc60dcebd2a4dc2736c3f514#references
+[^18]: T. Villela, C. A. Costa, A. M. Brandão, F. T. Bueno, and R. Leonardi, “Towards the Thousandth CubeSat: A Statistical Overview,” International Journal of Aerospace Engineering, vol. 2019, pp. 1–13, Jan. 2019, doi: 10.1155/2019/5063145.
+[^19]: C. Al-Ekabi and C. Robinson, “Recent Lunar Activity, Stakeholders and Incentives – A Backgrounder,” Open Lunar Foundation, May 2021. Accessed: Feb. 11, 2023. [Online]. Available: https://www.openlunar.org/library/recent-lunar-activity-stakeholders-and-incentives-a-backgrounder
+[^20]: S. Jardine, “Building Lunar Security and Cooperation Through an Astropolitcal Lens- how to construct normative behaviours on the moon- enter the registry,” Open Lunar Foundation, Dec. 16, 2022. https://www.openlunar.org/library/open-lunar-registry-project-blog-post-series-blog-4 (accessed Feb. 11, 2023).
+[^21]: J. K. Schingler, “Space Tenure: The Policies of Sustained Lunar Presence - Open Lunar Foundation,” Open Lunar Foundation. https://www.openlunar.org/library/space-tenure-the-policies-of-sustained-lunar-presence (accessed Feb. 11, 2023).
+[^22]: S. Jardine, “Building Lunar Security and Cooperation Through an Astropolitical Lens- Why Normative Behaviours are Needed for Lunar Activity,” Open Lunar Foundation, Dec. 14, 2022. https://www.openlunar.org/library/open-lunar-registry-blog-post-series-blog-3 (accessed Feb. 11, 2023).
+[^23]: S. Jardine, “Building Lunar Security and Cooperation Through an Astropolitical Lens- the role of normative behaviours in creating stability,” Open Lunar Foundation, Nov. 10, 2022. https://www.openlunar.org/library/open-lunar-registry-project-blog-post-series-blog-1 (accessed Feb. 11, 2023).
+[^24]: P. Giordano, F. Malman, R. Swinden, P. Zoccarato, and J. Ventura-Traveset, “The Lunar Pathfinder PNT Experiment and Moonlight Navigation Service: The Future of Lunar Position, Navigation and Timing,” presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, California, Long Beach, California, Feb. 2022, pp. 632–642. doi: 10.33012/2022.18225.
+[^25]: M. Cosby and W. Tai, “Report of the Interagency Operations Advisory Group Lunar Communications Architecture Working Group,” Lunar Communications Architecture Working Group, Jan. 2022.
+[^26]: J. Foust, “Quantum Space raises $15 million for cislunar spacecraft,” SpaceNews, Dec. 13, 2022. https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/ (accessed Apr. 04, 2023).
+[^27]: “ParsecTM Service from Lockheed Martin,” Lockheed Martin, Mar. 28, 2023. https://www.lockheedmartin.com/en-us/news/features/2021/lunar-communication-and-navigation-network.html (accessed Apr. 04, 2023).
+[^28]: Kongsberg Satellite Services, “KSAT to invest in a dedicated antenna network for lunar missions.” https://www.ksat.no/news/news-archive/2022/ksat-to-invest-in-antenna-network-for-lunar-missions/ (accessed Feb. 03, 2023).
+[^29]: S. Burleigh, K. Fall, and E. J. Birrane, “Bundle Protocol Version 7,” Internet Engineering Task Force, Request for Comments RFC 9171, Jan. 2022. doi: 10.17487/RFC9171.
+[^30]: “DTN7,” DTN7. https://dtn7.github.io/ (accessed Apr. 04, 2023).
+[^31]: E. J. Birrane and K. McKeever, “Bundle Protocol Security (BPSec),” Internet Engineering Task Force, Request for Comments RFC 9172, Jan. 2022. doi: 10.17487/RFC9172.
+[^32]: “dtn7/awesome-dtn: A curated list of awesome delay- and disruption-tolerant networking.” https://github.com/dtn7/awesome-dtn (accessed Apr. 04, 2023).
+[^33]: R. Malmström, A. Lo, N. Brown, and G. Haney, “Continuous Communications to the Moon’s South Pole,” in Space 2006, in AIAA SPACE Forum. American Institute of Aeronautics and Astronautics, 2006. doi: 10.2514/6.2006-7453.
+[^34]: D. Divsalar, M. S. Net, and K.-M. Cheung, “Acquisition and tracking for communications between Lunar South Pole and Earth,” in 2019 IEEE Aerospace Conference, Mar. 2019, pp. 1–14. doi: 10.1109/AERO.2019.8742112.
+[^35]: A. Reinhold, A Solar Powered Station at a Lunar Pole. 1990.
+[^36]: J. Biswas, P. Q. Malzone, and F. Rößler, “Energy storage selection and operation for night-time survival of small lunar surface systems,” Acta Astronautica, vol. 185, pp. 308–318, Aug. 2021, doi: 10.1016/j.actaastro.2021.04.042.
+[^37]: A. Petro, “Surviving and Operating Through the Lunar Night,” in 2020 IEEE Aerospace Conference, Mar. 2020, pp. 1–6. doi: 10.1109/AERO47225.2020.9172730.
+[^38]: “Light-Weight Radioisotope Heater Unit | Thermal Systems,” NASA RPS: Radioisotope Power Systems. https://rps.nasa.gov/power-and-thermal-systems/thermal-systems/light-weight-radioisotope-heater-unit (accessed Apr. 04, 2023).
+[^39]: K.-M. Cheung and C. Lee, “Lunar Relay Coverage Analysis for RF and Optical Links,” in 2018 SpaceOps Conference, Marseille, France: American Institute of Aeronautics and Astronautics, May 2018. doi: 10.2514/6.2018-2612.
