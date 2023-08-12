@@ -46,9 +46,9 @@ Understanding the benefits and drawbacks to different arrangements of connection
 
 [MoonDAO](reference/MoonDAO.md) has an interest in stewarding the lunar "commons" in order to achieve a sustainable framework for decentralized governance on the Moon. If [MoonDAO](reference/MoonDAO.md) wishes to contribute to lunar communications architectures, we should understand the interaction between network topology, communication & navigation, and governance.
 
-Performing analysis and research strengthens [MoonDAO](reference/MoonDAO.md)'s capacity to engage with the industry, builds a repository of knowledge, and potentially leads to the creation of engineering tools that could be used for future projects. This is especially true if the conclusions are based on open data and code, and publishing on DeSci to demonstrate reproducibility.
+Performing analysis and research strengthens [MoonDAO](reference/MoonDAO.md)'s capacity to engage with the industry, builds a repository of knowledge, and potentially leads to the creation of engineering tools that could be used for future projects. This is especially true if the conclusions are based on open data and code, and publishing on [DeSci](DeSci%20Labs.md) to demonstrate reproducibility.
 
-The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) has verbally expressed support for this analysis, but has made no commitments as of yet. The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) is a non-profit organization that is dedicated to the development of the Moon. [MoonDAO](reference/MoonDAO.md) is a community-based organization that is also dedicated to the development of the Moon. It will be valuable to establish how the [MoonDAO](reference/MoonDAO.md) community and Open Lunar could work together to receive NASA funding. This will be especially important as [MoonDAO](reference/MoonDAO.md) continues into stage 3 of the roadmap.
+The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) has verbally expressed support for this analysis, but has made no commitments as of yet. The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) is a non-profit organization that is dedicated to the development of the Moon. [MoonDAO](reference/MoonDAO.md) is a community-based organization that is also dedicated to the development of the Moon. It will be valuable to establish how the [MoonDAO](reference/MoonDAO.md) community and [Open Lunar](Open%20Lunar%20Foundation.md) could work together to receive NASA funding. This will be especially important as [MoonDAO](reference/MoonDAO.md) continues into stage 3 of the roadmap.
 
 If NASA awards our proposal funding, we could potentially receive funding to compensate contributors' efforts rather than spending from the DAO's treasury. Receiving an award from NASA would strengthen [MoonDAO](reference/MoonDAO.md)'s reputation as a credible member of the space community.
 
@@ -77,7 +77,7 @@ Key Results for Objective #1: 
 Member(s) responsible for OKR and their role:
 - Philip Linden (Primary Author)
 - Pablo Moncada (Contributing Author)
-- Greg Search (Contributing Author)
+- [[@gregsearch|Greg Search]] (Contributing Author)
 - Gonçalo Esteves (Advisor, Editor) 
 
 **Objective #2:** Set up an internal study based on this NASA NextSTEP-2 solicitation (Study Area #3 only).
@@ -90,7 +90,7 @@ Key Results for Objective #2: 
 Member(s) responsible for OKR and their role:
 - Philip Linden (Primary Author)
 - Pablo Moncada (Contributing Author)
-- Greg Search (Contributing Author)
+- [[@gregsearch|Greg Search]] (Contributing Author)
 
 **Objective #3:** Complete an internal study analyzing relative performance of several network topologies in the context of lunar operations.
 
@@ -101,9 +101,9 @@ Key Results for Objective #3: 
 - Identify areas of future research.
 
 Member(s) responsible for OKR and their role:
-- Philip Linden (Principal Author)
-- Pablo Moncada (Contributing Author)
-- Greg Search (Contributing Author)
+- [[@philiplinden|Philip Linden]] (Principal Author)
+- [[@pmoncada|Pablo Moncada]] (Contributing Author)
+- [[@gregsearch|Greg Search]] (Contributing Author)
   
 ## Team Table (Table A)
 
@@ -112,23 +112,23 @@ Project teams may not need an initial team. It can just be an individual submitt
 |   |   |
 |---|---|
 |Team Rocketeer|[Philip Linden](mailto:lindenphilipj@gmail.com)(@phil)|
-|Initial Team|[Philip Linden](mailto:lindenphilipj@gmail.com)(@phil aka @philiplinden)  <br>Pablo Moncada (@pmoncada)  <br>Greg Search (@greg aka @gregsearch)<br><br>Rod Mamin (@ionrod)|
-|Delegate||
+|Initial Team|[Philip Linden](mailto:lindenphilipj@gmail.com)(@phil aka [[@philiplinden]])  <br>Pablo Moncada (@pmoncada)  <br>[[@greg|Greg Search]] ([[@gregsearch]] aka @gregsearch)<br><br>Rod Mamin (@ionrod)|
+|Delegate|[[@pmoncada]]|
 |Multi Language Representative (optional)|N/A|
 |Multisig signers|N/A|
 |Revenue Split Agreement Address|N/A|
 
-### Team Member: Philip Linden (@phil aka @philiplinden)
+### Team Member: Philip Linden (@phil aka [[@philiplinden]])
 
 Bio: I'm a spacecraft engineer, writer, and all around space nerd. My core values are: Do Good, Be Collaborative, Dream Big, Strive for Openness, and Take Pride in Every Task. My professional experience includes R&D engineering for SpaceX (Mechanical/Reusability Engineering for Dragon Capsule), R&D engineering for Lockheed Martin Space (Electro-Optical engineer), Mission Operations for Planet Labs (Space Systems Engineer), and research for [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) (Fellow).
 ### Team Member: Rod Mamin (@ionrod @difint)
 
-Bio: Rod Mamin is a systems engineer, with commercial experience building and sending robots for the Moon, Founder of LunCo.Space, Grantee on DeSci& OSS Gitcoin GR15, Alpha, Beta rounds, exSpace Engineering Guild Steward
-### Team Member: Pablo Moncada (@pmoncada)
+Bio: Rod Mamin is a systems engineer, with commercial experience building and sending robots for the Moon, Founder of LunCo.Space, Grantee on [DeSci](DeSci%20Labs.md) & OSS Gitcoin GR15, Alpha, Beta rounds, exSpace Engineering Guild Steward
+### Team Member: Pablo Moncada ([[@pmoncada]])
 
 Bio: Pablo is the founder of [MoonDAO](reference/MoonDAO.md). Academic background in Computer Science, Mechanical Engineering, Business. Previously worked as a Software Engineer at YouTube (VR/TV), Waymo (ML Perception), Meta (Distributed Systems for Ads Infra), and research/startups in the biotech industry (Tissue Engineering, Bioreactors).
 
-### Team Member: Greg Search (@gregsearch)
+### Team Member: Greg Search ([[@gregsearch]])
 
 Bio: Greg holds a Bachelor’s degree in Mathematics and Aeronautical Engineering, and a Master’s in Electrical Engineering. He helped early research in the Low Cost Attritable Aircraft Technology (LCAAT) program which became Skyborg. His research focuses mainly in aerospace, including: magnetic navigation, laser air data systems, and more. 
 
@@ -140,7 +140,7 @@ Bio: Greg holds a Bachelor’s degree in Mathematics and Aeronautical Engineerin
 |2023-08-14|Share the planned objectives, methods, and hypotheses with the [MoonDAO](reference/MoonDAO.md) community for review and feedback. Begin analysis.|
 |2023-08-31|Freeze scope of analysis. Note unexplored areas of research as potential future work.|
 |2023-09-30|Share summary of analysis so far. What has been done, what was learned, results if any.|
-|2023-10-31|Publish a manuscript, code, and data on DeSci discussing the analysis and results.|
+|2023-10-31|Publish a manuscript, code, and data on [DeSci](DeSci%20Labs.md) discussing the analysis and results.|
 
 **Deadline for the project: End of Q3**
   
@@ -157,4 +157,4 @@ Retroactive rewards only.
 
 This is only required if your project requires up-front funding from [MoonDAO](reference/MoonDAO.md) or it is going to crowd-raise with support from [MoonDAO](reference/MoonDAO.md).
   
-Senate Member Signature #1 _pmoncada_
+Senate Member Signature #1:: [[@pmoncada]]
