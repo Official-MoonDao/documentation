@@ -3,13 +3,13 @@ tags: notes
 ---
 > [!warning]
 > This document was originally authored as part of the Space Engineering Guild project in April 2023, not the Lunar Comms project.
-
-link:: https://docs.google.com/document/d/1Wj4L7IGK1iwLjSjg0FwqYjgjxByOaWxGbJ5iSWf9pE8/edit
 # A Primer on Future Lunar Communications Infrastructures & Related Challenges
 
 Author:: [[@philiplinden|Philip Linden]]
-Space Engineering Guild, MoonDAO
+Space Engineering Guild, [[MoonDAO]]
 Apr 4, 2023
+
+link:: https://docs.google.com/document/d/1Wj4L7IGK1iwLjSjg0FwqYjgjxByOaWxGbJ5iSWf9pE8/edit
 
 > [!note] Abstract
 > There is a lot of interest and necessity for lunar communications infrastructure, but so far most endeavors are experimental, expensive, or difficult to access. There is lots of new technology and a ton of potential for developing new business and governance models. This topic is still nascent and is growing rapidly―there are no clear answers, and that means there's still a lot we can explore.
@@ -22,7 +22,7 @@ First, the Moon is very far away from Earth. The average distance between the Ea
 
 Second, the Moon has no atmosphere. This means that there is nothing to block or absorb radio signals. As a result, radio signals from the Earth can be easily scattered by the Moon's surface, unlike on Earth where radio signals can bounce around in the atmosphere to the other side of the globe.[^1] Moreover, the Moon has no magnetic field. This means that the Moon is not protected from the solar wind. The solar wind is a stream of charged particles from the Sun. The solar wind can interfere with radio signals.
 
-All of these factors make telecommunications difficult at and around the Moon. However, there are a number of technologies that can be used to overcome these challenges. For example, high-gain antennas or lasers can be used to focus signals and improve reception [[2], [3]](https://www.zotero.org/google-docs/?WlOzaM). Delay- and disruption-tolerant networking protocols can be used to make connections more resilient [[4], [5]](https://www.zotero.org/google-docs/?YxoAKu). And much more [[6]–[10]](https://www.zotero.org/google-docs/?7QeQ9m).
+All of these factors make telecommunications difficult at and around the Moon. However, there are a number of technologies that can be used to overcome these challenges. For example, high-gain antennas or lasers can be used to focus signals and improve reception.[^2][^3] Delay- and disruption-tolerant networking protocols can be used to make connections more resilient. [^4][^5] And much more. [^6][^7][^8][^9][^10]
 
 ## Restricted to the privileged few
 
@@ -32,7 +32,7 @@ Today, NASA's Deep Space Network (DSN) and other state-owned equivalents are the
 
 Even with a network to use, the technology needed to interface with it is still relatively expensive and/or nascent [[9], [14]–[16]](https://www.zotero.org/google-docs/?JlYwJT). Looking at the landscape of low Earth-orbit (LEO) satellite missions before and after the introduction of the CubeSat standard, it is clear that the barrier to entry for space missions is, well, the barrier itself! An accessible platform for conducting missions in space―such as open reference designs, commodity components, and standardized interfaces―can bootstrap an entire thriving industry that would be otherwise infeasible for all but the largest institutions [[17], [18]](https://www.zotero.org/google-docs/?cipVfu).
 
-The number of missions that plan to operate on and around the Moon is large and growing every day [[19]](https://www.zotero.org/google-docs/?a5trWS). It is clear that more communications infrastructure is needed in order to sustain a diverse, multi-national ecosystem of public and private/commercial lunar activities.
+The number of missions that plan to operate on and around the Moon is large and growing every day [[19]](https://www.zotero.org/google-docs/?a5trWS). It is clear that more communications infrastructure is needed in order to sustain a diverse, multi-national ecosystem of public and private/commercial lunar activities. 
 
 # Governance & policy is unproven and untested
 
@@ -64,30 +64,15 @@ Private & Commercial missions: [[26]–[28]](https://www.zotero.org/google-docs/
 ## Selected relevant technologies
 
 - Modular, commoditized optical terminals that don't need a priori knowledge of where the origin of the signal is coming from: [[16]](https://www.zotero.org/google-docs/?PO6RM9)
-    
-
-- The spacecraft is divided into many small, steerable optical terminals facing out in many directions. Once the terminal determines where the signal is coming from, it can form a two-way link by selecting the module most closely aligned to the signal's origin, then using a steering mirror for fine pointing to maintain the link. The spacecraft bus remains still and does not need to perform a rotational slew to establish or maintain a link.
-    
-- The terminals have many diodes that figure out on-the-fly where a signal is coming from, just like how an HTC Vive determines its location in a room from being illuminated. The terminal does not need to know any information about where the transmission originated in order to establish a link.
-    
-- Since there are modules with transmitters in every direction, the terminal can establish a link with another spacecraft in any arbitrary direction. Theoretically, it could also maintain a link even if the other craft moves across the terminal's local sky.
-    
-
+	- The spacecraft is divided into many small, steerable optical terminals facing out in many directions. Once the terminal determines where the signal is coming from, it can form a two-way link by selecting the module most closely aligned to the signal's origin, then using a steering mirror for fine pointing to maintain the link. The spacecraft bus remains still and does not need to perform a rotational slew to establish or maintain a link.
+	- The terminals have many diodes that figure out on-the-fly where a signal is coming from, just like how an HTC Vive determines its location in a room from being illuminated. The terminal does not need to know any information about where the transmission originated in order to establish a link.
+	- Since there are modules with transmitters in every direction, the terminal can establish a link with another spacecraft in any arbitrary direction. Theoretically, it could also maintain a link even if the other craft moves across the terminal's local sky.
 - Terrestrial dishes capable of communicating with cislunar spacecraft are entering the commercial sector of the industry: [[28]](https://www.zotero.org/google-docs/?d404yt)
-    
-
-- When services are provided by commercial entities, the ecosystem is ripe for competition and innovation.
-    
-- More service providers mean more access.
-    
-
+	- When services are provided by commercial entities, the ecosystem is ripe for competition and innovation.
+	- More service providers mean more access.
 - New network protocols allow intermediate links in a network to attach "ephemeral" information to packets as they move through the network, without reading the entire contents of the packet: [[29]–[32]](https://www.zotero.org/google-docs/?J0j9FF)
-    
-
-- For example, consider a situation where two intermediate nodes encrypt a packet and the terminal nodes (separately) encrypt the data. In this example, the transmission between two nodes may be encrypted and decrypted along the way in order to securely send a packet, while keeping the contents of the packet only readable to the end user.
-    
-- This opens the door for third-party relay systems to intelligently and securely hold-and-pass data around in a delay/disruption-tolerant network.
-    
+	- For example, consider a situation where two intermediate nodes encrypt a packet and the terminal nodes (separately) encrypt the data. In this example, the transmission between two nodes may be encrypted and decrypted along the way in order to securely send a packet, while keeping the contents of the packet only readable to the end user.
+	- This opens the door for third-party relay systems to intelligently and securely hold-and-pass data around in a delay/disruption-tolerant network.
 
 ## What about a near-side lunar surface installation?
 
@@ -102,28 +87,14 @@ Publications discussing continuous communication to lunar poles: [[33]–[35]](h
 Below is a list of considerations that we'd need to look into before a mission like this could be declared feasible with confidence:
 
 - Lunar night. The Moon is tidally locked to the Earth, but it still rotates with respect to the Sun. The "dark side" of the Moon is only actually dark half the time, the other half of the time it is lit by the Sun just not visible from Earth (new Moon, remember?). A lunar night lasts for about 23.5 Earth days. The poles are so desirable as a location for lunar activity because if you're at the pole it doesn't take much to get back in the sunlight―if a spacecraft is located at the lunar equator it has to wait out the whole lunar night.
-    
-
 - The lunar night is a really harsh environment for spacecraft―23.5 Earth days of perpetual darkness with temperatures as low as -130C the whole time. Typical operating temperatures for most electronics are between -30 and 90C, so a heater would have to be working overtime to keep the system alive through the night, and the power system would have to support that kind of load without solar energy [[36], [37]](https://www.zotero.org/google-docs/?ShGI6W).
-    
 - Even if the spacecraft was equipped with a bangin' heater, that heat doesn't come for free. 
-    
-
 - Electric resistive heaters have a typical power efficiency of 80% (0.8W of heat is generated for every 1W of energy consumed) so the spacecraft would have to store enormous amounts of charge to last the whole night. That energy would be able to be used by other systems in daylight periods, but more than likely the system would have to spend all its power on heaters during the night. This situation has killed a number of lunar missions over the years.
-    
 - Radioisotope thermal generators (RTGs) produce heat on their own through radioactive decay, and the heat is converted to electric charge and spread around the thermal control system [[38]](https://www.zotero.org/google-docs/?hjdVgO). This would enable nighttime operations from both a thermal and a power perspective. Sounds like a great idea, but RTGs are super expensive and not easy to get. 
-    
-
 - Visibility to other actors. Establishing a link to Earth is one objective for a lunar communications relay, but another objective is to link to other lunar actors. Here's a discussion on the topic of visibility and link access for various orbits and latitudes of the lunar surface: [[39]](https://www.zotero.org/google-docs/?i62tm6)
-    
 
 # References
 
-
-
-[[2] T. Araki, “A trade-off study of lunar-earth optical communication links,” in International Conference on Space Optics — ICSO 2020, SPIE, Jun. 2021, pp. 811–819. doi: 10.1117/12.2599331.](https://www.zotero.org/google-docs/?2ltKOY)
-
-[[3] W. Raza et al., “Toward a Hybrid RF/Optical Lunar Communication System (LunarComm),” IEEE Network, vol. 36, no. 6, pp. 76–83, Nov. 2022, doi: 10.1109/MNET.103.2100419.](https://www.zotero.org/google-docs/?2ltKOY)
 
 [[4] C. Caini and V. Fiore, “Moon to earth DTN communications through lunar relay satellites,” in 2012 6th Advanced Satellite Multimedia Systems Conference (ASMS) and 12th Signal Processing for Space Communications Workshop (SPSC), Sep. 2012, pp. 89–95. doi: 10.1109/ASMS-SPSC.2012.6333112.](https://www.zotero.org/google-docs/?2ltKOY)
 
@@ -200,4 +171,7 @@ Below is a list of considerations that we'd need to look into before a mission l
   
 **
 
-[^1]: [[@zotero-336| “Radio’s First Message -- Fessenden and Marconi.” https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html (accessed Apr. 04, 2023).]] 
+[^1]: [[@zotero-336]] "Radio's First Message -- Fessenden and Marconi." https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html (accessed Apr. 04, 2023).
+[^2]: [[@Araki2021]] T. Araki, “A trade-off study of lunar-earth optical communication links,” in International Conference on Space Optics — ICSO 2020, SPIE, Jun. 2021, pp. 811–819. doi: 10.1117/12.2599331.
+[^3]: [[@RazaEtAl2022]] W. Raza et al., “Toward a Hybrid RF/Optical Lunar Communication System (LunarComm),” IEEE Network, vol. 36, no. 6, pp. 76–83, Nov. 2022, doi: 10.1109/MNET.103.2100419.
+[^4]: 

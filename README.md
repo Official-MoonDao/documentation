@@ -21,7 +21,7 @@ The following [core plugins](https://help.obsidian.md/Plugins/Core+plugins) are 
 - [Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync)
 - [Templates](https://help.obsidian.md/Plugins/Templates)
 
-If Obsidian Sync is installed and your vault i[[@FlaneganEtAl2008]]s connected to the shared remote vault, the following settings are preferred:
+If Obsidian Sync is installed and your vault is connected to the shared remote vault, the following settings are preferred:
 
 - [x] Sync images
 - [ ] Sync audio
