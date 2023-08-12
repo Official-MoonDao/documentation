@@ -4,7 +4,7 @@ Obsidian vault for [MoonDAO](MoonDAO.md) MoonDAO engineering research related to
 This repository is an [Obsidian vault](https://help.obsidian.md/Home) used to organize notes and research.
 
 ### How do I use this vault?
-1. **[Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync).** Contact [[@philiplinden]] to be invited to connect to the shared remote vault.
+1. **[Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync).** Contact [@philiplinden](reference/@philiplinden.md) to be invited to connect to the shared remote vault.
 2. **Git + [Obsidian Git](https://github.com/denolehov/obsidian-git) plugin.** Clone the repository and pull/push changes with conventional git commands. The [Obsidian Git](https://github.com/denolehov/obsidian-git) plugin streamlines automatic commits and syncing to the remote.
 ## Recommended Obsidian Settings
 

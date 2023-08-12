@@ -5,7 +5,7 @@
 [Link to proposal on Google Docs](https://docs.google.com/document/d/13OKGTcY7E_8SW2YD9gcRXCAEBr1VexCsowVhaheWaVg/edit)
 ## Abstract
 
-Write a proposal for NASA's NextSTEP-2 solicitation and submit it by August 7, 2023 with the goal of receiving funding to research Mesh, Star, Unstructured, and Hybrid network topologies for lunar communications.
+Write a proposal for [[NASA]]'s NextSTEP-2 solicitation and submit it by August 7, 2023 with the goal of receiving funding to research Mesh, Star, Unstructured, and Hybrid network topologies for lunar communications.
 
 > [!info] Revisions
 > 
@@ -15,7 +15,7 @@ Write a proposal for NASA's NextSTEP-2 solicitation and submit it by August 7, 2
 > |2023-08-07|- Removed NextSTEP-2 proposal submission from OKRs.<br>    <br>- Restructured objective to be an internal technical study.<br>    <br>- Added "unstructured" networks to the list of topologies to be analyzed.|NextSTEP-2 proposal submission deadline has passed.|
 
 ## Problem Statement
-NASA is offering up to $800k to fund industry-led studies of, among a couple of other topics, "Constellation Topology Analysis" to inform future communication and navigation activities. The solicitation asks for a proposed approach to analyze Mesh, Star, and Hybrid network topologies.
+[[NASA]] is offering up to $800k to fund industry-led studies of, among a couple of other topics, "Constellation Topology Analysis" to inform future communication and navigation activities. The solicitation asks for a proposed approach to analyze Mesh, Star, and Hybrid network topologies.
 
 See Enclosure A, Study Area 3: [https://sam.gov/opp/afe50c193c8140a7a1a64878b3d69df4/view](https://sam.gov/opp/afe50c193c8140a7a1a64878b3d69df4/view)
 
@@ -48,9 +48,9 @@ Understanding the benefits and drawbacks to different arrangements of connection
 
 Performing analysis and research strengthens [MoonDAO](reference/MoonDAO.md)'s capacity to engage with the industry, builds a repository of knowledge, and potentially leads to the creation of engineering tools that could be used for future projects. This is especially true if the conclusions are based on open data and code, and publishing on [DeSci](DeSci%20Labs.md) to demonstrate reproducibility.
 
-The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) has verbally expressed support for this analysis, but has made no commitments as of yet. The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) is a non-profit organization that is dedicated to the development of the Moon. [MoonDAO](reference/MoonDAO.md) is a community-based organization that is also dedicated to the development of the Moon. It will be valuable to establish how the [MoonDAO](reference/MoonDAO.md) community and [Open Lunar](Open%20Lunar%20Foundation.md) could work together to receive NASA funding. This will be especially important as [MoonDAO](reference/MoonDAO.md) continues into stage 3 of the roadmap.
+The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) has verbally expressed support for this analysis, but has made no commitments as of yet. The [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) is a non-profit organization that is dedicated to the development of the Moon. [MoonDAO](reference/MoonDAO.md) is a community-based organization that is also dedicated to the development of the Moon. It will be valuable to establish how the [MoonDAO](reference/MoonDAO.md) community and [Open Lunar](Open%20Lunar%20Foundation.md) could work together to receive [[NASA]] funding. This will be especially important as [MoonDAO](reference/MoonDAO.md) continues into stage 3 of the roadmap.
 
-If NASA awards our proposal funding, we could potentially receive funding to compensate contributors' efforts rather than spending from the DAO's treasury. Receiving an award from NASA would strengthen [MoonDAO](reference/MoonDAO.md)'s reputation as a credible member of the space community.
+If [[NASA]] awards our proposal funding, we could potentially receive funding to compensate contributors' efforts rather than spending from the DAO's treasury. Receiving an award from [[NASA]] would strengthen [MoonDAO](reference/MoonDAO.md)'s reputation as a credible member of the space community.
 
 ## Risks
 
@@ -58,7 +58,7 @@ If NASA awards our proposal funding, we could potentially receive funding to com
    > [!failure] Missed deadline
    > This risk was realized―[MoonDAO](reference/MoonDAO.md) did not submit a proposal.
 
-1. There are insurmountable legal roadblocks that prevent [MoonDAO](reference/MoonDAO.md) from being awarded NASA funds. It would be helpful to understand what obstacles lie in the way for [MoonDAO](reference/MoonDAO.md) to receive NASA funding. For example, an acceptable outcome would be to learn for certain whether [MoonDAO](reference/MoonDAO.md) can be awarded funds directly,  and if it is necessary to use another entity (such as [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) or another partner) as a legal proxy. The MIDAO status is not complete, so [MoonDAO](reference/MoonDAO.md) doesn't currently have an official entity in real life that can receive funds directly.
+1. There are insurmountable legal roadblocks that prevent [MoonDAO](reference/MoonDAO.md) from being awarded [[NASA]] funds. It would be helpful to understand what obstacles lie in the way for [MoonDAO](reference/MoonDAO.md) to receive [[NASA]] funding. For example, an acceptable outcome would be to learn for certain whether [MoonDAO](reference/MoonDAO.md) can be awarded funds directly,  and if it is necessary to use another entity (such as [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) or another partner) as a legal proxy. The MIDAO status is not complete, so [MoonDAO](reference/MoonDAO.md) doesn't currently have an official entity in real life that can receive funds directly.
 ## Objectives and Key Results:
 
 You can write as many OKRs as you think are needed. One OKR is fine if that captures the full extent of what you want to achieve. One focused goal is preferred instead of many. Objectives should use SMART principles (Specific, Measurable, Achievable, Relevant, and Time-Bound).
@@ -66,11 +66,11 @@ You can write as many OKRs as you think are needed. One OKR is fine if that capt
 ~~**Objective #1:** Complete a proposal for this NextSTEP-2 solicitation (Study Area #3 only).~~ 
 
 > [!failure] Removed
-> This objective has been removed since the deadline has passed and we did not submit a proposal to NASA.
+> This objective has been removed since the deadline has passed and we did not submit a proposal to [[NASA]].
 
 Key Results for Objective #1: 
 - Create an outline of the effort and tools needed to complete a network topology analysis.
-- Determine how much funding to ask from NASA as part of this project.
+- Determine how much funding to ask from [[NASA]] as part of this project.
 - Create a proposal from the outline that meets the NextSTEP-2 submission requirements.
 - Submit the proposal before August 7, 2023.
 
@@ -80,7 +80,7 @@ Member(s) responsible for OKR and their role:
 - [[@gregsearch|Greg Search]] (Contributing Author)
 - Gonçalo Esteves (Advisor, Editor) 
 
-**Objective #2:** Set up an internal study based on this NASA NextSTEP-2 solicitation (Study Area #3 only).
+**Objective #2:** Set up an internal study based on this [[NASA]] NextSTEP-2 solicitation (Study Area #3 only).
 
 Key Results for Objective #2: 
 - Create an outline of the effort and tools needed to complete a network topology analysis.
