@@ -1,11 +1,8 @@
 # Lunar Communications Network Topology Analysis (Internal Research Study) Proposal
 
-  
-
-Author: [Philip Linden](mailto:lindenphilipj@gmail.com)
-
-Date: 2023-08-07
-
+**Author:** [Philip Linden](mailto:lindenphilipj@gmail.com)
+**Date:** 2023-08-07
+[Link to proposal on Google Docs](https://docs.google.com/document/d/13OKGTcY7E_8SW2YD9gcRXCAEBr1VexCsowVhaheWaVg/edit)
 ## Abstract
 
 Write a proposal for NASA's NextSTEP-2 solicitation and submit it by August 7, 2023 with the goal of receiving funding to research Mesh, Star, Unstructured, and Hybrid network topologies for lunar communications.
