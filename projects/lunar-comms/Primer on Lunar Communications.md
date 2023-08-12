@@ -4,6 +4,7 @@ tags: notes
 > [!warning]
 > This document was originally authored as part of the Space Engineering Guild project in April 2023, not the Lunar Comms project.
 
+link:: https://docs.google.com/document/d/1Wj4L7IGK1iwLjSjg0FwqYjgjxByOaWxGbJ5iSWf9pE8/edit
 # A Primer on Future Lunar Communications Infrastructures & Related Challenges
 
 Author:: [[@philiplinden|Philip Linden]]
@@ -19,7 +20,7 @@ Apr 4, 2023
 
 First, the Moon is very far away from Earth. The average distance between the Earth and the Moon is about 384,400 kilometers―nearly ten times further than the distance from Earth to GPS satellites. This means that radio signals take about two and a half seconds to travel from the Earth to the Moon and back. When a communication signal is sent through cislunar space, the beam spreads out and the intensity of the signal becomes weaker [proportionally to the square of the distance traveled](https://en.wikipedia.org/wiki/Inverse-square_law). Because the Moon is so far away, the transmitted signals must either be very powerful or must be aimed with very good accuracy to be received at the other end.
 
-Second, the Moon has no atmosphere. This means that there is nothing to block or absorb radio signals. As a result, radio signals from the Earth can be easily scattered by the Moon's surface, unlike on Earth where radio signals can bounce around in the atmosphere to the other side of the globe [[1]]([[@zotero-336]]). Moreover, the Moon has no magnetic field. This means that the Moon is not protected from the solar wind. The solar wind is a stream of charged particles from the Sun. The solar wind can interfere with radio signals.
+Second, the Moon has no atmosphere. This means that there is nothing to block or absorb radio signals. As a result, radio signals from the Earth can be easily scattered by the Moon's surface, unlike on Earth where radio signals can bounce around in the atmosphere to the other side of the globe.[^1] Moreover, the Moon has no magnetic field. This means that the Moon is not protected from the solar wind. The solar wind is a stream of charged particles from the Sun. The solar wind can interfere with radio signals.
 
 All of these factors make telecommunications difficult at and around the Moon. However, there are a number of technologies that can be used to overcome these challenges. For example, high-gain antennas or lasers can be used to focus signals and improve reception [[2], [3]](https://www.zotero.org/google-docs/?WlOzaM). Delay- and disruption-tolerant networking protocols can be used to make connections more resilient [[4], [5]](https://www.zotero.org/google-docs/?YxoAKu). And much more [[6]–[10]](https://www.zotero.org/google-docs/?7QeQ9m).
 
@@ -118,7 +119,7 @@ Below is a list of considerations that we'd need to look into before a mission l
 
 # References
 
-[[1] “Radio’s First Message -- Fessenden and Marconi.” https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html (accessed Apr. 04, 2023).](https://www.zotero.org/google-docs/?2ltKOY)
+
 
 [[2] T. Araki, “A trade-off study of lunar-earth optical communication links,” in International Conference on Space Optics — ICSO 2020, SPIE, Jun. 2021, pp. 811–819. doi: 10.1117/12.2599331.](https://www.zotero.org/google-docs/?2ltKOY)
 
@@ -198,3 +199,5 @@ Below is a list of considerations that we'd need to look into before a mission l
 
   
 **
+
+[^1]: [[@zotero-336| “Radio’s First Message -- Fessenden and Marconi.” https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html (accessed Apr. 04, 2023).]] 
