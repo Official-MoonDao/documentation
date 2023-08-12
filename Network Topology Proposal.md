@@ -54,11 +54,11 @@ If NASA awards our proposal funding, we could potentially receive funding to com
 
 ## Risks
 
-1. We don't submit time, or we don't receive an award. The consequence of this is that we miss out on an opportunity to bring funding to the DAO, and would not be able to compensate contributors for their engineering effort. All the materials generated from this proposal could be reused in future work. This risk was realized―[MoonDAO](reference/MoonDAO.md) did not submit a proposal.
-    
-2. There are insurmountable legal roadblocks that prevent [MoonDAO](reference/MoonDAO.md) from being awarded NASA funds. It would be helpful to understand what obstacles lie in the way for [MoonDAO](reference/MoonDAO.md) to receive NASA funding. For example, an acceptable outcome would be to learn for certain whether [MoonDAO](reference/MoonDAO.md) can be awarded funds directly,  and if it is necessary to use another entity (such as [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) or another partner) as a legal proxy. The MIDAO status is not complete, so [MoonDAO](reference/MoonDAO.md) doesn't currently have an official entity in real life that can receive funds directly.
-    
+1. We don't submit time, or we don't receive an award. The consequence of this is that we miss out on an opportunity to bring funding to the DAO, and would not be able to compensate contributors for their engineering effort. All the materials generated from this proposal could be reused in future work.
+   > [!failure] Missed deadline
+   > This risk was realized―[MoonDAO](reference/MoonDAO.md) did not submit a proposal.
 
+1. There are insurmountable legal roadblocks that prevent [MoonDAO](reference/MoonDAO.md) from being awarded NASA funds. It would be helpful to understand what obstacles lie in the way for [MoonDAO](reference/MoonDAO.md) to receive NASA funding. For example, an acceptable outcome would be to learn for certain whether [MoonDAO](reference/MoonDAO.md) can be awarded funds directly,  and if it is necessary to use another entity (such as [Open Lunar Foundation](reference/Open%20Lunar%20Foundation.md) or another partner) as a legal proxy. The MIDAO status is not complete, so [MoonDAO](reference/MoonDAO.md) doesn't currently have an official entity in real life that can receive funds directly.
 ## Objectives and Key Results:
 
 You can write as many OKRs as you think are needed. One OKR is fine if that captures the full extent of what you want to achieve. One focused goal is preferred instead of many. Objectives should use SMART principles (Specific, Measurable, Achievable, Relevant, and Time-Bound).
