@@ -9,9 +9,9 @@ Please configure your Obsidian settings to place new attachments in the `media-f
 ### 1. Open `Files & Links` settings
 Open your local Obsidian vault settings and choose the _Files & Links_ tab.
 
-![[Pasted image 20230811210329.png]]
+![](media-files/Pasted%20image%2020230811210329.png)
 
 ### 2. Configure attachment settings
 Set the default location for new attachments to be _In the folder specified below_. Then specify `media-files` as the attachment folder path.
 
-![[Pasted image 20230811210521.png]]
+![](media-files/Pasted%20image%2020230811210521.png)
