@@ -1,3 +1,6 @@
+---
+tags: notes
+---
 # Lunar Communications Network Topology Analysis (Internal Research Study) Proposal
 
 **Author:** [Philip Linden](mailto:lindenphilipj@gmail.com)

@@ -12,3 +12,4 @@ tags: journal
 	- Zotero Integration allows more granular control over what is included in the note and how the template is formatted.
 	- Neither allow direct embedding of the PDF file though, so I went with Citations.
 - I also created [[Home.canvas|Home]] as a homepage for the project. Not sure how to effectively use canvas yet.
+- [[@pmoncada]] suggested doing a reading list before the first meeting. Great idea.

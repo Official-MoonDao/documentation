@@ -1,0 +1,19 @@
+---
+tags: citations
+alias: The Deep Space Network Scheduling Problem
+---
+# The Deep Space Network Scheduling Problem
+
+**Bradley J Clement, Mark D Johnston**
+
+
+link:: 
+doi:: 
+
+> [!info] Abstract
+> We describe the Deep Space Network’s scheduling problem based on a user requirement language. The problem is difficult to encode by almost all existing planning and scheduling systems. We describe how it can be mapped into a system that supports metric resources, durative action, simple temporal network constraints, and task hierarchy among other language features. We also describe how we adapted a local search scheduler to generate schedules. However, we argue that the application will best serve the users if local search is combined with systematic search. We describe how an implemented systematic search can be effectively applied to rescheduling.
+
+
+
+## Notes
+
