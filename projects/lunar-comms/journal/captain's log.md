@@ -13,3 +13,4 @@ tags: journal
 	- Neither allow direct embedding of the PDF file though, so I went with Citations.
 - I also created [[Home.canvas|Home]] as a homepage for the project. Not sure how to effectively use canvas yet.
 - [[@pmoncada]] suggested doing a [[reading list]] before the first meeting. Great idea.
+- Finished migrating existing docs to Obsidian and submitted [dework task for review](https://app.dework.xyz/moondao/lunar-comms?taskId=e31ba2e0-a411-4af2-98e6-e9df93704ee8). Created [[Reading List]] and [dework task/subtasks](https://app.dework.xyz/moondao/lunar-comms?taskId=6e646842-811f-490d-93be-2e812974d1f9).
