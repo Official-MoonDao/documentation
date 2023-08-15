@@ -20,6 +20,16 @@ tags: journal
 - A note on the [[Cis Lunar Open Clock (CLOC)|time sync project]]: this network topology work came out of my whitepaper on timekeeping (@LindenEtAl2023), specifically when I discussed "how would the time actually be shared among actors"? The CLOC addresses the other part -- a stable time source local to the moon. They are absolutely related, but can be tackled as parallel/independent projects. Think of it like CLOC being the time, and the topology work being how time is propagated among peers.
 - Today I made a good connection here, [https://www.a-v-s.es/home](https://www.a-v-s.es/home "https://www.a-v-s.es/home"). They (https://www.linkedin.com/in/ramonbm/) were excited by my pitch for decentralized networking/comms/utilities and are feeling out lunar missions. Keep them in back pocket when we're ready to pitch lunar comms or the open clock
 - [[@gregsearch|greg]] downloaded the [[Reading List]] papers as pdfs and uploaded them to dework. I added them to Obsidian.
+- [[Gonçalo Esteves]] sent us the following tip:
+  > [!tip] from Gonçalo
+  > Hi, there are a set of resources and potential proposals to look into, me and Daniel Thompkins just won 1st phase of the NASA entrepreneurship challenge and now working for 2nd phase.
+  > I believe I can help this group the same way. Let me know about your interest on:
+  > - Establish a calendar and proposal schedule 
+  > - Creating articles and artifacts that are interchangeable 
+  > - Having a recurrent weekly meeting to review, track and discuss progress 
+  >
+  > Announcement here: https://www.herox.com/NASAEntrepreneurChallenge/update/5852
+  > One Giant Leap for Life:Moon Demonstration Garden by "Daniel Tompkins and Gonçalo Esteves
 
 [[@gregsearch]]
 - For the [[Publish a reproducible work on DeSci Labs|DeSci node]]: I'll nominate [[@RazaEtAl2022]] about hybrid RF/optical lunar comms. It gives interpretable adv/disadv to designs so I'd expect it referenced often.
