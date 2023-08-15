@@ -33,3 +33,6 @@ tags: journal
 
 [[@gregsearch]]
 - For the [[Publish a reproducible work on DeSci Labs|DeSci node]]: I'll nominate [[@RazaEtAl2022]] about hybrid RF/optical lunar comms. It gives interpretable adv/disadv to designs so I'd expect it referenced often.
+# 2023-08-15
+- [[Meeting - 2023-08-15]]
+- new lead on something to work on ![[DARPA - A Framework for Optimized, Integrated Lunar Infrastructure]]
