@@ -2,10 +2,12 @@
 	"nodes":[
 		{"type":"file","file":"projects/lunar-comms/Network Topology Proposal.md","id":"92a28bab80128405","x":-1099,"y":-900,"width":679,"height":108},
 		{"type":"file","file":"projects/lunar-comms/Lunar Comms Project Home.md","id":"decba5f4bab53e93","x":-800,"y":-700,"width":760,"height":240},
-		{"id":"d110a7b7f5e38d96","x":100,"y":-800,"width":700,"height":420,"type":"file","file":"projects/lunar-comms/journal/Reading List.md"}
+		{"type":"file","file":"projects/lunar-comms/journal/Reading List.md","id":"d110a7b7f5e38d96","x":100,"y":-800,"width":700,"height":420},
+		{"id":"8c2a67d4ba2ab0c0","x":-340,"y":-380,"width":400,"height":120,"color":"4","type":"file","file":"projects/lunar-comms/journal/captain's log.md"}
 	],
 	"edges":[
 		{"id":"dcb4c82388b9aa3b","fromNode":"92a28bab80128405","fromSide":"bottom","toNode":"decba5f4bab53e93","toSide":"top"},
-		{"id":"07ab4d8f401cc660","fromNode":"decba5f4bab53e93","fromSide":"right","toNode":"d110a7b7f5e38d96","toSide":"left"}
+		{"id":"07ab4d8f401cc660","fromNode":"decba5f4bab53e93","fromSide":"right","toNode":"d110a7b7f5e38d96","toSide":"left"},
+		{"id":"55f761492f3aa94c","fromNode":"decba5f4bab53e93","fromSide":"bottom","toNode":"8c2a67d4ba2ab0c0","toSide":"left"}
 	]
 }

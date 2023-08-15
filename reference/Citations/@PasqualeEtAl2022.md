@@ -17,3 +17,4 @@ doi:: 10.1016/j.actaastro.2022.06.004
 
 ## Notes
 
+[[@gregsearch|@greg]]: The Cis-lunar architecture paper by Pasquale (first in list) calls out adding platform specific constraints (slant range, angle, antenna bandwidth, frequency) as a possible follow adjustment to the optimization they ran. If we wanted to go pure research, this could be a way.
