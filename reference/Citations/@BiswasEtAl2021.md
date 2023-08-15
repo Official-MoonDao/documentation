@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Energy storage selection and operation for night-time survival of small lunar surface systems
 ---
 # Energy storage selection and operation for night-time survival of small lunar surface systems
 

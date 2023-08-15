@@ -19,6 +19,7 @@ tags: journal
 [[@philiplinden]] 
 - A note on the [[Cis Lunar Open Clock (CLOC)|time sync project]]: this network topology work came out of my whitepaper on timekeeping (@LindenEtAl2023), specifically when I discussed "how would the time actually be shared among actors"? The CLOC addresses the other part -- a stable time source local to the moon. They are absolutely related, but can be tackled as parallel/independent projects. Think of it like CLOC being the time, and the topology work being how time is propagated among peers.
 - Today I made a good connection here, [https://www.a-v-s.es/home](https://www.a-v-s.es/home "https://www.a-v-s.es/home"). They (https://www.linkedin.com/in/ramonbm/) were excited by my pitch for decentralized networking/comms/utilities and are feeling out lunar missions. Keep them in back pocket when we're ready to pitch lunar comms or the open clock
+- [[@gregsearch|greg]] downloaded the [[Reading List]] papers as pdfs and uploaded them to dework. I added them to Obsidian.
 
 [[@gregsearch]]
 - For the [[Publish a reproducible work on DeSci Labs|DeSci node]]: I'll nominate [[@RazaEtAl2022]] about hybrid RF/optical lunar comms. It gives interpretable adv/disadv to designs so I'd expect it referenced often.

@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Lunar Relay Coverage Analysis for RF and Optical Links
 ---
 # Lunar Relay Coverage Analysis for RF and Optical Links
 

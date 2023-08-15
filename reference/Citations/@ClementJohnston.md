@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: The Deep Space Network Scheduling Problem
 ---
 # The Deep Space Network Scheduling Problem
 

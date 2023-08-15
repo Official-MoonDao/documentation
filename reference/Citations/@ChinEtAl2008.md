@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Standardization Promotes Flexibility: A Review of CubeSats’ Success
 ---
 # Standardization Promotes Flexibility: A Review of CubeSats’ Success
 

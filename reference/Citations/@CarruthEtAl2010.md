@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: A Collaborative Scheduling Environment for NASA's Deep Space Network
+tags: citations, nasa
 ---
 # A Collaborative Scheduling Environment for NASA's Deep Space Network
 

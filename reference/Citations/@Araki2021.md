@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: A trade-off study of lunar-earth optical communication links
 ---
 # A trade-off study of lunar-earth optical communication links
 

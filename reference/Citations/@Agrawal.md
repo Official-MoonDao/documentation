@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: The Celestial Mapping System
+tags: citations, nasa
 ---
 # The Celestial Mapping System
 

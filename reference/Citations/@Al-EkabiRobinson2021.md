@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: Recent Lunar Activity, Stakeholders and Incentives – A Backgrounder
+tags: citations, open-lunar
 ---
 # Recent Lunar Activity, Stakeholders and Incentives – A Backgrounder
 

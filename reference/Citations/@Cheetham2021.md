@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE)
 ---
 # Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE)
 
