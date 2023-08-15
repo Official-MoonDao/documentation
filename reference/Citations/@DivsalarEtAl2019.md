@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Acquisition and tracking for communications between Lunar South Pole and Earth
 ---
 # Acquisition and tracking for communications between Lunar South Pole and Earth
 

@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Slime Mold Grows Network Just Like Tokyo Rail System
 ---
 # Slime Mold Grows Network Just Like Tokyo Rail System
 

@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Continuous Communications to the Moon's South Pole
 ---
 # Continuous Communications to the Moon's South Pole
 

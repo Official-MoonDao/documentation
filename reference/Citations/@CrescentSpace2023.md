@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: Parsec™ Service from Lockheed Martin
+tags: citations, missions
 ---
 # Parsec™ Service from Lockheed Martin
 

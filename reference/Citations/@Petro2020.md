@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Surviving and Operating Through the Lunar Night
 ---
 # Surviving and Operating Through the Lunar Night
 

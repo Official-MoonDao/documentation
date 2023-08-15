@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: Towards the Thousandth CubeSat: A Statistical Overview
+tags: citations, missions
 ---
 # Towards the Thousandth CubeSat: A Statistical Overview
 

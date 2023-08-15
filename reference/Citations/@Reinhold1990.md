@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: A Solar Powered Station at a Lunar Pole
 ---
 # A Solar Powered Station at a Lunar Pole
 

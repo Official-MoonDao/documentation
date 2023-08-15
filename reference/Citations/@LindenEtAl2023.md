@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: Possibilities for a Local Lunar Time Standard
+tags: citations, open-lunar, pnt
 ---
 # Possibilities for a Local Lunar Time Standard
 

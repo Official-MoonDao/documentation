@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Line of Sight Analysis
 ---
 # Line of Sight Analysis
 

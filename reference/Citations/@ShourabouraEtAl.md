@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: Prioritization and Oversubscribed Scheduling for NASA’s Deep Space Network
+tags: citations, nasa, dsn
 ---
 # Prioritization and Oversubscribed Scheduling for NASA’s Deep Space Network
 

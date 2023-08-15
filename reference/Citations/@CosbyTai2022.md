@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: Report of the Interagency Operations Advisory Group Lunar Communications Architecture Working Group
 ---
 # Report of the Interagency Operations Advisory Group Lunar Communications Architecture Working Group
 

@@ -1,6 +1,5 @@
 ---
-tags: citations
-alias: LunaNet: a Flexible and Extensible Lunar Exploration Communications and Navigation Infrastructure
+tags: citations, nasa, dtn, protocol
 ---
 # LunaNet: a Flexible and Extensible Lunar Exploration Communications and Navigation Infrastructure
 

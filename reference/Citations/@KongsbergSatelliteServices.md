@@ -1,6 +1,5 @@
 ---
 tags: citations
-alias: KSAT to invest in a dedicated antenna network for lunar missions
 ---
 # KSAT to invest in a dedicated antenna network for lunar missions
 
