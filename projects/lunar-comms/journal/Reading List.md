@@ -3,7 +3,7 @@ tags: journal
 ---
 
 # Architectures
- - [ ] [[@PasqualeEtAl2022]] A. Pasquale, G. Zanotti, J. Prinetto, M. Ceresoli, and M. Lavagna, “Cislunar distributed architectures for communication and navigation services of lunar assets,” Acta Astronautica, vol. 199, pp. 345–354, Oct. 2022, doi: 10.1016/j.actaastro.2022.06.004.
+ - [x] [[@PasqualeEtAl2022]] A. Pasquale, G. Zanotti, J. Prinetto, M. Ceresoli, and M. Lavagna, “Cislunar distributed architectures for communication and navigation services of lunar assets,” Acta Astronautica, vol. 199, pp. 345–354, Oct. 2022, doi: 10.1016/j.actaastro.2022.06.004.
 - [ ] [[@Naseem2022]] M. Naseem, “Last-mile Analogies for a Lunar Communications Network - Open Lunar Foundation,” Open Lunar Foundation, Jan. 26, 2022. https://www.openlunar.org/library/last-mile (accessed Feb. 11, 2023).
 
 ## Architecture x Policy
