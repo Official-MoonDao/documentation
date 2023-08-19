@@ -36,3 +36,18 @@ tags: journal
 # 2023-08-15
 - [[Meeting - 2023-08-15]]
 - new lead on something to work on ![[DARPA - A Framework for Optimized, Integrated Lunar Infrastructure]]
+# 2023-08-17
+[[@philiplinden]] 
+- the idea of submitting something to [[DARPA - A Framework for Optimized, Integrated Lunar Infrastructure]] with AVS is getting some momentum among a few colleagues [https://www.darpa.mil/news-events/2023-08-15](https://www.darpa.mil/news-events/2023-08-15 "https://www.darpa.mil/news-events/2023-08-15")
+	- Ramon from AVS [https://www.linkedin.com/in/ramonbm/](https://www.linkedin.com/in/ramonbm/ "https://www.linkedin.com/in/ramonbm/") (he's the one that found this opportunity)
+	- ~~Jessy Kate from Open Lunar~~ interested/excited but on sabbatical
+	- Ahmad Byagowi from Meta (creator of Open Time Card) [https://www.linkedin.com/in/ahmad-byagowi-b9401631/](https://www.linkedin.com/in/ahmad-byagowi-b9401631/ "https://www.linkedin.com/in/ahmad-byagowi-b9401631/")
+	- Ramon found a PhD student from Cornell that wants to contribute
+
+# 2023-08-18
+[[@philiplinden]]
+- [Robin Hawk]() reached out over linkedin
+	- > Jan Hall won the Nobel Prize in Physics for the Optical Comb. In his early years he measured the Cesium Fountain Optical Clocks that tell time for the World. He and I worked together on end to end optical network systems during the “analog” 80’s, prior to digital. He calls me his “non-linear” student. We are the ones behind the scenes on the forefront of optical clock miniaturization
+	- > Digital time is only a display of timestamps, calibrated to the Optical Clocks (along with Satellites) once per day. Without a master reference, there would be a serious drift, incorrect timestamps and everyone would be wide open to hacks, especially CyberPhysical systems. We will be giving presentations on these clocks and the satellite miniaturization at the UN Science Summit in NYC on September 19.
+	- > I suggest you start with “Confessions of an Internet Timekeeper”, then watch Dr. Halls Nobel Lecture on the progress of Optical Clocks. We are sending one up and one has already been up and already been tested in Space.
+	- Invited me to UN Science Summit in NYC on September 19th
