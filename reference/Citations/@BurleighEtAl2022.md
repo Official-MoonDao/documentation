@@ -1,5 +1,5 @@
 ---
-tags: citations, dtn, protocol
+tags: reference/citations, dtn, protocol
 alias: BPv7
 ---
 # Bundle Protocol Version 7

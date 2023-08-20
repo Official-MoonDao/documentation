@@ -1,5 +1,5 @@
 ---
-tags: citations, open-lunar, policy
+tags: reference/citations, open-lunar, policy
 ---
 # Building Lunar Security and Cooperation Through an Astropolitcal Lens- how to construct normative behaviours on the moon- enter the registry
 

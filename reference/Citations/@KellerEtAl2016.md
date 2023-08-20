@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa, missions
+tags: reference/citations, nasa, missions
 ---
 # The Lunar Reconnaissance Orbiter Mission – Six years of science and exploration at the Moon
 

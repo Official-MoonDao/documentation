@@ -1,3 +1,6 @@
+---
+tags: project/lunar-comms, notes
+---
 How to leverage industry players
 - Money talks. If we put up funds for deprize, the Ramons of the world will take interest
 - Build relationships with all of the most interested people in lunar space exploration

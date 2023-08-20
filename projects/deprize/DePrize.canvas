@@ -26,7 +26,8 @@
 		{"type":"text","text":"IP Submission 1","id":"8bb679db9905171c","x":-720,"y":-730,"width":250,"height":60},
 		{"type":"text","text":"Funder X","id":"3ea7c58179253bc7","x":35,"y":-550,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Funder ...","id":"da5ef34bfb30182d","x":35,"y":-640,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"Quadratic Funding Voted By Funders","id":"b1fa3bba9bfbefd5","x":-1330,"y":-345,"width":250,"height":90,"color":"6"}
+		{"type":"text","text":"Quadratic Funding Voted By Funders","id":"b1fa3bba9bfbefd5","x":-1330,"y":-345,"width":250,"height":90,"color":"6"},
+		{"id":"174a77c94c5f44f7","x":-838,"y":-1682,"width":250,"height":60,"type":"text","text":"#project/deprize"}
 	],
 	"edges":[
 		{"id":"7a085c892e9d8a46","fromNode":"12b0d7dfce8924a9","fromSide":"right","toNode":"b1fa3bba9bfbefd5","toSide":"left","label":"50% ETH"},

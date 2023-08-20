@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # Energy storage selection and operation for night-time survival of small lunar surface systems
 

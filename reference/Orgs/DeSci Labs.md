@@ -1,5 +1,5 @@
 ---
-tags: organization
+tags: reference/organization
 alias: "DeSci"
 ---
 

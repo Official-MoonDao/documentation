@@ -1,5 +1,5 @@
 ---
-tags: citations, dtn, protocol
+tags: reference/citations, dtn, protocol
 ---
 # DTN7
 

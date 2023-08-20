@@ -1,9 +1,9 @@
 ---
-tags: citations, open-lunar, pnt
+tags: reference/citations, open-lunar, pnt
 ---
 # Possibilities for a Local Lunar Time Standard
 
-**Philip Linden, Samuel Jardine, Jessy Kate Schingler**
+**[Philip Linden](@philiplinden.md), Samuel Jardine, Jessy Kate Schingler**
 2023
 
 link:: 

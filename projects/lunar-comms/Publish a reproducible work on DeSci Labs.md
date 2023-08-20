@@ -1,5 +1,5 @@
 ---
-tags: task
+tags: project/lunar-comms, task
 ---
 https://nodes.desci.com/
 

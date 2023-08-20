@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa
+tags: reference/citations, nasa
 ---
 # NASA Lunar Communication and Navigation Architecture
 

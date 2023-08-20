@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 alias: Nokia aims for the Moon with LTE/4G
 ---
 # Nokia aims for the Moon with LTE/4G

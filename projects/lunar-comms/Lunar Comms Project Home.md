@@ -1,5 +1,5 @@
 ---
-tags: project
+tags: project/lunar-comms
 ---
 Proposal:: [[Network Topology Proposal]]
 GitHub:: https://github.com/Official-MoonDao/lunar-comms

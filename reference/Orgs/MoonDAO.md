@@ -1,4 +1,4 @@
 ---
-tags: organization, moondao
+tags: reference/organization, moondao
 ---
 link:: https://www.moondao.com/

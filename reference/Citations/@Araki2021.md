@@ -1,5 +1,5 @@
 ---
-tags: citations, jaxa
+tags: reference/citations, jaxa
 ---
 # A trade-off study of lunar-earth optical communication links
 

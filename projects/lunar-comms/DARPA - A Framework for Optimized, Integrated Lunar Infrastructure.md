@@ -1,5 +1,5 @@
 ---
-tags: project, darpa
+tags: project/lunar-comms, darpa
 ---
 link:: https://www.darpa.mil/news-events/2023-08-15
 

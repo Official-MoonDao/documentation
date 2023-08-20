@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa
+tags: reference/citations, nasa
 ---
 # Light-Weight Radioisotope Heater Unit | Thermal Systems
 

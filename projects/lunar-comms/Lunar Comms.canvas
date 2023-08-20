@@ -9,7 +9,8 @@
 		{"type":"file","file":"media-files/Pasted image 20230819155013.png","id":"869c4fb167693f9a","x":-180,"y":-60,"width":989,"height":413},
 		{"type":"text","text":"Earth-Based Lunar Sats","id":"f53787c2caf99e4d","x":-480,"y":-275,"width":250,"height":60},
 		{"type":"text","text":"Ground Station","id":"a960914efecf7211","x":-100,"y":-275,"width":250,"height":60},
-		{"type":"text","text":"End User Address","id":"c5ca263aa5ec7f7f","x":240,"y":-270,"width":250,"height":50}
+		{"type":"text","text":"End User Address","id":"c5ca263aa5ec7f7f","x":240,"y":-270,"width":250,"height":50},
+		{"id":"1fd335806f800633","x":304,"y":-789,"width":250,"height":60,"type":"text","text":"#project/lunar-comms"}
 	],
 	"edges":[
 		{"id":"6c1249e0671adf94","fromNode":"fa7c0b1deae1281e","fromSide":"bottom","toNode":"08398c89466f9990","toSide":"top"},

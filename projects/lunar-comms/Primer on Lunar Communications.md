@@ -1,5 +1,5 @@
 ---
-tags: notes
+tags: project/lunar-comms, notes
 ---
 > [!warning]
 > This document was originally authored as part of the Space Engineering Guild project in April 2023, not the Lunar Comms project.

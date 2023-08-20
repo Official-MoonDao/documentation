@@ -1,5 +1,5 @@
 ---
-tags: notes
+tags: project/lunar-comms, notes
 ---
 # Research Goal
 

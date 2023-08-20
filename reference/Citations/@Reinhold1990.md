@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # A Solar Powered Station at a Lunar Pole
 

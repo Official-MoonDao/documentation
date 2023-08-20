@@ -1,5 +1,5 @@
 ---
-tags: journal
+tags: project/lunar-comms, notes
 ---
 
 # Architectures

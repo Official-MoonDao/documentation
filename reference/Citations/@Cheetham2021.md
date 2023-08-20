@@ -1,5 +1,5 @@
 ---
-tags: citations, missions
+tags: reference/citations, missions
 ---
 # Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE)
 
