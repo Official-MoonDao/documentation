@@ -51,3 +51,6 @@ tags: journal
 	- > Digital time is only a display of timestamps, calibrated to the Optical Clocks (along with Satellites) once per day. Without a master reference, there would be a serious drift, incorrect timestamps and everyone would be wide open to hacks, especially CyberPhysical systems. We will be giving presentations on these clocks and the satellite miniaturization at the UN Science Summit in NYC on September 19.
 	- > I suggest you start with “Confessions of an Internet Timekeeper”, then watch Dr. Halls Nobel Lecture on the progress of Optical Clocks. We are sending one up and one has already been up and already been tested in Space.
 	- Invited me to UN Science Summit in NYC on September 19th
+# 2023-08-19
+[[Meeting - 2023-08-19]]
+
