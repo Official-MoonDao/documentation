@@ -21,17 +21,14 @@
 		{"type":"text","text":"Winning Team","id":"9e6046f7d6c1f2eb","x":35,"y":-200,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"Prize Pool","id":"ecc39a6b6b7a5f96","x":-385,"y":-200,"width":250,"height":60,"color":"6"},
 		{"type":"text","text":"Gnosis","id":"12b0d7dfce8924a9","x":-2280,"y":-200,"width":250,"height":60,"color":"6"},
-		{"type":"text","text":"sample comment from greg","id":"6df81b408bbeae27","x":-2390,"y":-1160,"width":220,"height":80,"color":"1"},
 		{"type":"text","text":"Winning IP Submission Z","id":"b5c4a52f199ef544","x":-760,"y":-550,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"IP Submission 1","id":"8bb679db9905171c","x":-720,"y":-730,"width":250,"height":60},
 		{"type":"text","text":"Funder X","id":"3ea7c58179253bc7","x":35,"y":-550,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Funder ...","id":"da5ef34bfb30182d","x":35,"y":-640,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"Quadratic Funding Voted By Funders","id":"b1fa3bba9bfbefd5","x":-1330,"y":-345,"width":250,"height":90,"color":"6"},
-		{"id":"174a77c94c5f44f7","x":-838,"y":-1682,"width":250,"height":60,"type":"text","text":"#project/deprize"}
+		{"type":"text","text":"Quadratic Funding Voted By Funders","id":"b1fa3bba9bfbefd5","x":-1330,"y":-345,"width":250,"height":90,"color":"6"}
 	],
 	"edges":[
 		{"id":"7a085c892e9d8a46","fromNode":"12b0d7dfce8924a9","fromSide":"right","toNode":"b1fa3bba9bfbefd5","toSide":"left","label":"50% ETH"},
-		{"id":"d0f225b851a77a52","fromNode":"12b0d7dfce8924a9","fromSide":"right","toNode":"ecc39a6b6b7a5f96","toSide":"left","label":"50% ETH"},
 		{"id":"975cc7a5422dd619","fromNode":"45eedd37ac96c802","fromSide":"right","toNode":"3cf78f36fd683fe4","toSide":"left","label":"Creates"},
 		{"id":"167cd36696792d6e","fromNode":"c49e93cc6bdd015f","fromSide":"right","toNode":"b5c4a52f199ef544","toSide":"left","label":"Creates"},
 		{"id":"d09f82dc36624696","fromNode":"3b37ba5a2c9bcb6b","fromSide":"right","toNode":"8bb679db9905171c","toSide":"left","label":"Creates"},
@@ -74,6 +71,7 @@
 		{"id":"8f6bb0a3ffb517f2","fromNode":"3cf78f36fd683fe4","fromSide":"right","toNode":"da5ef34bfb30182d","toSide":"left"},
 		{"id":"1671594c2c903788","fromNode":"3cf78f36fd683fe4","fromSide":"right","toNode":"3ea7c58179253bc7","toSide":"left"},
 		{"id":"5a1b2db324643f6c","fromNode":"3cf78f36fd683fe4","fromSide":"right","toNode":"6685d16741c66bee","toSide":"left"},
-		{"id":"f4254a31bc7a822e","fromNode":"b1fa3bba9bfbefd5","fromSide":"right","toNode":"8bb679db9905171c","toSide":"bottom"}
+		{"id":"f4254a31bc7a822e","fromNode":"b1fa3bba9bfbefd5","fromSide":"right","toNode":"8bb679db9905171c","toSide":"bottom"},
+		{"id":"d0f225b851a77a52","fromNode":"12b0d7dfce8924a9","fromSide":"right","toNode":"ecc39a6b6b7a5f96","toSide":"left","label":"50% ETH"}
 	]
 }
