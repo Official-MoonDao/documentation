@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # Line of Sight Analysis
 

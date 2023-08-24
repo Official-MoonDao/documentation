@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # Slime Mold Grows Network Just Like Tokyo Rail System
 

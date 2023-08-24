@@ -1,5 +1,5 @@
 ---
-tags: citations, open-lunar, policy
+tags: reference/citations, open-lunar, policy
 ---
 # Building Lunar Security and Cooperation Through an Astropolitical Lens- the role of normative behaviours in creating stability
 

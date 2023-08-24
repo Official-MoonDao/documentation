@@ -1,5 +1,5 @@
 ---
-tags: citations, esa, pnt, missions
+tags: reference/citations, esa, pnt, missions
 ---
 # Lunar comms and nav infrastructure – first data relay orbiter Lunar Pathfinder, operational in 2024, paves the way for full constellation by 2030s
 

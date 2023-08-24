@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa, dsn
+tags: reference/citations, nasa, dsn
 ---
 # A Collaborative Scheduling Environment for NASA's Deep Space Network
 

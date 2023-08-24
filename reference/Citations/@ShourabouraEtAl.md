@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa, dsn
+tags: reference/citations, nasa, dsn
 ---
 # Prioritization and Oversubscribed Scheduling for NASA’s Deep Space Network
 

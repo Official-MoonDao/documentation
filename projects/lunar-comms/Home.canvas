@@ -4,8 +4,9 @@
 		{"type":"file","file":"projects/lunar-comms/Lunar Comms Project Home.md","id":"decba5f4bab53e93","x":-800,"y":-700,"width":760,"height":240},
 		{"type":"file","file":"projects/lunar-comms/journal/Reading List.md","id":"d110a7b7f5e38d96","x":100,"y":-800,"width":700,"height":420},
 		{"type":"file","file":"projects/lunar-comms/journal/captain's log.md","id":"8c2a67d4ba2ab0c0","x":-340,"y":-380,"width":400,"height":120,"color":"4"},
-		{"id":"927473345dee1583","x":-800,"y":-180,"width":748,"height":400,"color":"3","type":"file","file":"projects/lunar-comms/DARPA - A Framework for Optimized, Integrated Lunar Infrastructure.md"},
-		{"id":"8d6fd98f7cbb193a","x":-1060,"y":-387,"width":441,"height":127,"color":"5","type":"file","file":"projects/lunar-comms/Research Notes.md"}
+		{"type":"file","file":"projects/lunar-comms/DARPA - A Framework for Optimized, Integrated Lunar Infrastructure.md","id":"927473345dee1583","x":-800,"y":-180,"width":748,"height":400,"color":"3"},
+		{"type":"file","file":"projects/lunar-comms/Research Notes.md","id":"8d6fd98f7cbb193a","x":-1060,"y":-387,"width":441,"height":127,"color":"5"},
+		{"id":"ed888377ae9ad0bb","x":133,"y":-55,"width":267,"height":75,"type":"text","text":"#project/lunar-comms, "}
 	],
 	"edges":[
 		{"id":"dcb4c82388b9aa3b","fromNode":"92a28bab80128405","fromSide":"bottom","toNode":"decba5f4bab53e93","toSide":"top"},

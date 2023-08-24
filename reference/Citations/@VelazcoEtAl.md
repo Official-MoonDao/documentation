@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa
+tags: reference/citations, nasa
 ---
 # Development of Omnidirectional Optical Terminals for Swarm Communications and Navigation
 

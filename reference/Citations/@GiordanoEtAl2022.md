@@ -1,5 +1,5 @@
 ---
-tags: citations, esa, missions, pnt
+tags: reference/citations, esa, missions, pnt
 ---
 # The Lunar Pathfinder PNT Experiment and Moonlight Navigation Service: The Future of Lunar Position, Navigation and Timing
 

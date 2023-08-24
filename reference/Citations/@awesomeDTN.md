@@ -1,5 +1,5 @@
 ---
-tags: citations, dtn
+tags: reference/citations, dtn
 ---
 # dtn7/awesome-dtn: A curated list of awesome delay- and disruption-tolerant networking
 

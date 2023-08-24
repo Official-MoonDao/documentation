@@ -1,5 +1,5 @@
 ---
-tags: citations, nasa, ![[11.-DSN-Scheduling.pdf]]dsn
+tags: reference/citations, nasa, dsn
 ---
 # The Deep Space Network Scheduling Problem
 

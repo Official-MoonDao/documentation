@@ -1,5 +1,5 @@
 ---
-tags: citations, open-lunar
+tags: reference/citations, open-lunar
 ---
 # Last-mile Analogies for a Lunar Communications Network - Open Lunar Foundation
 

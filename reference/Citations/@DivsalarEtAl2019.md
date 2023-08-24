@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # Acquisition and tracking for communications between Lunar South Pole and Earth
 

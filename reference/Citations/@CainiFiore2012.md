@@ -1,5 +1,5 @@
 ---
-tags: citations, dtn
+tags: reference/citations, dtn
 ---
 # Moon to earth DTN communications through lunar relay satellites
 

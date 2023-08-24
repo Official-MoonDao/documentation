@@ -1,4 +1,0 @@
----
-tags: person
-alias: colin
----

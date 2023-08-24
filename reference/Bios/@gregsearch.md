@@ -1,5 +1,5 @@
 ---
-tags: people
+tags: reference/people
 aliases:
 - Greg Search
 - "@greg"

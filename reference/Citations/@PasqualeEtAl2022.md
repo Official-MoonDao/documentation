@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # Cislunar distributed architectures for communication and navigation services of lunar assets
 

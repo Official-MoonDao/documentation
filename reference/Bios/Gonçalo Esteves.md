@@ -1,5 +1,5 @@
 ---
-tags: people
+tags: reference/people
 aliases:
 - gonçalo
 - "@gforce"

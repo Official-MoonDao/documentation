@@ -1,5 +1,5 @@
 ---
-tags: citations, missions
+tags: reference/citations, missions
 ---
 # Quantum Space raises $15 million for cislunar spacecraft
 

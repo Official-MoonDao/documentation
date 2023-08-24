@@ -1,3 +1,3 @@
 ---
-tags: project
+tags: project/lunar-comms
 ---

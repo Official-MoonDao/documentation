@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # Toward a Hybrid RF/Optical Lunar Communication System (LunarComm)
 

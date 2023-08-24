@@ -1,5 +1,5 @@
 ---
-tags: citations
+tags: reference/citations
 ---
 # KSAT to invest in a dedicated antenna network for lunar missions
 

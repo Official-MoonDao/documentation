@@ -1,5 +1,5 @@
 ---
-tags: citations, open-lunar, policy
+tags: reference/citations, open-lunar, policy
 ---
 # Space Tenure: The Policies of Sustained Lunar Presence - Open Lunar Foundation
 

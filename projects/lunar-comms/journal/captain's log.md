@@ -1,5 +1,5 @@
 ---
-tags: journal
+tags: project/lunar-comms, notes/journal
 ---
 # 2023-08-12
 [[@philiplinden]]
