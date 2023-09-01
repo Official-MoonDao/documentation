@@ -1,5 +1,7 @@
 ---
-tags: project/lunar-comms, notes/journal
+tags:
+  - project/lunar-comms
+  - notes/journal
 ---
 [2023-08-12](2023-08-12.md)
 [2023-08-14](2023-08-14.md)
@@ -9,3 +11,4 @@ tags: project/lunar-comms, notes/journal
 [2023-08-19](2023-08-19.md)
 [2023-08-24](2023-08-24.md)
 [2023-08-27](2023-08-27.md)
+[2023-09-01](2023-09-01.md)

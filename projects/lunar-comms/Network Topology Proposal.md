@@ -81,7 +81,7 @@ Member(s) responsible for OKR and their role:
 - [Philip Linden](@philiplinden.md) (Primary Author)
 - Pablo Moncada (Contributing Author)
 - [[@gregsearch|Greg Search]] (Contributing Author)
-- Gonçalo Esteves (Advisor, Editor) 
+- [Gonçalo Esteves](@gforce.md) (Advisor, Editor) 
 
 **Objective #2:** Set up an internal study based on this [[NASA]] NextSTEP-2 solicitation (Study Area #3 only).
 

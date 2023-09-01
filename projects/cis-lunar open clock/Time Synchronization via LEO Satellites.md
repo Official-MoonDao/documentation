@@ -1,3 +1,6 @@
+---
+tags: project/cloc, notes
+---
 # Time Synchronization via LEO Satellites
 https://www.linkedin.com/events/timesynchronizationvialeosatell7099098080062423040/
 ## Abstract  
