@@ -4,6 +4,13 @@ tags:
   - project/luna-10
   - notes/meeting
 ---
+[@ShigaEtAl2017](@ShigaEtAl2017.md)
+[@YasudaEtAl2018](@YasudaEtAl2018.md)
+[@YasudaEtAl2019](@YasudaEtAl2019.md)
+[@PantaEtAl2019](@PantaEtAl2019.md)
+[@KoyamaEtAl2021](@KoyamaEtAl2021.md)
+[@YamasakiEtAl2021](@YamasakiEtAl2021.md)
+[@TanakaEtAl2022](@TanakaEtAl2022.md)
 
 transport/dissemination -- wiwi
 timekeeping -- open time card as reference

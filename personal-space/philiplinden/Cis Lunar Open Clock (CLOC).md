@@ -1,5 +1,6 @@
 ---
-tags: project/cloc
-alias: CLOC
+tags:
+  - idea
+aliases: []
 ---
 https://www.overleaf.com/read/msfrgqqyhnbb

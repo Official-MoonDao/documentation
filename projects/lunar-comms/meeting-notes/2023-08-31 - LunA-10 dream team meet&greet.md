@@ -2,17 +2,18 @@
 tags:
   - notes/meeting
   - project/luna-10
-  - project/lunar-comms
 ---
 
 [Chris Rabotin](Chris%20Rabotin.md) -- blue ghost, capstone
-Ramon -- avs. missions that are exploratory, fusion, space, lunar etc
-Ahmad (ah-med) -- time sync in data centers
+[Ramon Blanco Maceiras](Ramon%20Blanco%20Maceiras.md) -- avs. missions that are exploratory, fusion, space, lunar etc
+[Ahmad Byagowi](Ahmad%20Byagowi.md) (ah-med) -- time sync in data centers
+[Rachel Williams](Rachel%20Williams.md), [Jacob Malthouse](Jacob%20Malthouse.md) 
+[greg](@gregsearch.md), [phil](@philiplinden.md), [Pablo](@pmoncada.md) 
 
 need a SAM account → open lunar has one (we think!), avs does too
 if 3-pager is accepted, need to execute 10 pager within 30 days
 
-combination of providers and users -> would be useful to bring in reps for direct users to bring insights (intuitive machines? capstone? firefly?)
+combination of providers and users -> would be useful to bring in reps for direct users to bring insights ([intuitive machines](Intuitive%20Machines.md)? capstone? firefly?)
 
 chris:
 > On Ramon's point, we should look into the payloads that are flying on the CLPS missions. I believe that almost all are scientific payloads, with the exception of the LuGRE payloads that try to do GPS at the Moon
@@ -36,4 +37,4 @@ we can identify the real problem -- if i have a clock, how can i do things bette
 encourage people to think about assuming _have_ time end to end
 
 action: 
-- make a planning doc (copy from rachel's) as google doc
+- make a planning doc (copy from rachel's) as google doc → 
