@@ -2,6 +2,7 @@
 tags:
   - reference/web3
   - token
+  - docs/glossary
 aliases:
   - vMooney
 ---

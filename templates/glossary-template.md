@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - docs/glossary
 aliases: []
 ---
 [Definition:: _explain what this term means_]
