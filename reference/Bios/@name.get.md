@@ -1,4 +1,9 @@
 ---
-tags: reference/people
-alias: colin
+tags:
+  - reference/people
+aliases:
+  - colin
+roles:
+  - Explorer
+  - Moon Settler
 ---

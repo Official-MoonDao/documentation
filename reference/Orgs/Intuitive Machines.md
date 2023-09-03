@@ -1,3 +1,6 @@
 ---
-tags: reference/organization, intuitive-machines
+tags:
+  - reference/organization
+  - intuitive-machines
+  - spacecraft
 ---

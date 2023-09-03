@@ -3,12 +3,7 @@ tags:
   - project/lunar-comms
   - notes/journal
 ---
-[2023-08-12](2023-08-12.md)
-[2023-08-14](2023-08-14.md)
-[2023-08-15](2023-08-15.md)
-[2023-08-17](2023-08-17.md)
-[2023-08-18](2023-08-18.md)
-[2023-08-19](2023-08-19.md)
-[2023-08-24](2023-08-24.md)
-[2023-08-27](2023-08-27.md)
-[2023-09-01](2023-09-01.md)
+```dataview
+TABLE file.mtime as "Last Modified", file.inlinks as "Mentions"
+FROM "projects/lunar-comms/captain's log"
+```

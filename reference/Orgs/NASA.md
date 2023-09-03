@@ -1,3 +1,7 @@
 ---
-tags: reference/organization, nasa
+tags:
+  - reference/organization
+  - nasa
+  - government
+  - spacecraft
 ---

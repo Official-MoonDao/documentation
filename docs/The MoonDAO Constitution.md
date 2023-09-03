@@ -205,7 +205,7 @@ If any treasury signers decide to veto the proposal and not sign the transaction
 
 ## <ins>3. Organizational Structure</ins>
 
-MoonDAO is organized into two major organizational structures, MoonDAO Projects and MoonDAO Guilds.
+MoonDAO is organized into two major organizational structures, MoonDAO Projects and MoonDAO [Guilds](guilds.md).
 
 ### 3.1 Projects
 
@@ -213,7 +213,7 @@ MoonDAO Projects are non-perpetual, goal-based teams that are voted by the commu
 
 ### 3.2 Guilds
 
-MoonDAO Guilds are talent pools to onboard, orient, and train members to complete bounties for MoonDAO projects. Guilds are managed by MoonDAO stewards, who are responsible for interviewing members to ensure they have the necessary skills relevant to the guild. Stewards ensure the quality of guild members, and help them get started on MoonDAO bounties, and eventually projects.
+MoonDAO [Guilds](guilds.md) are talent pools to onboard, orient, and train members to complete bounties for MoonDAO projects. [Guilds](guilds.md) are managed by MoonDAO stewards, who are responsible for interviewing members to ensure they have the necessary skills relevant to the guild. Stewards ensure the quality of guild members, and help them get started on MoonDAO bounties, and eventually projects.
 
 ## <ins>4. Rules of Coordination</ins>
 

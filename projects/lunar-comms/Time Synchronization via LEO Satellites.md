@@ -9,7 +9,7 @@ LEO PNT from Satelles (called STL), is an authenticated signal that is stronger 
 and spoofing, and it’s available worldwide now.  
 Speaker  
 Charlie Meyer is a Senior Technical Director at Satelles Inc., where he develops LEO satellite timing solutions for critical infrastructure users.  
-Previously he was a Distinguished Member of the Technical Staff at Alcatel-Lucent/Nokia/Bell Labs where he worked for 25 years. He was a Principal Architect and SME for Wireless 3G/4G/5G RAN timing and synchronization systems. He has designed numerous GPS, GNSS, PTP, and OCXO solutions and has worked with multiple US government agencies regarding the dependence of telecommunications on GPS. He is a member of ATIS SYNC, IEEE-1952, OCP-TAP, a senior member of the IEEE and holds four US patents.
+Previously he was a Distinguished Member of the Technical Staff at Alcatel-Lucent/Nokia/Bell Labs where he worked for 25 years. He was a Principal Architect and SME for Wireless 3G/4G/5G RAN timing and synchronization systems. He has designed numerous GPS, GNSS, PTP, and OCXO solutions and has worked with multiple US government agencies regarding the dependence of telecommunications on GPS. He is a member of ATIS SYNC, IEEE-1952, [OCP-TAP](OCP-TAP.md), a senior member of the IEEE and holds four US patents.
 
 ## Notes
 _Zero-trust authentication_

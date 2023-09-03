@@ -26,13 +26,13 @@ There are many levels of involvement with MoonDAO.
 
 ## Level 1: Join a MoonDAO Guild
 
-MoonDAO Guilds are the most basic level of participation at MoonDAO. They’re low commitment, and at your own speed. You can take on bounties from MoonDAO projects for $MOONEY or DAI, and generally pick up as much work as you’d like.
+MoonDAO [Guilds](guilds.md) are the most basic level of participation at MoonDAO. They’re low commitment, and at your own speed. You can take on bounties from MoonDAO projects for $MOONEY or DAI, and generally pick up as much work as you’d like.
 
 Some examples of MoonDAO Guilds are:
-- **Space Engineering Guild** - This guild is for both experienced space engineers and promising engineers that want to make a transition into space engineering. We focus on incubating proof-of-concepts for moonshots that can be developed into full MoonDAO projects, and eventually subDAOs. It is currently led by @pmoncada.
+- **Space Engineering Guild** - This guild is for both experienced space engineers and promising engineers that want to make a transition into space engineering. We focus on incubating proof-of-concepts for moonshots that can be developed into full MoonDAO projects, and eventually subDAOs. It is currently led by [@pmoncada](@pmoncada.md).
 - **Developers Guild** - This guild is for MoonDAO web development. It spans web2 and web3. Anything from novel mechanics for governance, incentives, finance, to landing pages, documentation, and dashboards for MoonDAO members. This guild is currently led by @larrotiz.
 - **Community Guild** - This guild focuses on internal operations at MoonDAO and engagement of MoonDAO members. This is a meta MoonDAO guild that focuses on improving MoonDAO processes and reducing bureaucracy. This guild helps organize information to make MoonDAO efficient and reduce bottlenecks for contributors. This guild is currently led by @luffy. 
-- **Growth Guild** - This guild focuses on increasing MoonDAO’s footprint in the world. Everything from marketing, onboarding, and targeted growth of different guilds. This guild is currently led by @ballack.
+- **Growth Guild** - This guild focuses on increasing MoonDAO’s footprint in the world. Everything from marketing, onboarding, and targeted growth of different [guilds](guilds.md). This guild is currently led by [@ballack](@Ballack.md).
 
 You can [apply to join a MoonDAO Guild here](https://moondao.com/contribute).
 

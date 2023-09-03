@@ -110,7 +110,7 @@ VotingPowerToProject is the total sum of voting power that was allocated to that
 - VotingPowerTotal is the total amount of voting power tallied for that quarter’s vote in the Member House.
 - MemberGive is the total amount of GIVE that was allocated to that member in that particular project.
 - TotalGive is the total amount of GIVE that was allocated to that particular project.
-- U(MOONEY,NMA) is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets **for all projects, guilds, or salaries coming to that member in that quarter.**
+- U(MOONEY,NMA) is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets **for all projects, [guilds](guilds.md), or salaries coming to that member in that quarter.**
 
 If the B is negative for MOONEY or NMA, the Member will receive no bonus for that token.
 

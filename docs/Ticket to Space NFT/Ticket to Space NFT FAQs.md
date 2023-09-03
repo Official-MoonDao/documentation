@@ -13,7 +13,7 @@ slug: /tts-nft-faqs
 
 ### **What are the Ticket To Space NFTs?**
 
-MoonDAO’s Ticket To Space NFTs give anyone in the world who is of the legal age of majority the opportunity to enter a sweepstakes for a chance to win an opportunity to fly to space on Blue Origin’s New Shepard rocket (other than residents of the states of Florida and New York and where entry in the contest is otherwise prohibited by law). The Ticket To Space NFT has the following additional benefits:
+MoonDAO’s Ticket To Space NFTs give anyone in the world who is of the legal age of majority the opportunity to enter a sweepstakes for a chance to win an opportunity to fly to space on [Blue Origin](Blue%20Origin.md)’s New Shepard rocket (other than residents of the states of Florida and New York and where entry in the contest is otherwise prohibited by law). The Ticket To Space NFT has the following additional benefits:
 
 - A 412 $MOONEY governance token airdrop.
 - VIP Access to our launch party to celebrate our astronaut’s launch.
@@ -32,7 +32,7 @@ NO PURCHASE OF A TICKET TO SPACE NFT IS NECESSARY TO ENTER THE CONTEST OR WIN A 
 
 ### **What are the requirements to be selected to go to space?**
 
-You must meet Blue Origin’s requirements to fly to space link. Blue Origin reserves the right, in its sole and absolute discretion, to evaluate all potential travelers and to approve or deny access to any voyage.
+You must meet [Blue Origin](Blue%20Origin.md)’s requirements to fly to space link. [Blue Origin](Blue%20Origin.md) reserves the right, in its sole and absolute discretion, to evaluate all potential travelers and to approve or deny access to any voyage.
 
 ### **What is the Moonlist?**
 
@@ -53,7 +53,7 @@ On June 11th, 2022, at 7:00pm PST we will choose the potential winning astronaut
 - Each potential winner may not be a resident of the states of Florida, New York, Puerto Rico or where the contest is otherwise prohibited by law.
 - Each potential winner must be 18 years of age or older, or the age of majority if greater than 18 years of age in the potential winner’s jurisdiction.
 
-Each potential prize winner that meets the above-mentioned criteria, as well as any requirements set forth in the Contest Rules, will win an additional 100,000 $MOONEY airdrop for being a potential astronaut. The first potential prize winner selected will also be the potential Grand Prize winner. The potential Grand Prize winner must submit for evaluation through Blue Origin’s flight approval process. In the event that the first potential Grand Prize winner is not able to fly with Blue Origin, or is otherwise disqualified, for any reason, we will approach the next alternative potential prize winner to determine if she/he qualifies and is able to fly, and so on. No potential prize winner may transfer her/his status as an alternate Grand Prize winner to any other person after the 10 potential prize winners have been selected.
+Each potential prize winner that meets the above-mentioned criteria, as well as any requirements set forth in the Contest Rules, will win an additional 100,000 $MOONEY airdrop for being a potential astronaut. The first potential prize winner selected will also be the potential Grand Prize winner. The potential Grand Prize winner must submit for evaluation through [Blue Origin](Blue%20Origin.md)’s flight approval process. In the event that the first potential Grand Prize winner is not able to fly with [Blue Origin](Blue%20Origin.md), or is otherwise disqualified, for any reason, we will approach the next alternative potential prize winner to determine if she/he qualifies and is able to fly, and so on. No potential prize winner may transfer her/his status as an alternate Grand Prize winner to any other person after the 10 potential prize winners have been selected.
 
 ### **What is $MOONEY?**
 
