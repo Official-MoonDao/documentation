@@ -4,6 +4,6 @@ tags:
   - notes/journal
 ---
 ```dataview
-TABLE file.mtime as "Last Modified", file.inlinks as "Mentions"
+TABLE file.mtime as "Last Modified"
 FROM "projects/lunar-comms/captain's log"
 ```

@@ -7,7 +7,7 @@ slug: /
 
 # MoonDAO is going to the moon.
 
-![](/img/hero.png)
+![](media-files/site/hero.png)
 
 Welcome to [MoonDAO](MoonDAO.md)!
 
