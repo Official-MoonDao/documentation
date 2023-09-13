@@ -99,7 +99,7 @@ At the end of the quarter, the Senate will be presented with all the projects th
 
 A member’s reward bonus, B, will be calculated as follows:
 
-![](/img/mooneyequation.PNG)
+![mooneyequation](_media-files/mooneyequation.png)
 
 Where:
 - T(MOONEY,NMA) is the total rewards for the quarter in both MOONEY and Non-MOONEY assets (NMA) as determined in the previous paragraph.

@@ -80,18 +80,19 @@ Quarters refer to three-month periods. MoonDAO quarters are defined as follows: 
 
 ### 2.1 Member House
 
-MoonDAO’s Member House is composed of the holders of $vMOONEY, otherwise known as MoonDAO members. MoonDAO only has two official [governance tokens](Governance%20Tokens.md) [$MOONEY](https://etherscan.io/token/0x20d4db1946859e2adb0e5acc2eac58047ad41395?a=0x679d87d8640e66778c3419d164998e720d7495f6) and $vMOONEY. The total supply of $MOONEY is fixed, MoonDAO will never mint more of this token.
+MoonDAO’s Member House is composed of the holders of [[vMOONEY]], otherwise known as MoonDAO members. MoonDAO only has two official [governance tokens](Governance%20Tokens.md) [$MOONEY](https://etherscan.io/token/0x20d4db1946859e2adb0e5acc2eac58047ad41395?a=0x679d87d8640e66778c3419d164998e720d7495f6) and [[vMOONEY|$vMOONEY]]. The total supply of $MOONEY is fixed, MoonDAO will never mint more of this token.
 
-MOONEY is found at Ethereum address 0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395
-vMOONEY is found at Ethereum address 0xCc71C80d803381FD6Ee984FAff408f8501DB1740
+MOONEY is found at Ethereum address `0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395`
+vMOONEY is found at Ethereum address `0xCc71C80d803381FD6Ee984FAff408f8501DB1740`
 
 The only way for an individual to receive $vMOONEY is by staking $MOONEY.  The $MOONEY token must be locked for a period of at least one week, to at most four years. In return, the person locking the token will receive a wallet-bound $vMOONEY linearly proportional to the amount of time until the MOONEY can be unlocked. Each individual may only have one wallet holding $vMOONEY.
 
-![](/img/mooneyequation.PNG)
+![mooneyequation](_media-files/mooneyequation.png)
+![vmooneyequation](_media-files/vmooneyequation.png)
 
 Voting power for each member is determined by the square root of the following: The sum of the total number of $vMOONEY token and the amount of unstaked MOONEY divided by 1,460 held in the member’s one registered wallet. In other words:
 
-![](/img/votingequation.PNG)
+![votingequation](_media-files/votingequation.png)
 
 Each member may only have one wallet registered with MoonDAO to determine their voting power. Members may delegate their voting power to other members.
 
@@ -129,7 +130,7 @@ Rocketeers are active in the Senate until the end of the season in which their p
 
 ### 2.3 Executive Branch
 
-MoonDAO’s Executive Branch is composed of Astronauts and the Treasury signers (hereinafter known as ‘signers’) of the MoonDAO treasury located at Ethereum Address 0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9. There will only be seven signers, with an execution threshold of five signers.
+MoonDAO’s Executive Branch is composed of Astronauts and the Treasury signers (hereinafter known as ‘signers’) of the MoonDAO treasury located at Ethereum Address `0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9`. There will only be seven signers, with an execution threshold of five signers.
 
 #### 2.3.1 Astronauts
 

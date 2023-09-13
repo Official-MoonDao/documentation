@@ -20,7 +20,7 @@ sidebar_position: 5
 ---
 ## High-level Overview
 MoonDAO is composed of three governing bodies:
-1. **The MoonDAO Senate.** This is a group of contributors that review incoming Proposals and perform due-dilligence before it goes up for vote for the rest of the DAO.
+1. **The MoonDAO Senate.** This is a group of contributors that review incoming Proposals and perform due-diligence before it goes up for vote for the rest of the DAO.
 2. **Member House.** This house is composed of all the DAO members. We use off-chain voting on [Snapshot](https://snapshot.org/#/tomoondao.eth).
 3. **Executive Branch.** If approved by the DAO, our on-chain smart contract signers execute the proposal from our [Gnosis Treasury](https://gnosis-safe.io/app/eth:0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9/balances).
 
@@ -41,7 +41,7 @@ For now, the current governance system for MoonDAO works as follows:
 
 ## Senate Meetings
 
-The Senate meets on a weekly basis to review incoming proposals, please check the MoonDAO Calendar on Discord for timing of the meeting. Senate meetings are a forum for the Senate to ask deeper questions about your proposal and do their due-diligence about the submission. If submitting a proposal, we ask that you be present to respond to questions about the proposal.
+The [[Senate]] meets on a weekly basis to review incoming proposals, please check the calendar on the [MoonDAO Discord server](MoonDAO%20Discord%20server.md) for timing of the meeting. Senate meetings are a forum for the Senate to ask deeper questions about a proposal and conduct due-diligence about the submission.
 
 Proposals must be posted at least 3 days in advance of Senate meetings to give time for the Senate to leave comments on the proposal. After the meeting, the Senate will vote on whether the proposal is ready and appropriate to be presented to the MoonDAO members.
 

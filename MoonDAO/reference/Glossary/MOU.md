@@ -4,6 +4,8 @@ tags:
 aliases: []
 ---
 %% Dataview plugin metadata (hidden)
-[Definition:: _explain what this term means_]
-Related:: _relevant links, tags, or terms_
+[Definition:: Memorandum of Understanding]
+Related:: [[Outbound SOP]]
 %%
+
+**M**emorandum **o**f **U**nderstanding.

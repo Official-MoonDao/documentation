@@ -1,5 +1,7 @@
 ---
-tags: project/lunar-comms, notes
+tags:
+  - project/lunar-comms
+  - proposal
 ---
 # Lunar Communications Network Topology Analysis (Internal Research Study) Proposal
 

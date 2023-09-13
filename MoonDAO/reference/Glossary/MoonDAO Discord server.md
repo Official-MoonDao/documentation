@@ -4,8 +4,8 @@ tags:
 aliases: []
 ---
 %% Dataview plugin metadata (hidden)
-[Definition:: _explain what this term means_]
-Related:: _relevant links, tags, or terms_
+[Definition:: The official Discord server for MoonDAO.]
+Related:: [https://discord.gg/moondao](https://discord.gg/moondao)
 %%
 
 https://discord.gg/moondao
