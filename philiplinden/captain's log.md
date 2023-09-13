@@ -1,9 +1,9 @@
 ---
 tags:
   - project/lunar-comms
-  - notes/journal
+  - notes
 ---
 ```dataview
 TABLE file.mtime as "Last Modified"
-FROM "projects/lunar-comms/captain's log"
+FROM #notes/journal AND -"MoonDAO/templates"
 ```
