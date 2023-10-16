@@ -1,3 +1,0 @@
----
-tags: reference/people, avs
----

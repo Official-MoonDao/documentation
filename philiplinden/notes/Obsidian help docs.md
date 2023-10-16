@@ -1,0 +1,12 @@
+---
+tags:
+  - phil/projects
+---
+- I should make better templates that use as few community plugins as possible for MoonDAO docs
+	- MOUs
+	- Proposals
+	- Reports
+- I should also write a tutorial on how to contribute to the Obsidian vault
+	- vault -> git workflow
+	- git -> vault workflow
+	- vault -> publish
