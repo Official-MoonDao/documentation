@@ -21,5 +21,7 @@ Authors
 - [OCP-TAP](../../../reference/Orgs/OCP-TAP.md)
 	- [Ahmad Byagowi](../../../reference/Bios/external/Ahmad%20Byagowi.md)
 
+<iframe title="How to Build Decentralized Lunar Infrastructure on Time" src="https://www.youtube.com/embed/cd8hiubLy48?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
 ![](Cislunar%20Open%20Clock%20Synchronization%20System%20(CLOCSS).pdf)
 ![](LunA-10%20Soliciation%20Response_%20Lunar%20PNT%2010-pager%20.pdf)

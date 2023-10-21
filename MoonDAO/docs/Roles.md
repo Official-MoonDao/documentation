@@ -22,13 +22,13 @@ sidebar_position: 7
 
 ## vMOONEY Roles
 - **[[@Member]]:** Holder of any amount of vMOONEY. Can vote on MoonDAO proposals.
-- **[[@Delegate]]:** Holder of at least 250,000 vMOONEY, and can officially submit proposals to the Senate on behalf of anyone.
+- **[[@Delegate]]:** Holder of at least 250,000 vMOONEY, and can officially submit proposals to the [Senate](../reference/Glossary/Senate.md) on behalf of anyone.
 
 ## Contributor Roles
 - **[@Moon Settler](@Moon%20Settler.md):** Currently working within a MoonDAO project.
 - **[@Rocketeer](@Rocketeer.md):** Leader of a MoonDAO project.
 - **[[@Astronaut]]:** Leader of MoonDAO.
 - **@TreasurySigner:** Signer on MoonDAO’s Treasury.
-- **@Voyager:** Former Moonsettler, Rocketeer, Astronaut, Guild Steward, or Treasury Singer.
+- **[@Voyager](../reference/Glossary/@Voyager.md):** Former Moonsettler, Rocketeer, Astronaut, Guild Steward, or Treasury Signer.
 - **[[@Earthling]]:** A verified member of our Discord.
 
