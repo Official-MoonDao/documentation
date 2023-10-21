@@ -1,6 +1,8 @@
 ---
-tags: reference/organization
-alias: "DeSci"
+tags:
+  - reference/organization
+  - desci
+aliases:
 ---
 
 link:: https://desci.com/

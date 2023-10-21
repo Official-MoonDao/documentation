@@ -1,5 +1,7 @@
 ---
-tags: project/luna-10, notes
+tags:
+  - project/luna-10
+  - notes
 ---
 ## Summary of Proposed Approach
 

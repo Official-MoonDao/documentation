@@ -6,7 +6,7 @@ tags:
 	- MOUs
 	- Proposals
 	- Reports
-- I should also write a tutorial on how to contribute to the Obsidian vault
-	- vault -> git workflow
-	- git -> vault workflow
-	- vault -> publish
+- I should also write a tutorial on how to contribute to the Obsidian vault → [Documentation Quickstart](../../MoonDAO/docs/Documentation%20Quickstart.md)
+	- [x] vault -> git workflow
+	- [x] git -> vault workflow
+	- [x] vault -> publish

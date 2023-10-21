@@ -1,5 +1,9 @@
 ---
-tags: reference/organization, open-lunar
-alias: "Open Lunar"
+tags:
+  - reference/organization
+  - open-lunar
+  - canada
+aliases:
+  - Open Lunar
 ---
 link:: https://www.openlunar.org/
