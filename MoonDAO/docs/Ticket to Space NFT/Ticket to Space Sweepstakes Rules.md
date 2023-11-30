@@ -11,8 +11,6 @@ slug: /tts-sweepstakes-rules
 
 ## **MoonDAO™ Ticket to Space Sweepstakes Rules**
 
-**
-
 ##**NO PURCHASE NECESSARY TO PLAY OR WIN.  PURCHASE WILL NOT INCREASE YOUR ODDS OF WINNING.**  
 
 The MoonDAO™ Second Ticket to Space Sweepstakes (the “Promotion”) is sponsored by LuckDAO Limited d/b/a MoonDAO (“Sponsor”).  By entering the Promotion, you agree to comply with and be bound by the following MoonDAO™ Second Ticket to Space Sweepstakes Rules (the “Rules”).  Please review the Rules carefully.  If you do not agree to the terms and conditions of the Rules in their entirety, you are not permitted to enter the Promotion.  This Promotion may be canceled or postponed by Sponsor, at any time in its sole discretion, due to the ongoing pandemic (e.g., Coronavirus/COVID-19) or other similar circumstances.
