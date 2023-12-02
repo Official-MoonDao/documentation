@@ -9,7 +9,7 @@ For context on what a nonprofit is, the IRS defines nonprofits as “organized a
 
 Motivation: The reason why RMI is the best option for MoonDAO is because this legal entity is compatible with tracking our members and our votes on the blockchain. Considering that our token is a [governance token](Governance%20Tokens.md) and we do not issue any returns or dividends to members, the nonprofit entity is the most ideal structure (See this article for more in depth analysis of the benefits of RMI legal entity). MoonDAO needs to have a proper legal entity if we plan on taking on bigger projects that may require us to make big purchases, enter into formal contracts and acquire a physical headquarters/working space. 
 
-Specification: The main goal is to go through [MIDAO](MIDAO.md) to establish this entity. It will require [Pablo](@pmoncada.md) to do KYC. The legal documents that establish us as a RMI Nonprofit DAO Llc will be similar to these and we will be able to adjust it as necessary: 
+Specification: The main goal is to go through [MIDAO](MIDAO.md) to establish this entity. It will require [@pmoncada](@pmoncada.md) to do KYC. The legal documents that establish us as a RMI Nonprofit DAO Llc will be similar to these and we will be able to adjust it as necessary: 
 
 https://docsend.com/view/caik9475xu5g9zqp 
 

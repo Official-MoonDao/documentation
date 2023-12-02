@@ -1,0 +1,3 @@
+Fiyin Odebunmi, a UI/UX Designer currently shaping digital experiences at MoonDAO. I've had the awesome opportunity to work with some cool web3 companies like JuiceboxDAO, RaribleDAO, BanklessDAO, DeepDAO, and RareSkills. My design journey isn't just about making things look good – it's about creating experiences that people love. I'm all about that sweet spot where design meets blockchain technology, and I've left my design touch on various projects in the decentralized world. If you're up for a chat, hit me up at odebunmifiyin@gmail.com. I'm fluent in English and, when I'm not immersed in design, you'll probably find me diving into the world of gaming.
+
+Discord: [@fiyin](https://discord.com/users/871844643665506395)
