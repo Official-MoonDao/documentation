@@ -32,17 +32,20 @@ See our [Constitution](http://docs.moondao.com/constitution). It also includes m
 
 ### How do I submit a proposal?
 
-You start by posting your idea in the [ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) of our Discord. Anyone can post there. Please outline the problem you’re trying to solve and the proposed solution. Other members can help you come up with ideas for your project. Once the idea has been in ideation for a week, you can create a formal proposal and submit it in “[proposal review](https://discord.com/channels/914720248140279868/1034923662442254356)”.
+ [Verify with guild](https://guild.xyz/moondao) to gain access to the [ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) of our Discord where you can post your idea. Please outline the problem you’re trying to solve and the proposed solution. Other members can help you come up with ideas for your project. Once the idea has been in ideation for a week, you create a formal proposal so a [delegate](@delegate) may submit it in “[proposal review](https://discord.com/channels/914720248140279868/1034923662442254356)”.
 
 All proposals from the community take the form of projects to implement the proposal. Once a proposal is submitted for review, three Senate members will do an in-depth review, you’ll respond to the comments and close them out and then it will be voted on by the Senate. Once approved by the Senate it will go to a snapshot for the community to vote.
 
 ### Where can I find the proposal template?
 
-Find the proposal template at the bottom of the [Projects system](https://docs.moondao.com/project-guidelines/). You can also find important information there about the rules and structure of projects, if you have never worked on a project before you must join a project before leading your own project. This helps you understand our system, and also helps us get an understanding of your work. We don’t want to get married to someone after one week of knowing each other 🙂
+Find the proposal template at the bottom of the [Projects system](https://docs.moondao.com/project-guidelines/). You can also find important information there about the rules and structure of projects. If you have never worked on a project before, you must join a one before leading your own. This helps you understand our system, and also helps us get an understanding of your work. We don’t want to get married to someone after one week of knowing each other 🙂
 
 ### How do I join a project?
 
-Join a guild, come to the guild meeting, and guild stewards will help match you to existing or upcoming projects. Project leaders will decide who joins the project team.
+The best way to join a project is by proactively participating in the ideation channel and proposal development. We encourage all potential contributors to attend and participate in weekly town halls and events to learn about the DAO's needs, values, and key players before joining a project.
+
+### Do I need to join a project to earn rewards?
+You can earn your way into the DAO through our community contributor circle. 
 
 ### How much do I get paid for my work?
 
