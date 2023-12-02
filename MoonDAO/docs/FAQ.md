@@ -6,14 +6,13 @@ description: Find Answers to our Frequently asked Questions, and learn more abou
 keywords: [FAQ, Funds, Risks, Token, DAO Compesation, Governance]
 sidebar_position: 9
 ---
-
 ### How much MOONEY should I buy?
 
 Up to you. You can view statistics for how much MOONEY others have [here](https://dashboard.moondao.com/#/analytics).
 
 ### Why do I need to stake to vote?
 
-We don’t want our community to be controlled by day-traders. We’d rather be governed by those with a long-term view and commitment to our mission. Staking locks your tokens for some amount of time. Stake [here](https://app.moondao.com/lock).
+We don’t want our community to be controlled by day-traders. We’d rather be governed by those with a long-term view and commitment to our mission. Staking measures commitment by locking your tokens for some amount of time. Stake [here](https://app.moondao.com/lock).
 
 ### How long should I stake?
 
@@ -21,8 +20,7 @@ Up to you. The longer the stake the more voting power you have.
 
 ### What do I get in exchange for staking MOONEY?
 
-Staking gives you governance inside of the community. [Our treasury](https://dashboard.moondao.com/#/treasury) is co-governed by all the stakers. All our financial decisions are approved by them. You can vote on proposals [here](http://vote.moondao.com). Those that have 250,000+ voting power can [submit proposals](https://discord.com/channels/914720248140279868/1034923662442254356) directly to the community, otherwise you’ll need a co-signer with 250,000+ voting power.
-
+Staking gives you governance inside of the community. [Our treasury](https://dashboard.moondao.com/#/treasury) is co-governed by all stakeholders. All our financial decisions are approved by them. You can vote on proposals [here](http://vote.moondao.com). Those that have 250,000+ voting power can [submit proposals](https://discord.com/channels/914720248140279868/1034923662442254356) directly to the community, otherwise you’ll need a co-signer with 250,000+ voting power.
 
 ### How is my voting power calculated?
 
