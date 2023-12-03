@@ -20,7 +20,7 @@ MoonDAO Projects are composed of Rocketeers that lead a team of MoonDAO members 
     2. Proposed solution.
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-- **Step 2:** ***Find a Delegate to support the proposal.*** If you don’t have 250,000 vMOONEY, you will need at least one person that has a Delegate role at MoonDAO to support the idea. This person is responsible for ensuring that the project meets all the requirements and follows the rules set forward for projects.
+- **Step 2:** ***Find a Delegate to support the proposal.*** If you haven't staked 250,000 MOONEY you will need at least one person that has a Delegate role at MoonDAO to support the idea. This person is responsible for ensuring that the project meets all the requirements and follows the rules set forward for projects.
 
     MoonDAO takes transparency, integrity, trust, and responsibility very seriously. Delegates may not receive Payment or Rewards directly from the project, since they are intended to act as neutral arbiters.  If the project does not follow MoonDAO’s rules and the Delegate does not make the DAO aware of the project breaking MoonDAO’s rules, the Delegate will be penalized from being allowed to bring more projects forward for a year. If the project succeeds in its objective, the Delegate will be rewarded with 2% of the project’s Coordinape project rewards (see Retroactive Rewards section for more information). Delegates are responsible for:
         1. Creating the project multisig, and being part of the multisig.
@@ -170,7 +170,7 @@ Yes. If a Rocketeer must step down for whatever reason but the project is not ye
 
 **Can Rocketeers be external to MoonDAO, or must they be members?**
 
-Rocketeers must be MoonDAO members before they start a project. If someone wants to join a project but is not yet a member, they should be on-boarded into the community and get vMOONEY before starting work, but it is not a strict requirement.
+Rocketeers must be MoonDAO members before they start a project. If someone wants to join a project but is not yet a member, they should be on-boarded into the community and stake MOONEY before starting work, but it is not a strict requirement.
 
 
 **What happens if the project misses its deadline?**
@@ -241,7 +241,7 @@ You can write as many OKRs as you think are needed. One OKR is fine if that capt
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | **Team Rocketeers**                                                                                            | @DiscordUser1                                                                         |
 | **Initial Team**                                                                                               | @DiscordUser2, @DiscordUser3, @DiscordUser4                                           |
-| **Delegate **                                                                                                  | A member with 250,000 vMOONEY. Cannot be on the initial team, nor the team Rocketeer. |
+| **Delegate **                                                                                                  | A member who has stakes at least 250,000 MOONEY. Cannot be on the initial team, nor the team Rocketeer. |
 | **Foreign Language Representative (optional)**                                                                 | @DiscordUser5                                                                         |
 | **Multi-sig Signers (if Budget is needed. This must be at least 5 people with a 3/5 execution threshold )   ** | @DiscordUser1, @DiscordUser2, @DiscordUser6, @DiscordUser7, @DiscordUser8             |
 | **Multisig ETH address  **                                                                                     | Multisig address must be created before the project is submitted to Snapshot.         |
