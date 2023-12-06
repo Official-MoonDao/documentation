@@ -7,7 +7,7 @@ aliases:
   - vMooney
 ---
 %% Dataview plugin metadata (hidden)
-Definition:: When [[MOONEY]] is staked, vMOONEY is granted to represent voting power.
+[Definition:: When [[MOONEY]] is staked, vMOONEY is granted to represent voting power.]
 Related:: [Governance Tokens](Governance%20Tokens.md), [MOONEY](MOONEY.md)
 %%
 
