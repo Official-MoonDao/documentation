@@ -6,74 +6,58 @@ description: Find Answers to our Frequently asked Questions, and learn more abou
 keywords: [FAQ, Funds, Risks, Token, DAO Compesation, Governance]
 sidebar_position: 9
 ---
-### How much MOONEY should I buy?
+### What is MoonDAO?
+MoonDAO is a collective of people from all over the world that are accelerating the development of a self-sustaining, self-governing settlement on the Moon to act as a launch point into the cosmos.
 
-Up to you. You can view statistics for how much MOONEY others have [here](https://dashboard.moondao.com/#/analytics).
+### Is MoonDAO sending people to space?
+**Yes!** MoonDAO’s first big goal was to send a DAO member to space. We’ve already sent one, and we’re sending another soon. In 2022 MoonDAO raised 2,600 ETH and purchased two tickets to space with Blue Origin. For one ticket, the community voted with the governance token $MOONEY to send Coby Cotton into space, the other seat has not yet been assigned, and there is still an opportunity to be selected.
 
-### Why do I need to stake to vote?
+### How can I get selected to go to space?
+You can purchase a Ticket To Space NFT! Each NFT costs 20,000 $MOONEY (this is currently equivalent to about $20), and gives you a chance of being randomly selected. The NFTs will be available until January 12th, 2024 on the Polygon network and can be purchased [here](https://app.moondao.com/sweepstakes).
 
-We don’t want our community to be controlled by day-traders. We’d rather be governed by those with a long-term view and commitment to our mission. Staking measures commitment by locking your tokens for some amount of time. Stake [here](https://app.moondao.com/lock).
+*DISCLAIMER: NO PURCHASE OF A TICKET TO SPACE NFT IS NECESSARY TO ENTER THE CONTEST OR WIN A CHANCE TO FLY TO SPACE. PURCHASE OF A TICKET TO SPACE NFT WILL NOT INCREASE YOUR ODDS OF WINNING A PRIZE. SEE CONTEST RULES FOR A FREE, ALTERNATIVE MEANS OF OBTAINING AN ENTRY. THE CONTEST IS ONLY OPEN TO INDIVIDUALS WHO ARE 18 YEARS OF AGE OR OLDER, OR THE AGE OF MAJORITY IF GREATER THAN 18 IN THEIR RESPECTIVE JURISDICTIONS. THE CONTEST IS VOID IN FLORIDA, NEW YORK, PUERTO RICO AND WHERE OTHERWISE PROHIBITED BY LAW. ODDS OF WINNING DEPEND ON THE NUMBER OF ENTRIES RECEIVED DURING THE CONTEST PERIOD, BUT CAN BE CALCULATED BY DIVIDING THE NUMBER OF PRIZES BY THE TOTAL NUMBER OF ENTRIES RECEIVED.*
 
-### How long should I stake?
+### How many Ticket To Space NFTs can I purchase?
+You can purchase up to 50 entries.
 
-Up to you. The longer the stake the more voting power you have.
+### What are my chances of winning?
+The odds of winning depend on the number of entries received during the contest period, it can be calculated by dividing over the total number of entries received.
 
-### What do I get in exchange for staking MOONEY?
+### What are the requirements to be selected to go to space?
+You must meet Blue Origin’s requirements to fly to space. Blue Origin reserves the right, in its sole and absolute discretion, to evaluate all potential travelers and to approve or deny access to any voyage. Therefore, the selected individual must meet certain health and physical criteria, as well as the legal ability to travel to the United States.
 
-Staking gives you governance inside of the community. [Our treasury](https://dashboard.moondao.com/#/treasury) is co-governed by all stakeholders. All our financial decisions are approved by them. You can vote on proposals [here](http://vote.moondao.com). Those that have 250,000+ voting power can [submit proposals](https://discord.com/channels/914720248140279868/1034923662442254356) directly to the community, otherwise you’ll need a co-signer with 250,000+ voting power.
+### If I already have a Ticket to Space NFT do I need to purchase?
+If you already have a Ticket to Space NFT from a previous free drawing, you’ll be allowed to mint one free entry into this drawing.
 
-### How is my voting power calculated?
+### What information will be collected from me?
+We require only an email to contact you in case you win, and your full legal name as it appears on a Photo ID to ensure that the winning NFT belongs to you. This information is never shared with anyone outside our organization, and will be deleted after the sweepstakes selection ends.
 
-We take the square root of your staked balance. This is known as quadratic voting. To prevent people from making multiple accounts we use sybil resistance with [Gitcoin Passports](https://passport.gitcoin.co/). To vote, make sure your wallet has a valid Gitcoin passport (note: Passports resets every 3 months so make sure you re-do your stamps each quarter). We ask that you have a Google Account, Twitter account, Discord Account, and an ETH wallet with at least 1 txn that has existed for over 30 days.
+### How do I acquire $MOONEY?
+If you already have a wallet with ETH, you can purchase [here](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet)via Uniswap. Make sure you *bridge* your $MOONEY to Polygon to purchase the NFTs. If this sounds like a foreign language to you, we’ve made a simple method of purchasing $MOONEY with a credit card or debit card along with account and wallet creation via email or social media in our onboarding process.
 
-### What are the mission and values of the community?
+### What is $MOONEY?
+$MOONEY is the token we use to govern and coordinate our community. To govern MoonDAO you must stake $MOONEY for some period of time to get voting power. You can read more about how this works in our [governance documentation](Governance%20Model.md) and [constitution](Constitution.md). There will always be a fixed supply of $MOONEY. 60% of the token is in circulating supply, and the other 40% is decided to be emitted by the token holders. There is no expectation of profit with this token. You are not receiving fractionalized ownership of the DAO’s assets in exchange for the token. No element of the $MOONEY and/or Ticket To Space NFTs qualifies or is intended to be an offering of securities in any jurisdiction, nor does it constitute an offer or an invitation to purchase shares, securities or other financial products. Please check our website’s FAQs for more information and disclaimers. You can learn more about the tokenomics of MOONEY [here](Governance%20Tokens.md).
 
-See our [Constitution](http://docs.moondao.com/constitution). It also includes more details about our governance process and important rules and structure in our community.
+### How does voting at MoonDAO work?
+We publish proposals on [Snapshot](https://vote.moondao.com/#/)and members with voting power can vote on the proposals, a proposal passes if the super majority (2/3rds) of the voting power agrees with executing the proposal. Your voting power is calculated quadratically based on how much $MOONEY you lock, and for how long. In other words, we take the square root of the number of tokens that you’ve locked, and the longer you lock the more voting power you get.
 
-### How do I submit a proposal?
+### How do I contribute to MoonDAO?
+MoonDAO is organized into teams called “Projects,” you can view the projects that have open roles or are looking for contributors by joining the MoonDAO Discord and visiting the [open-job-board](https://discord.com/channels/914720248140279868/1176926263458406410) channel. Individual projects also have project leads, called Rocketeers. We also have a Monday contributor call where project leads share what they are working on and specific calls for help, which is an excellent way to find areas where you can help. 
 
- [Verify with guild](https://guild.xyz/moondao) to gain access to the [ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) of our Discord where you can post your idea. Please outline the problem you’re trying to solve and the proposed solution. Other members can help you come up with ideas for your project. Once the idea has been in ideation for a week, you create a formal proposal so a [delegate](@delegate) may submit it in “[proposal review](https://discord.com/channels/914720248140279868/1034923662442254356)”.
+### What does owning a Ticket to Space NFT entail?
+Owning a Ticket to Space NFT grants you a chance to be randomly selected for a space journey sponsored by MoonDAO. The more NFTs you own, the higher your chances of being selected, but the total amount is capped at 50 per wallet.
 
-All proposals from the community take the form of projects to implement the proposal. Once a proposal is submitted for review, three Senate members will do an in-depth review, you’ll respond to the comments and close them out and then it will be voted on by the Senate. Once approved by the Senate it will go to a snapshot for the community to vote.
+### How often will MoonDAO conduct space journeys in the future?
+Our goal is to continue facilitating humanity's off-world future, and continue expanding opportunities for our community. Today many of these seats are prohibitively expensive, but the cost is going down dramatically, and MoonDAO will help bring more and more people to participate in becoming astronauts and bringing us closer to a multiplanetary future. We are currently sending our second astronaut, and there are no immediate plans for future Tickets to Space, but any opportunities will be communicated through official MoonDAO channels for future opportunities. 
 
-### Where can I find the proposal template?
+### Can I trade or transfer my Ticket to Space NFT?
+No, Ticket to Space NFTs cannot be traded or transferred between wallet addresses while the selection process is still open. However, keep in mind that NFTs can be purchased and gifted to others in their name.
 
-Find the proposal template at the bottom of the [Projects system](https://docs.moondao.com/project-guidelines/). You can also find important information there about the rules and structure of projects. If you have never worked on a project before, you must join a one before leading your own. This helps you understand our system, and also helps us get an understanding of your work. We don’t want to get married to someone after one week of knowing each other 🙂
+### Is there any use for $MOONEY beyond the Ticket to Space?
+$MOONEY holders are able to participate in the collective governance of the community treasury, submit project proposals, access the MoonDAO Marketplace, along with many other MoonDAO initiatives.
 
-### How do I join a project?
+### What happens if I'm selected but unable to participate in the space journey?
+In the event that a selected individual is unable to participate, MoonDAO will follow the Official Ticket to Space Sweepstakes rules and proceed down the list of runners-up until we identify an eligible candidate. You are not able to gift or transfer a winning ticket to another person in the event you cannot participate for whatever reason.
 
-The best way to join a project is by proactively participating in the ideation channel and proposal development. We encourage all potential contributors to attend and participate in weekly town halls and events to learn about the DAO's needs, values, and key players before joining a project.
-
-### Do I need to join a project to earn rewards?
-You can earn your way into the DAO through our community contributor circle. 
-
-### How much do I get paid for my work?
-
-All of our contributors get paid retroactively. At the end of the quarter we look at all the work that was done, and then distribute rewards to projects based on their outcomes. Then the project rewards are distributed to team members by rating each other through a system called [coordinape](https://coordinape.com/). For more details on how this works, read the [projects system](https://docs.moondao.com/project-guidelines/).
-
-### Where are the funds going to be stored?
-
-Our funds are stored in a Gnosis multi-sig with five of seven signers. Signers can be elected and rotated based on the [MoonDAO governance](Governance%20Model.md).
-
-### What are the risks?
-
-Crypto and web3 involve emergent and rapidly-developing technology and there is always a risk of unforeseen issues could impact us. Although we feel strongly that we have made everything as secure and foolproof as possible given the time constraints, we feel that it’s important to inform the community that these are possible risks:
-
-1. Despite the many layers of protection we have in place, the Gnosis Multi-Sig wallet could be affected by theft, loss of keys, or fraud.
-2. While the community has thoroughly vetted these contracts and our contribution platform has been previously battle-tested with millions of dollars secured, there is always the possibility that a smart contract could be hacked due to an unknown vulnerability.
-
-### Am I receiving ownership in exchange for my contribution?
-
-No. You are receiving a governance token, not fractionalized ownership. Governance includes the ability to advise on the mission, values, and operations of MoonDAO as well as the allocation of resources to projects that the DAO supports. MoonDAO is taking donations and donors are receiving [governance tokens](Governance%20Tokens.md) with no expectation of profit. These donations are not tax deductible at this point in time.
-
-### Will the core team receive any of the raised funds for themselves or get compensated in any way from this?
-
-The team has not pre-minted any tokens. The community determines the appropriate budget for the contributors through the [MoonDAO governance](Governance%20Model.md).
-
-### Why is there a 50% reserve on the token?
-
-The 50% reserve will be goverened by the $MOONEY holders, and can be used to pay contributors for their work on MoonDAO going forward, or could be even be burned if that is the wish of the community. We're not going to dump that reserve on secondary markets and dilute anyone without the consent of the voting members. We belieive that voters will likely only do things that do not hurt their interests, and that this is offers more protection to $MOONEY holders as potential voters than letting the DAO potentially deflate their holdings by minting more $MOONEY with no supply cap. Rather, we wanted to set a supply limit and leave the DAO with some portion to distribute for work done for the DAO.
-
-### How will governance work?
-
-Check out our [Governance](https://docs.moondao.com/governance) section and our [Constitution](https://docs.moondao.com/constitution) to learn more about how we work!
+### How does MoonDAO ensure transparency and fairness in the selection process?
+The selection process is conducted through verifiable, transparent means on the blockchain using Chainlink, ensuring fairness and equal opportunity for all Ticket to Space NFT holders. The smart contract code and final selection results are all independently verifiable.
