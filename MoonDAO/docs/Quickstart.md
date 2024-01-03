@@ -7,18 +7,15 @@ keywords: [Quickstart, Getting started, Join, Onboarding, Governance]
 sidebar_position: 3
 ---
 
+**
 
-### Tutorial to get started at MoonDAO:
-1. [Join our Discord](http://discord.gg/moondao)
-2. Go through the onboarding process
-   1. Post in the [introduce yourself](https://discord.com/channels/914720248140279868/917524355242663977)
-   2. [Get the governance token](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet). As much or as little as you’d like. This is your stake in the community. [Lock](https://app.moondao.com/lock) it in the MoonDAO app for governance power.
-   3. [Verify your holdings on Discord](https://discord.com/channels/914720248140279868/945284940721975356). The rest of the community governance and guild channels won’t be opened up until you do this step.
-   4. Join an onboarding call to get direct support and introduce yourself (check our [events schedule](https://discord.com/channels/914720248140279868/923068372428660736) for onboarding call times)
-3. Work for MoonDAO
-   1. Join an existing project (see our [ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509), project channels, or attend open project meetings listed on the event calendar)
-   2. Get paid retroactively with Coordinape (in other words your project teammates rate your performance afterwards).
+### # How to get started at MoonDAO
 
+**Join [Our Discord]([http://discord.gg/moondao](http://discord.gg/moondao))**  
+Discord is the epicenter of our community where we socialize and all work coordination and governance processes happen. Come introduce yourself, chat about space, and participate in our events!    
 
+**Visit [Mission Control]([https://app.moondao.com/](https://app.moondao.com/))**  
+Mission Control is the main utility layer where you can become a member, engage with space-focused endeavors, and get started on the path to deeper levels of integration.
 
-
+**Join a [MoonDAO Project]([Projects - MoonDAO - Obsidian Publish](https://publish.obsidian.md/moondao/MoonDAO/docs/Projects))**  
+Our project system is the main method MoonDAO uses for developing, approving, and funding new initiatives.
