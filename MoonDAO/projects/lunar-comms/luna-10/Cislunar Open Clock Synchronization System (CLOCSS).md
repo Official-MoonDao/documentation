@@ -8,7 +8,7 @@ aliases:
 Authors
 - MoonDAO
 	- [Philip Linden](../../../reference/Bios/@philiplinden.md)
-	- [Pablo Moncada-Larrotiz](../../../reference/Bios/@pmoncada.md)
+	- [Pablo Moncada-Larrotiz](@pmoncada.md)
 	- [Greg Search](../../../reference/Bios/@gregsearch.md)
 - [Open Lunar Foundation](../../../reference/Orgs/Open%20Lunar%20Foundation.md)
 	- [Rachel Williams](../../../reference/Bios/external/Rachel%20Williams.md)

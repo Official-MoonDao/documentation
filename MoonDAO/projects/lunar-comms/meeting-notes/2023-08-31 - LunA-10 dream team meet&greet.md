@@ -8,7 +8,7 @@ tags:
 [Ramon Blanco Maceiras](Ramon%20Blanco%20Maceiras.md) -- avs. missions that are exploratory, fusion, space, lunar etc
 [Ahmad Byagowi](Ahmad%20Byagowi.md) (ah-med) -- time sync in data centers
 [Rachel Williams](Rachel%20Williams.md), [Jacob Malthouse](Jacob%20Malthouse.md) 
-[greg](@gregsearch.md), [phil](@philiplinden.md), [Pablo](@pmoncada.md) 
+[greg](@gregsearch.md), [phil](@philiplinden.md), [@pmoncada](@pmoncada.md) 
 
 need a SAM account → open lunar has one (we think!), avs does too
 if 3-pager is accepted, need to execute 10 pager within 30 days
