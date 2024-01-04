@@ -4,10 +4,10 @@ tags: project/lunar-comms, notes
 
 # Architectures
  - [x] [[@PasqualeEtAl2022]] A. Pasquale, G. Zanotti, J. Prinetto, M. Ceresoli, and M. Lavagna, “Cislunar distributed architectures for communication and navigation services of lunar assets,” Acta Astronautica, vol. 199, pp. 345–354, Oct. 2022, doi: 10.1016/j.actaastro.2022.06.004.
-- [ ] [[@Naseem2022]] M. Naseem, “Last-mile Analogies for a Lunar Communications Network - Open Lunar Foundation,” Open Lunar Foundation, Jan. 26, 2022. https://www.openlunar.org/library/last-mile (accessed Feb. 11, 2023).
+- [x] [[@Naseem2022]] M. Naseem, “Last-mile Analogies for a Lunar Communications Network - Open Lunar Foundation,” Open Lunar Foundation, Jan. 26, 2022. https://www.openlunar.org/library/last-mile (accessed Feb. 11, 2023).
 
 ## Architecture x Policy
-- [ ] [[@Schingler2020]] J. K. Schingler, “Space Tenure: The Policies of Sustained Lunar Presence - Open Lunar Foundation,” Open Lunar Foundation. https://www.openlunar.org/library/space-tenure-the-policies-of-sustained-lunar-presence (accessed Feb. 11, 2023).
+- [x] [[@Schingler2020]] J. K. Schingler, “Space Tenure: The Policies of Sustained Lunar Presence - Open Lunar Foundation,” Open Lunar Foundation. https://www.openlunar.org/library/space-tenure-the-policies-of-sustained-lunar-presence (accessed Feb. 11, 2023).
 - [ ] [[@CosbyTai2022]] M. Cosby and W. Tai, “Report of the Interagency Operations Advisory Group Lunar Communications Architecture Working Group,” Lunar Communications Architecture Working Group, Jan. 2022.
 # Lunar South Pole
 - [ ] [[@DivsalarEtAl2019]] D. Divsalar, M. S. Net, and K.-M. Cheung, “Acquisition and tracking for communications between Lunar South Pole and Earth,” in 2019 IEEE Aerospace Conference, Mar. 2019, pp. 1–14. doi: 10.1109/AERO.2019.8742112.
