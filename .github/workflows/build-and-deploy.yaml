@@ -28,7 +28,7 @@ jobs:
           fetch-depth: 0
           path: vault
       - name: Override default Quartz configurations
-        run: cp -a vault/${{ env.SITE_CONFIG }} .
+        run: rsync -r vault/${{ env.SITE_CONFIG }} .
       - name: Build site with Quartz
         run: npx quartz build -d vault/${{ env.SITE_DIR }} -o site
       - name: Cache site
