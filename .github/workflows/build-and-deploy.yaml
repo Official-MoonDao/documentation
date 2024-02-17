@@ -10,6 +10,7 @@ on:
   workflow_dispatch: {}
 env:
   SITE_DIR: MoonDAO/docs
+  SITE_CONFIG: site-config/*
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,7 +27,9 @@ jobs:
         with:
           fetch-depth: 0
           path: vault
-      - name: Build Site with Quartz
+      - name: Override default Quartz configurations
+        run: cp vault/${{ env.SITE_CONFIG }} .
+      - name: Build site with Quartz
         run: npx quartz build -d vault/${{ env.SITE_DIR }} -o site
       - name: Cache site
         uses: actions/upload-artifact@main
