@@ -1,0 +1,66 @@
+name: build-and-deploy
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: {}
+env:
+  SITE_DIR: MoonDAO/docs
+  SITE_CONFIG: site-config/*
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Quartz
+        uses: actions/checkout@main
+        with:
+          repository: jackyzha0/quartz
+          fetch-depth: 0
+      - name: Install Quartz
+        run: npm i jackyzha0/quartz
+      - name: Checkout self
+        uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+          path: vault
+      - name: Override default Quartz configurations
+        run: cp vault/${{ env.SITE_CONFIG }} .
+      - name: Build site with Quartz
+        run: npx quartz build -d vault/${{ env.SITE_DIR }} -o site
+      - name: Cache site
+        uses: actions/upload-artifact@main
+        with:
+          name: site
+          path: site
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@main
+        with:
+          name: site
+          path: site
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@main
+        with:
+          path: site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@main
+        if: github.event_name != 'pull_request'
