@@ -1,5 +1,6 @@
 ---
 tags: docs/ticket-to-space, sweepstakes, legal
+tags: docs/ticket-to-space
 id: tts-sweepstakes-and-securities-disclaimer
 title: Sweepstakes and Securities Disclaimer
 description: Disclaimers regarding MoonDAO Ticket to Space NFT Sweepstakes and Securities
