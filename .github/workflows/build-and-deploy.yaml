@@ -27,10 +27,10 @@ jobs:
         with:
           fetch-depth: 0
           path: vault
-      - name: Override default Quartz configurations
-        run: rsync -r vault/${{ env.SITE_CONFIG }} .
       - name: Build site with Quartz
-        run: npx quartz build -d vault/${{ env.SITE_DIR }} -o site
+        run: |
+          rsync -r -v vault/${{ env.SITE_CONFIG }} .
+          npx quartz build -d vault/${{ env.SITE_DIR }} -o site
       - name: Cache site
         uses: actions/upload-artifact@main
         with:
