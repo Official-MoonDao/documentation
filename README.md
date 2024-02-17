@@ -3,7 +3,7 @@ Markdown files in `MoonDAO/docs` are used to generate MoonDAO's [public document
 
 This repository is compatible with [Obsidian](https://help.obsidian.md/Home).
 
-[![build-and-deploy](https://github.com/Official-MoonDao/moondao-vault/actions/workflows/build-and-deploy.yaml/badge.svg?branch=main)](https://github.com/Official-MoonDao/moondao-vault/actions/workflows/build-and-deploy.yaml) [![hackmd-github-sync-badge](https://hackmd.io/od9uSXB4TJ-BE7q6yUGLzg/badge)](https://hackmd.io/od9uSXB4TJ-BE7q6yUGLzg) 
+[![build-and-deploy](https://github.com/Official-MoonDao/moondao-vault/actions/workflows/build-and-deploy.yaml/badge.svg?branch=main)](https://github.com/Official-MoonDao/moondao-vault/actions/workflows/build-and-deploy.yaml)
 
 ## Making changes
 These docs are a collection of markdown files so you can use any text editor to make changes.
