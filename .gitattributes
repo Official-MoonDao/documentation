@@ -1,0 +1,5 @@
+# track markdown stats
+**/*.md -linguist-documentation
+
+# ignore styling
+**/*.css linguist-vendored
