@@ -11,7 +11,7 @@ sidebar_position: 3
 
 ### # How to get started at MoonDAO
 
-**Join [Our Discord]([http://discord.gg/moondao](http://discord.gg/moondao))**  
+**Join [Our Discord]([https://moondao.com/discord/)**  
 Discord is the epicenter of our community where we socialize and all work coordination and governance processes happen. Come introduce yourself, chat about space, and participate in our events!    
 
 **Visit [Mission Control]([https://app.moondao.com/](https://app.moondao.com/))**  
