@@ -14,7 +14,7 @@ sidebar_position: 3
 **Join [Our Discord](https://moondao.com/discord/)**  
 Discord is the epicenter of our community where we socialize and all work coordination and governance processes happen. Come introduce yourself, chat about space, and participate in our events!    
 
-**Visit [Mission Control](https://app.moondao.com/](https://app.moondao.com/))**  
+**Visit [Mission Control](https://app.moondao.com/)**  
 Mission Control is the main utility layer where you can become a member, engage with space-focused endeavors, and get started on the path to deeper levels of integration.
 
 **Join a [MoonDAO Project](https://publish.obsidian.md/moondao/MoonDAO/docs/Projects)**  
