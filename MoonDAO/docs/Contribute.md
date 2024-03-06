@@ -45,5 +45,4 @@ Leading a MoonDAO project is a larger commitment, you would steward the project 
 
 ## Level 3: Become an Astronaut
 
-An Astronaut role is given to members that are trusted with stewarding the DAO and helping guide it as it becomes increasingly decentralized. This is the highest level of contribution to the DAO. The DAO can hold votes to select Astronauts, as detailed in our [Constitution](https://docs.moondao.com/constitution).
-
+An Astronaut role is given to members that are trusted with stewarding the DAO and helping guide it as it becomes increasingly decentralized. This is the highest level of contribution to the DAO. The DAO can hold votes to select Astronauts, as detailed in our [Constitution](https://publish.obsidian.md/moondao/MoonDAO/docs/Constitution).
