@@ -24,7 +24,7 @@ MoonDAO is composed of three governing bodies:
 2. **Member House.** This house is composed of all the DAO members. We use off-chain voting on [Snapshot](https://snapshot.org/#/tomoondao.eth).
 3. **Executive Branch.** If approved by the DAO, our on-chain smart contract signers execute the proposal from our [Gnosis Treasury](https://gnosis-safe.io/app/eth:0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9/balances).
 
-Please read [our constitution](https://docs.moondao.com/Governance/constitution) for definitions and in-depth detail.
+Please read [our constitution](https://publish.obsidian.md/moondao/MoonDAO/docs/Constitution) for definitions and in-depth detail. 
 
 **We are currently in the process of implementing all features of our Constitution on-chain.**
 
@@ -32,18 +32,18 @@ For now, the current governance system for MoonDAO works as follows:
 
 ## Proposal Flow
 
-1. Any MoonDAO member may create a proposal. To begin, you create a post in the “ideation” forum, and get feedback on your initial proposal from community members. Currently, we accept two proposal types: Project Proposals, and Guild Proposals. You may find proposal templates in the [project system](https://docs.moondao.com/projects) and [guild system](https://docs.moondao.com/guilds).
-2. Once a proposal is ready to submit, a MoonDAO Delegate (anyone with 250,000 vMOONEY) may submit the proposal to the MoonDAO Senate on your behalf.
-3. The Senate will do a due-diligence on the proposal, if the proposal receives more than 70% approval it moves to all the vMOONEY holders. Seats on the senate can not be bought, the Senate is composed of people that are leading MoonDAO projects.
+1. Any MoonDAO member may create a proposal. To begin, create a post in [the ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) and get feedback on the proposal idea from community members. Once the idea is fully formed, you may formalize the proposal using a copy of [the official proposal template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit?usp=sharing)
+2. Once a proposal is ready to submit, a MoonDAO Delegate (anyone with 250,000+ vMOONEY) may submit the proposal to the MoonDAO Senate on your behalf.
+3. The Senate will do a due-diligence on the proposal, if the proposal receives more than 70% approval it moves to all the vMOONEY holders in the Member House. Seats on the senate can not be bought, the Senate is composed of people that are leading MoonDAO projects.
 4. The vMOONEY holders vote on the proposal, if more than 70% agree it goes to the on-chain treasury for signing.
 5. The Treasury signers execute the proposal’s on-chain components (sending funds, or implementing an on-chain update to the DAO’s functions).
 
 
 ## Senate Meetings
 
-The [[Senate]] meets on a weekly basis to review incoming proposals, please check the calendar on the [MoonDAO Discord server](MoonDAO%20Discord%20server.md) for timing of the meeting. Senate meetings are a forum for the Senate to ask deeper questions about a proposal and conduct due-diligence about the submission.
+The [[Senate]] meets on a weekly basis (at the Town Hall event) to review incoming proposals, please check [the calendar](https://discord.com/channels/914720248140279868/923068372428660736) on the MoonDAO Discord server for timing of the meeting. Senate meetings are a forum for the Senate to ask deeper questions about a proposal and conduct due-diligence about the submission.
 
-Proposals must be posted at least 3 days in advance of Senate meetings to give time for the Senate to leave comments on the proposal. After the meeting, the Senate will vote on whether the proposal is ready and appropriate to be presented to the MoonDAO members.
+During or immediately after the Town Hall, the Senate will vote on whether the proposal is valid and constitutionally-aligned with [MoonDAO's values](https://publish.obsidian.md/moondao/MoonDAO/docs/Values).
 
 ## Proposal Timing
 
@@ -53,8 +53,8 @@ We are trying to optimize the speed that our DAO moves without sacrificing on qu
 
 General timing expectations:
 
-1. Submission to the Senate three days before meeting time.
+1. Submission to the Senate before the Town Hall time (preferably 3 days in advance).
 2. vMOONEY Member House five day voting period.
-4. On-chain execution within five days, ideally less.
+4. On-chain execution within seven days, ideally less.
 
 Therefore, please allow anywhere from 10-15 days before a proposal goes through.
