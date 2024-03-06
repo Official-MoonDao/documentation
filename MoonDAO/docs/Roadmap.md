@@ -37,10 +37,10 @@ With MoonDAO's token raise on [Juicebox](https://juicebox.money/#/p/moondao), Mo
 
 This was our first big statement: to make it accessible to anyone in the world.
 
-MoonDAO purchased two tickets from [Blue Origin](Blue%20Origin.md) and decided that it would select each astronaut using a different method:
+MoonDAO purchased two tickets from Blue Origin and decided that it would select each astronaut using a different method:
 
 1. For the first ticket, we did a popular vote with $MOONEY to vote between several candidates. The winner was Dude Perfect! They ran their own internal contest by building model rockets, and Coby Cotton was the winner. He was sent into Space on August 4th, 2022.
-2. For the second ticket, we released a **Ticket To Space NFT Collection** for free. Over 8000 NFTs were minted, and we ran an on-chain chainlink VRF function to select the winner, however, after a year-long struggle with the Americain government regarding his visa, his application was ultimately denied. MoonDAO is currently in the process of deliberation regarding the next astronaut we choose to send on a future [Blue Origin](Blue%20Origin.md) New Shepard flight.
+2. For the second ticket, we released a **Ticket To Space NFT Collection** for free. Over 8000 NFTs were minted, and we ran an on-chain chainlink VRF function to select the winner, however, after a year-long struggle with the Americain government regarding his visa, his application was ultimately denied. MoonDAO is currently in the process of deliberation regarding the next astronaut we choose to send on a future Blue Origin New Shepard flight.
 
 So far in history, space exploration has been gated to the rest of the world — accessible to only the privileged. MoonDAO changes this for the first time in history.
 
@@ -65,7 +65,7 @@ The 1967 Space Treaty forms the basis for all laws concerning space. In this tre
 
 We have the opportunity to use these new governance and coordination tools in order to form a more perfect union as we extend the rights and liberties of every human on earth into the solar system.
 
-[SpaceX](SpaceX.md), [Blue Origin](Blue%20Origin.md), NASA, China, and many others have on their roadmap that they would like to be on the Moon, to stay, in this decade. The Moon will serve as the gateway to the rest of the stars. Let's ensure that this is a decentralized port, where anyone on Earth can have access, rather than a privileged few.
+SpaceX, Blue Origin, NASA, China, and many others have on their roadmap that they would like to be on the Moon, to stay, in this decade. The Moon will serve as the gateway to the rest of the stars. Let's ensure that this is a decentralized port, where anyone on Earth can have access, rather than a privileged few.
 
 Could a DAO create the network-state required to organize our collective resources and collaborate with values-aligned people from around the world to cooperate as we go to the Moon? We think so.
 
