@@ -5,7 +5,7 @@ aliases: []
 ---
 %% Dataview plugin metadata (hidden)
 [Definition:: The official Discord server for MoonDAO.]
-Related:: [https://discord.gg/moondao](https://discord.gg/moondao)
+Related:: [MoonDAO's Discord](https://moondao.com/discord)
 %%
 
-https://discord.gg/moondao
+https://moondao.com/discord
