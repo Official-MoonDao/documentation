@@ -15,7 +15,7 @@ MoonDAO Projects are composed of Rocketeers that lead a team of MoonDAO members 
 
 ### Project Proposal Process
 
-- **Step 1:** ***Post in the “project-ideation” channel on Discord.*** You don’t need to have a fully formed idea for a project yet, and you can be pretty informal at this stage. There are two things to articulate in the ideation channel: 
+- **Step 1:** ***Post in the [ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) on Discord.*** You don’t need to have a fully formed idea for a project yet, and you can be pretty informal at this stage. There are two things to articulate in the ideation channel: 
     1. Problem to be solved.
     2. Proposed solution.
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
@@ -27,9 +27,7 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
         2. Ensuring the payment methods for the project are created.
         3. Compiling a monthly report on the progress of the project for the DAO.
         4. Helping submit the final report for the project.
-        5. Setting up and maintaining the project’s DeWork and Coordinape.
-        6. Creating the project’s folder on Google Drive.
-        7. Cleanup of the project after it has finished.
+        5. Cleanup of the project after it has finished.
 
 - **Step 3:** ***Proposal Submission.*** A project template (below) must be filled out with the help of the Delegate to workshop the project and make sure it fits all the requirements. Once the project meets all the requirements to be put up, then the Delegate will submit the proposal on Discord under “Proposal Submit.” The proposal should preferably be posted 3 days before the Town Hall. This will allow Senate members to review your proposal and provide an in-depth review of the project prior to the meeting. Project approval permissions vary as follows:
   
@@ -61,7 +59,6 @@ Other members of the project with assigned tasks become **Moonsettlers.** These 
 
 1. **Provide weekly written updates on progress.** Post updates on work in the “Weekly Updates” channel above active projects.
 2. **Keep a record of contributions.** It is highly recommended to keep a record of the work completed, this can be done within the weekly updates and will be helpful when filling out the Final Report and Coordinape at the end of the project.
-3. **Update their task progress on DeWork.** Ensure that your task is being tracked on DeWork and the progress of the task is updated.
 
 ### Project Completion
 The Project Delegate and Rocketeer must make sure the following are complete:
@@ -70,7 +67,6 @@ The Project Delegate and Rocketeer must make sure the following are complete:
 1. **Complete a Final Report (attached below).** Each project member must include their contributions in the final report. Reports must be submitted to the DAO in the “Final Report” channel on Discord before the end of the quarter to be included in that quarter’s reward cycle. These reports will be attached on Snapshot for final voting by the DAO.
 2. **Return excess funds to the DAO treasury.** Please attach a link to the DAO’s multisig in the final report along with a table including the justification for expenses.
 3. **Coordinape for rewards distribution.** Every project member receives 100 GIVE and must distribute their full amount, except smaller teams of four or fewer if there is an agreement on distribution amounts with all members agreeing on the distribution in writing. Project Rocketeers may also add anyone else in the Coordinape that they thought provided help to them but were not officially part of the team on the proposal, however, those added members do not receive any GIVE. Each person on the Coordinape must include their list of contributions in the final report. Please include a link to this completed Coordinape in the Final Report.
-4. **Update roles.** Update Moonsettler and Rocketeer roles to Voyager roles (distinguished members of MoonDAO who have successfully completed a project).
 5. **Create Documentation.** If someone needs to maintain the work after it’s completed, or users need to know where things are, please include documentation for the people who come after you.
 
 ### Retroactive Rewards
@@ -90,7 +86,7 @@ The total amount of rewards each quarter is calculated as follows:
 
 The DAI will be given as a lump-sum reward. The MOONEY will be staked for 4 years in a safe wallet under the member's control with the voting power delegated to the member's voting wallet.
 
-To calculate the reward distribution, Rocketeers assign a % of the total rewards that they believe should go to each project. However, Rocketeers do not give a distribution for their own projects due to a conflict of interest. Thus if an individual is a rocketeer of many projects, their distributions to other projects will be "greater" because they are distributing to less projects. Therefore, MoonDAO uses [this python script](https://colab.research.google.com/drive/15aO6ONUkUlwj-ZEqeEVRcVMLu3ZeLFb-?usp=sharing)) which aims to normalize those effects by calculating the average score for each project, and inserting that calculated average into the Rocketeer's distribution, and then normalizing each Rocketeer's distribution to sum up to 100%. The process is repeated iteratively until the value of the Rocketeer's calculated score matches the average for that project. We call this process "iterative normalization".
+To calculate the reward distribution, Rocketeers assign a % of the total rewards that they believe should go to each project. However, Rocketeers do not give a distribution for their own projects due to a conflict of interest. Thus if an individual is a rocketeer of many projects, their distributions to other projects will be "greater" because they are distributing to less projects. Therefore, MoonDAO uses [this python script](https://colab.research.google.com/drive/15aO6ONUkUlwj-ZEqeEVRcVMLu3ZeLFb-?usp=sharing) which aims to normalize those effects by calculating the average score for each project, and inserting that calculated average into the Rocketeer's distribution, and then normalizing each Rocketeer's distribution to sum up to 100%. The process is repeated iteratively until the value of the Rocketeer's calculated score matches the average for that project. We call this process "iterative normalization".
 
 Once we have the normalized results of all Rocketeer assessments, a Snapshot vote is created for members to delegate their voting power to each Rocketeer’s distribution they most agree with to determine the overall reward distribution.
 

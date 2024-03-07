@@ -24,7 +24,7 @@ MoonDAO is composed of three governing bodies:
 2. **Member House.** This house is composed of all the DAO members. We use off-chain voting on [Snapshot](https://snapshot.org/#/tomoondao.eth).
 3. **Executive Branch.** If approved by the DAO, our on-chain smart contract signers execute the proposal from our [Gnosis Treasury](https://gnosis-safe.io/app/eth:0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9/balances).
 
-Please read [our constitution](https://publish.obsidian.md/moondao/MoonDAO/docs/Constitution) for definitions and in-depth detail. 
+Please read [our constitution](Constitution.md) for definitions and in-depth detail. 
 
 **We are currently in the process of implementing all features of our Constitution on-chain.**
 
