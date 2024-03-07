@@ -2,7 +2,7 @@
 tags:
   - docs/onboarding
 ---
-MoonDAO's documentation, planning, project notes, and other reference material is organized in an [Obsidian vault](<[Obsidian vault](https://help.obsidian.md/Home)>). This vault is the source data for [docs.moondao.com](https://docs.moondao.com) through [Obsidian Publish](https://obsidian.md/publish). As an Obsidian vault, all documentation is saved as plain-text files styled with [a flavor of Markdown syntax](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
+MoonDAO's documentation, planning, project notes, and other reference material is organized in an [Obsidian vault](https://help.obsidian.md/Home). This vault is the source data for [docs.moondao.com](https://docs.moondao.com) through [Obsidian Publish](https://obsidian.md/publish). As an Obsidian vault, all documentation is saved as plain-text files styled with [a flavor of Markdown syntax](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
 
 The source files for [docs.moondao.com](https://docs.moondao.com) and other archived documentation are publicly available at [github.com/Official-MoonDao/moondao-vault](https://github.com/Official-MoonDao/moondao-vault).
 # Using the vault
