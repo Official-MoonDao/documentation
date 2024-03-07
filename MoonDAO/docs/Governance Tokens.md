@@ -71,7 +71,7 @@ The rest of the $MOONEY in the treasury is controlled by the voting members. Moo
 
 ## Voting Power Characteristics
 
-Voting power is a measure of impact a member has on collective decisioning, and we've made it easy to join and claim your voting power. Simply visit the [Join MoonDAO]() page in our app, select your membership level, and follow the guided process. 
+Voting power is a measure of impact a member has on collective decisioning, and we've made it easy to join and claim your voting power. Simply visit the [Join MoonDAO](https://app.moondao.com/join) page in our app, select your membership level, and follow the guided process. 
 
 Advanced users can purchase any amount of [$MOONEY via Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) and [stake](https://app.moondao.com/lock) some or all of that for any amount of time between one week and four years. You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you stake.
 
