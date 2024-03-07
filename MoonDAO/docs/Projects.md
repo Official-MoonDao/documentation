@@ -192,6 +192,11 @@ The Astronauts can propose to amend this system by going through our DAO Governa
 
 Generally no. However, if concern about the direction of a project is raised by a community member they are free to message the Rocketeer and ask them directly. If a major issue that goes against our rules is presented, then the Senate can vote to shut the project down (end payment streaming, receive treasury back, remove member’s roles, and exclude the project from quarterly rewards), and slash the Delegate’s stake.
 
+**How is MoonDAO able to delegate the voting power of staked MOONEY, and how can contributors claim their MOONEY when the stake is expired?**
+
+For this process MoonDAO uses "delegation safes". A delegation safe is a multisig wallet that holds the staked voting power that a contributor earns through the quarterly rewards cycle. For more information about delegation safes, such as how to increase your stake or how to delegate your voting power to another address, see the [delegation safe FAQs](Delegation%20Safe%20FAQs.md).
+
+
 ------
 
 
