@@ -31,7 +31,8 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
         6. Creating the project’s folder on Google Drive.
         7. Cleanup of the project after it has finished.
 
-- **Step 3:** ***Proposal Submission.*** A project template (below) must be filled out with the help of the Delegate to workshop the project and make sure it fits all the requirements. Once the project meets all the requirements to be put up, then the Delegate will submit the proposal on Discord under “Proposal Submit.” The proposal must be posted 48 hours before the Senate meeting. This will allow Senate members to review your proposal and provide an in-depth review of the project prior to the Senate meeting. Project approval permissions vary as follows:
+- **Step 3:** ***Proposal Submission.*** A project template (below) must be filled out with the help of the Delegate to workshop the project and make sure it fits all the requirements. Once the project meets all the requirements to be put up, then the Delegate will submit the proposal on Discord under “Proposal Submit.” The proposal should preferably be posted 3 days before the Town Hall. This will allow Senate members to review your proposal and provide an in-depth review of the project prior to the meeting. Project approval permissions vary as follows:
+  
   1. If the prospective Rocketeers have already successfully completed a project before, and the proposal does not require up-front funding from MoonDAO, and it doesn’t require crowdfunding from the community, the Senate does not need to vote on the proposal and it may proceed permissionlessly, as long as the proposal was submitted, presented to the Senate for awareness, and verified as legitimate by an Astronaut.
   2. If the proposal does not require up-front funding from MoonDAO, but it does require crowdfunding from the community, the Senate will do a due-diligence on the specifications, objective, and team for the Project, and will vote on approving the project as outlined in our Constitution, but it does not need to go through a DAO-wide vote.
   3. If the proposal requires up-front funding from MoonDAO it must go through DAO Governance as outlined in the Constitution. Multisig and Project Revenue split contracts should be created before snapshot voting.
@@ -81,7 +82,7 @@ The Project Delegate and Rocketeer must make sure the following are complete:
 ### Retroactive Rewards
 The DAO incentivizes people to start new projects with its quarterly rewards bonus system.
 
-Each quarter, the projects that were completed will be eligible for Project Rewards if and only if they have submitted their Final Report to the DAO and it has been approved by the Astronauts. Final reports must be submitted by the end of the quarter.
+Each quarter, the projects that were completed will be eligible for Project Rewards if and only if the Rocketeer (Project leader) has submitted their Final Report to the DAO and it has been approved by the Astronauts. Final reports must be submitted by the end of the quarter.
 
 The total amount of rewards each quarter is calculated as follows:
 	
@@ -93,9 +94,13 @@ The total amount of rewards each quarter is calculated as follows:
     4. Q3 2023: 12,860,625 MOONEY.
     5. And so on, infinitely, decreasing by 0.95 every quarter.
 
-The DAI will be given as a lump-sum reward. The MOONEY will be streamed over the next year as long as the member remains engaged in a MoonDAO project as either a Rocketeer or Moonsettler. This way members that work for a long time at MoonDAO will accrue rewards and we have an incentive for people to remain active at the DAO.
+The DAI will be given as a lump-sum reward. The MOONEY will be staked for 4 years in a safe wallet under the member's control with the voting power delegated to the member's voting wallet.
 
-At the end of the quarter, the Senate will be presented with all the projects that were completed along with their Final Reports, and they will be allowed to allocate what they think is a fair proportion of rewards that should go to each project. Then a Snapshot vote will be created for members to delegate their voting power to each Senate member’s distribution they most agree with. The up-front payment will be subtracted from the quarterly project rewards bonus.
+To calculate the reward distribution, Rocketeers assign a % of the total rewards that they believe should go to each project. However, Rocketeers do not give a distribution for their own projects due to a conflict of interest. Thus if an individual is a rocketeer of many projects, their distributions to other projects will be "greater" because they are distributing to less projects. Therefore, MoonDAO uses [this python script]([Project Distributions Calculator - Colaboratory (google.com)](https://colab.research.google.com/drive/15aO6ONUkUlwj-ZEqeEVRcVMLu3ZeLFb-?usp=sharing)) which aims to normalize those effects by calculating the average score for each project, and inserting that calculated average into the Rocketeer's distribution, and then normalizing each Rocketeer's distribution to sum up to 100%. The process is repeated iteratively until the value of the Rocketeer's calculated score matches the average for that project. We call this process "iterative normalization".
+
+Once we have the normalized results of all Rocketeer assessments, a Snapshot vote is created for members to delegate their voting power to each Rocketeer’s distribution they most agree with to determine the overall reward distribution.
+
+Any up-front payments will be subtracted from the quarterly project rewards bonus.
 
 A member’s reward bonus, B, will be calculated as follows:
 
@@ -107,7 +112,7 @@ VotingPowerToProject is the total sum of voting power that was allocated to that
 - VotingPowerTotal is the total amount of voting power tallied for that quarter’s vote in the Member House.
 - MemberGive is the total amount of GIVE that was allocated to that member in that particular project.
 - TotalGive is the total amount of GIVE that was allocated to that particular project.
-- U(MOONEY,NMA) is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets **for all projects, [guilds](guilds.md), or salaries coming to that member in that quarter.**
+- U(MOONEY,NMA) is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets **for all projects coming to that member in that quarter.**
 
 If the B is negative for MOONEY or NMA, the Member will receive no bonus for that token.
 
@@ -183,7 +188,6 @@ If you are going over the originally intended timeline please notify the Senate 
 Multisig signers should include the project Rocketeers and other trusted members of our community that have had a role (MoonSettler or above) for more than a month. Multisig members should be using the highest level of security possible.
 
 
-
 **What if a project requires a Budget increase?**
 
 If a budget needs to be increased it must go through the full project proposal process with a justification for the budget increase.
@@ -202,8 +206,8 @@ Generally no. However, if concern about the direction of a project is raised by 
 
 
 ## MoonDAO Project Proposal Template
-Each project will need to fill out the template below and submit it under “proposal-submit” at least **two days** before the Senate meeting. **Proposals should be no more than 4 pages max. If it is longer, consider factoring out your proposal into separate documents.
-**
+Each project will need to fill out the template below and submit it under “proposal-submit” at least **two days** before the Senate meeting. **Proposals should be no more than 4 pages max. If it is longer, consider factoring out your proposal into separate documents. ** 
+You can make a copy of [this template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit) to use when writing your project proposal.
 
 **Project Title: e.g. MoonDAO Merch**
 
