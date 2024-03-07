@@ -36,7 +36,7 @@ MoonDAO Projects are non-perpetual, goal-based teams that are approved to execut
 
 You may work with a team or as an individual working on a key objective for the DAO. The DAO will vote to allocate resources and budget for your project and you’d be eligible for Coordinape rewards.
 
-MoonDAO projects are autonomous units and may be incorporated into separate legal entities to complete their mission. As the projects grow they may incubate and eventually become their own subDAOs. 
+MoonDAO projects are autonomous units and may be incorporated into separate legal entities to complete their mission. As the projects grow they may incubate and eventually become their own subDAOs. When you first join a MoonDAO project, you'll join as a Moonsettler, and we advise reading our [guide for new Moonsettlers](Moonsettler%20Onboarding.md).
 ## Level 2: Lead a MoonDAO Project
 
 Experienced members of the MoonDAO ecosystem are encouraged to start their own projects. This comes with added responsibility of being a Senate member and having a seat on the governing body that reviews new MoonDAO projects.
