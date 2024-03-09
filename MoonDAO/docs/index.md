@@ -1,6 +1,7 @@
 ---
 tags: docs/onboarding
 title: Introduction
+description: MoonDAO is accelerating our multiplanetary future with an open platform to fund, collaborate, and compete on challenges that get us closer to a lunar settlement.
 sidebar_position: 1
 slug: /
 ---
