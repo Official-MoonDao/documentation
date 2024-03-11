@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 const config: QuartzConfig = {
   configuration: {
@@ -53,7 +53,6 @@ const config: QuartzConfig = {
         // if you do rely on git for dates, ensure defaultDateType is 'modified'
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
@@ -77,6 +76,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
     ],
   },
-}
+};
 
-export default config
+export default config;
