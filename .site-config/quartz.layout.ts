@@ -28,9 +28,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
         filterFn: (node) => {
-            // exclude files with the tag from navigation
-            let excludeTag = "docs/glossary"
-            return node.file?.frontmatter?.tags?.includes(excludeTag) !== true
+            // exclude files with these tags from navigation
+            let excludeTags = ["docs/glossary", "archive"]
+            return excludeTags.some(tag => (node.file?.frontmatter?.tags?.includes(tag) !== true))
         }
     })),
   ],
