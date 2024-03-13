@@ -26,7 +26,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+        filterFn: (node) => {
+            // exclude files with the tag from navigation
+            let excludeTag = "docs/glossary"
+            return node.file?.frontmatter?.tags?.includes(excludeTag) !== true
+        }
+    })),
   ],
   right: [
     Component.Graph(),

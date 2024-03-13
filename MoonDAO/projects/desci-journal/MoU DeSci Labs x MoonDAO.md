@@ -8,7 +8,7 @@ MoonDAO
 [DeSci Labs](../../reference/Orgs/DeSci%20Labs.md)
 
 
-# Memorandum of Understanding ([MOU](../../reference/Glossary/MOU.md)) for Partnership
+# Memorandum of Understanding ([MOU](MOU.md)) for Partnership
 
 ## 1. Purpose
 1.1. The purpose of this partnership is to foster collaboration and innovation in space science and engineering, with a particular focus on decentralized science initiatives and web3 tooling. The aim is to leverage the expertise and resources of both organizations to advance the frontiers of space exploration and further our shared mission.
