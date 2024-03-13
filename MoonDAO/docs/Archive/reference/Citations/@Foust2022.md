@@ -13,6 +13,6 @@ doi::
 > Quantum Space has raised $15 million to further development of the first in a constellation of satellites intended to provide services in cislunar space.
 
 
-![[9.-Quantum-15mil.pdf]]
+![[MoonDAO/docs/Archive/reference/Citations/attachments/9.-Quantum-15mil.pdf]]
 ## Notes
 

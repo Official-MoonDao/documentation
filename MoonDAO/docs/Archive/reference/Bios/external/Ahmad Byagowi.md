@@ -8,4 +8,4 @@ tags:
 [@Obleukhov2021](@Obleukhov2021.md)
 [@Byagowi2022a](@Byagowi2022a.md)
 [@Byagowi2022](@Byagowi2022.md)
-[OCP-TAP](../../Orgs/OCP-TAP.md)
+[OCP-TAP](OCP-TAP.md)

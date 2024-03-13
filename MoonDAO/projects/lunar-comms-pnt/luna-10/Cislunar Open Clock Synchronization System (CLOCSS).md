@@ -7,19 +7,19 @@ aliases:
 ---
 Authors
 - MoonDAO
-	- [Philip Linden](../../../reference/Bios/@philiplinden.md)
+	- [Philip Linden](@philiplinden.md)
 	- [Pablo Moncada-Larrotiz](@pmoncada.md)
-	- [Greg Search](../../../reference/Bios/@gregsearch.md)
-- [Open Lunar Foundation](../../../reference/Orgs/Open%20Lunar%20Foundation.md)
-	- [Rachel Williams](../../../reference/Bios/external/Rachel%20Williams.md)
-	- [Jacob Malthouse](../../../reference/Bios/external/Jacob%20Malthouse.md)
-- [NICT](../../../reference/Orgs/National%20Institute%20of%20Information%20and%20Communications%20Technology%20(Japan).md)
-	- [Nobuyasu Shiga](../../../reference/Bios/external/Nobuyasu%20Shiga.md)
-- [AVS](../../../reference/Orgs/Added%20Value%20Systems.md)
-	- [Ramon Blanco Maceiras](../../../reference/Bios/external/Ramon%20Blanco%20Maceiras.md)
+	- [Greg Search](@gregsearch.md)
+- [Open Lunar Foundation](Open%20Lunar%20Foundation.md)
+	- [Rachel Williams](Rachel%20Williams.md)
+	- [Jacob Malthouse](Jacob%20Malthouse.md)
+- [NICT](National%20Institute%20of%20Information%20and%20Communications%20Technology%20(Japan).md)
+	- [Nobuyasu Shiga](Nobuyasu%20Shiga.md)
+- [AVS](Added%20Value%20Systems.md)
+	- [Ramon Blanco Maceiras](Ramon%20Blanco%20Maceiras.md)
 	- [[Filipe Pereira]]
-- [OCP-TAP](../../../reference/Orgs/OCP-TAP.md)
-	- [Ahmad Byagowi](../../../reference/Bios/external/Ahmad%20Byagowi.md)
+- [OCP-TAP](OCP-TAP.md)
+	- [Ahmad Byagowi](Ahmad%20Byagowi.md)
 
 <iframe title="How to Build Decentralized Lunar Infrastructure on Time" src="https://www.youtube.com/embed/cd8hiubLy48?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 

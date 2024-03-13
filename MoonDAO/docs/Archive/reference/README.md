@@ -25,7 +25,7 @@ The note created from the template, `pretty.md`, is isolated from all "churn" to
 Besides ergonomics, another reason to use automations and templates is the fact that community plugins are not supported on Obsidian Publish (the website version of this vault). This means that Dataview queries don't show up on the web. We use a template to get around this by installing Dataview locally and using it to "bake" a static note that is functionally equivalent to the Dataview plugin's dynamic query results view.
 
 > [!NOTE] Hands-on example
- As an example, compare the contents of [Team (dynamic)](Team%20(dynamic).md) (which depends on Dataview) and [Team](../docs/Team.md) (which is a standalone note). If you view the two in source mode, it'll be more obvious.
+ As an example, compare the contents of [Team (dynamic)](Team%20(dynamic).md) (which depends on Dataview) and [Team](Team.md) (which is a standalone note). If you view the two in source mode, it'll be more obvious.
 
 There are two templates that are used to keep member bios organized:
 1. Member Bio → `MoonDAO/templates/moondao-member-template`

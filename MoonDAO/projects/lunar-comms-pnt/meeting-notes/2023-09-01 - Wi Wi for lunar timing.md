@@ -28,4 +28,4 @@ stratum 0 is always UTC stratum 0 (on earth)
 stratum 1 is less precise than stratum 0
 gps is stratum 2
 
-![](20221123_SpaceTimeSynchronization.pdf)
+![](MoonDAO/media-files/20221123_SpaceTimeSynchronization.pdf)

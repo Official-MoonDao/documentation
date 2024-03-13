@@ -1,11 +1,11 @@
 Date: July 15th, 2023  
-Author: [@manuelolariu](@manuelolariu)
+Author: [@manuelolariu](@manuelolariu.md)
 
-[Manuel Olariu](../../reference/Bios/@manuelolariu.md)
+[Manuel Olariu](@manuelolariu.md)
 MoonDAO
 
-[Erik van Winkle](../../reference/Bios/external/Erik%20van%20Winkle.md)
-[DeSci Labs](../../reference/Orgs/DeSci%20Labs.md)
+[Erik van Winkle](Erik%20van%20Winkle.md)
+[DeSci Labs](DeSci%20Labs.md)
 
 
 # Memorandum of Understanding ([MOU](MOU.md)) for Partnership
