@@ -1,23 +1,23 @@
 ---
-tags: docs/governance, docs/vision
+tags:
+  - docs/governance
+  - docs/vision
 id: constitution
-title: The MoonDAO Constitution
+title: Constitution
 description: Learn more about MoonDAO's inner workings and governance structure
 keywords:
-  [
-    Governance,
-    Voting,
-    Multi-Sig,
-    Astronaut,
-    Rocketeers,
-    Senate,
-    Guilds,
-    Proposal,
-    MOONEY,
-    MoonDAO,
-    vMOONEY,
-    Space Travel,
-  ]
+  - Governance
+  - Voting
+  - Multi-Sig
+  - Astronaut
+  - Rocketeers
+  - Senate
+  - Guilds
+  - Proposal
+  - MOONEY
+  - MoonDAO
+  - vMOONEY
+  - Space Travel
 sidebar_label: MoonDAO Constitution
 sidebar_position: 7
 ---
