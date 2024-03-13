@@ -1,6 +1,7 @@
 ---
 tags:
   - docs/glossary
+  - reference
 ---
 %% Dataview plugin metadata (hidden)
 [Definition:: Vote escrow is a method to make the community governance and on-chain voting more secure and reliable among DAOs.]

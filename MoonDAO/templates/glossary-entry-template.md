@@ -1,6 +1,7 @@
 ---
 tags:
   - docs/glossary
+  - reference
 aliases: []
 ---
 %% data that goes here is for the Dataview plugin metadata (hidden from site)
