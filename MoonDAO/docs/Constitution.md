@@ -18,7 +18,7 @@ keywords:
   - MoonDAO
   - vMOONEY
   - Space Travel
-sidebar_label: MoonDAO Constitution
+sidebar_label: Constitution
 sidebar_position: 7
 ---
 Version 1.2 | Last updated: April 19, 2023
