@@ -26,12 +26,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-        filterFn: (node) => {
-            // exclude files with these tags from navigation
-            let excludeTags = ["reference", "archive"]
-            return excludeTags.some(tag => (node.file?.frontmatter?.tags?.includes(tag) !== true))
-        }
+      Component.DesktopOnly(Component.Explorer({
+          filterFn: (node) => {
+              // set containing names of folders to filter out from sidebar
+              const omit = new Set(["archive", "glossary"])
+              return !omit.has(node.name.toLowerCase())
+          },
     })),
   ],
   right: [
