@@ -87,7 +87,6 @@ vMOONEY is found at Ethereum address `0xCc71C80d803381FD6Ee984FAff408f8501DB1740
 
 The only way for an individual to receive $vMOONEY is by staking $MOONEY.  The $MOONEY token must be locked for a period of at least one week, to at most four years. In return, the person locking the token will receive a wallet-bound $vMOONEY linearly proportional to the amount of time until the MOONEY can be unlocked. Each individual may only have one wallet holding $vMOONEY.
 
-![mooneyequation](_media-files/mooneyequation.png)
 ![vmooneyequation](_media-files/vmooneyequation.png)
 
 Voting power for each member is determined by the square root of the following: The sum of the total number of $vMOONEY token and the amount of unstaked MOONEY divided by 1,460 held in the member’s one registered wallet. In other words:
