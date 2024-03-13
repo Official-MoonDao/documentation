@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
         filterFn: (node) => {
             // exclude files with these tags from navigation
             let excludeTags = ["reference", "archive"]
-            return excludeTags.some(tag => (node.file?.frontmatter?.tags?.includes(tag)))
+            return excludeTags.some(tag => (node.file?.frontmatter?.tags?.includes(tag) !== true))
         }
     })),
   ],
