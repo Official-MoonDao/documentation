@@ -1,7 +1,3 @@
----
-tags:
-  - reference
----
 ## What is a delegation safe?
 
 A delegation safe is a multisig wallet that holds the staked voting power that a contributor earns through the quarterly rewards cycle. 
