@@ -40,17 +40,17 @@ Gathertown is where we co-work; Follow [this link](https://app.gather.town/invit
 
 ## Tips for Effective Contribution
 
-**Meet with the crew:** Engage with the community, attend scheduled meetings, and participate in discussions happening in our [#ground-control](https://discord.com/channels/914720248140279868/917498630510878821) channel  
+**Meet with the crew:** Engage with the community, attend scheduled meetings, and participate in discussions happening in our [ground-control](https://discord.com/channels/914720248140279868/917498630510878821) channel  
 
 **Communicate continuously:** Keep clear and open communication with team members
 
 📆 **Town Hall Meetings: ** Check [the calendar](https://discord.com/channels/914720248140279868/923068372428660736) 
 At Town Hall meetings, rocketeers approve new proposals and discuss pressing matters of the DAO. Moonsettlers are recommended to join to understand the context of the organization and get involved with governance  
   
-📝 **Write reports updates in the [#weekly-progress](https://discord.com/channels/914720248140279868/999845612277211277) channel**  
+📝 **Write reports updates in the [weekly-progress](https://discord.com/channels/914720248140279868/999845612277211277) channel**  
 The first ten minutes of the town hall meeting is dedicated to posting weekly progress, however you can drop your updates in at any time  
   
-👀 **Keep up to date with [#announcements](https://discord.com/channels/914720248140279868/914976122855374958) and the [#coworking-chat](https://discord.com/channels/914720248140279868/917457960207286313) channels** 
+👀 **Keep up to date with [announcements](https://discord.com/channels/914720248140279868/914976122855374958) and the [coworking-chat](https://discord.com/channels/914720248140279868/917457960207286313) channels** 
 These channels contain important updates for the community and a working space for core team collaboration  
   
 🗣️ **Post day-to-day updates in your project’s channel**  
