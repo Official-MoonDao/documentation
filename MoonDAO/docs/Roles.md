@@ -1,21 +1,21 @@
 ---
-tags: docs/roles, docs/team
+tags:
+  - docs/roles
+  - docs/team
 id: roles
-title: Roles at MoonDAO
+title: Roles
 description: MoonDAO Roles.
 keywords:
-  [
-    Contribute,
-    Progressive Governance,
-    Titles,
-    Astronauts,
-    Cosmonauts,
-    Rocketeers,
-    Moon Settlers,
-    Earthlings,
-    Subject Roles,
-    Decentralization,
-  ]
+  - Contribute
+  - Progressive Governance
+  - Titles
+  - Astronauts
+  - Cosmonauts
+  - Rocketeers
+  - Moon Settlers
+  - Earthlings
+  - Subject Roles
+  - Decentralization
 sidebar_label: Roles
 sidebar_position: 7
 ---

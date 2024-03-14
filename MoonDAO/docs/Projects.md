@@ -1,10 +1,15 @@
 ---
-tags: docs/governance
+tags:
+  - docs/governance
 id: project-guidelines
-title: MoonDAO Project Guidelines
+title: Projects
 description: Learn more about how MoonDAO projects work
-keywords: [Proposal, Project, MoonDAO, Space Travel]
-sidebar_label: MoonDAO Projects
+keywords:
+  - Proposal
+  - Project
+  - MoonDAO
+  - Space Travel
+sidebar_label: Projects
 sidebar_position: 6
 ---
 **MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.**

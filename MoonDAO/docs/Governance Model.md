@@ -1,21 +1,21 @@
 ---
-tags: docs/onboarding, docs/governance
+tags:
+  - docs/onboarding
+  - docs/governance
 id: governance
-title: MoonDAO Governance
+title: Governance
 description: Learn more about the $MOONEY token, and how you can help fund the decentralization of space travel.
 keywords:
-  [
-    Token,
-    Tokenomics,
-    Distribution,
-    Multi-Sig,
-    Juicebox,
-    Donations,
-    MoonDAO,
-    MOONEY,
-    Space Travel,
-  ]
-sidebar_label: Governance Overview
+  - Token
+  - Tokenomics
+  - Distribution
+  - Multi-Sig
+  - Juicebox
+  - Donations
+  - MoonDAO
+  - MOONEY
+  - Space Travel
+sidebar_label: Governance
 sidebar_position: 5
 ---
 ## High-level Overview
