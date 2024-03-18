@@ -19,6 +19,6 @@ This guide will walk you through the process of submitting edits to MoonDAO’s 
 
 **A.** Open Github Desktop and navigate to File>Add Local Repository… and then select the 'moondao-valut' folder. To make sure you're always working with the latest version, click the 'Fetch Origin' button in Github Desktop before making any edits in Obsidian.
 
-**B.** In Github Desktop, you'll see a checklist of the changes you've made and, in the bottom left, title and description fields above a 'Commit to Main' button. Make sure the changes you wish to finalize are selected, write in a title and optional description of the change, and then click the button. 
+**B.** In Github Desktop, you'll see a checklist of the changes you've made and, in the bottom left, title and description fields above a 'Commit to Main' button. Make sure that only the changes you wish to finalize are selected, write in a title and optional description of the change, and then click the button. 
 
 **C.** Finally, simply click the blue 'Push Origin' button that will appear in the main window. Once accepted by a member of our team, the changes will be reflected within the official docs. 
