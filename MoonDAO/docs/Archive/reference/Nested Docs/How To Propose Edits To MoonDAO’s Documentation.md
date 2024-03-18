@@ -1,7 +1,7 @@
 This guide will walk you through the process of submitting edits to MoonDAO’s official documentation. Before proceeding, [create a Github account](https://github.com/), and install both [Github Desktop](https://desktop.github.com/) and [Obsidian]([https://obsidian.md/download](https://obsidian.md/download)). We’ll use obsidian as our editor and Github Desktop for syncing and submitting the edits.  
   
 ## Step One: Setup  
-A. [Follow this link]([https://github.com/Official-MoonDao/moondaowww/fork](https://github.com/Official-MoonDao/moondaowww/fork)) and click “FORK”. This makes a copy of all the information contained in the docs associated with your account and forwards you to your copied repository.  
+A. [Follow this link](https://github.com/Official-MoonDao/moondaowww/fork)) and click “FORK”. This makes a copy of all the information contained in the docs associated with your account and forwards you to your copied repository.  
 B. Click the green button labeled “Code” and select “Download ZIP”. Once the file is downloaded, you can extract the files to a local folder of your choice.  
   
 ## Step Two: Editing  
