@@ -2,13 +2,13 @@ This guide will walk you through the process of submitting edits to MoonDAO’s 
   
 ## Step One: Setup  
 
-**A.** [Follow this link](https://github.com/Official-MoonDao/moondaowww/fork) and click “FORK”. This makes a copy of all the information contained in the docs which is controlled by your account. This is called a 'repository' or 'repo'.  
+**A.** [Follow this link](https://github.com/Official-MoonDao/moondaowww/fork) and click 'FORK'. This makes a copy of all the information contained in the docs which is controlled by your account. This is called a 'repository' or 'repo'.  
 
-**B.** In your copied repo, click the green button labeled “Code” and select “Download ZIP”. Once the file is downloaded, you can extract the files to a local folder of your choice.  
+**B.** In your copied repo, click the green button labeled 'Code' and select 'Download ZIP'. Once the file is downloaded, you can extract the files to a local folder of your choice.  
   
 ## Step Two: Edit
 
-**A.** Open Obsidian, select the “Open Folder As Vault” option and, within the folder you just extracted the files to, select the ‘moondao-vault’ folder.  
+**A.** Open Obsidian, select the 'Open Folder As Vault' option and, within the folder you just extracted the files to, select the ‘moondao-vault’ folder.  
 
 **B.** In the left sidebar in Obsidian, navigate to the nested ‘docs’ folder folder and click the file to edit.  
 
@@ -16,8 +16,8 @@ This guide will walk you through the process of submitting edits to MoonDAO’s 
   
 ## Step Three: Publish
 
-**A.** Open Github Desktop and navigate to File>Add Local Repository… and then select the 'moondao-valut' folder. To make sure you're always working with the latest version, click the "Fetch Origin" button in Github Desktop before making any edits in Obsidian.
+**A.** Open Github Desktop and navigate to File>Add Local Repository… and then select the 'moondao-valut' folder. To make sure you're always working with the latest version, click the 'Fetch Origin' button in Github Desktop before making any edits in Obsidian.
 
-**B.** In Github Desktop, you'll see a checklist of the changes you've made and, in the bottom left, title and description fields above a "Commit to Main" button. Make sure the changes you wish to finalize are selected, write in a title and optional description of the change, and then click the button. 
+**B.** In Github Desktop, you'll see a checklist of the changes you've made and, in the bottom left, title and description fields above a 'Commit to Main' button. Make sure the changes you wish to finalize are selected, write in a title and optional description of the change, and then click the button. 
 
-**C.** Finally, simply click the "Push Origin" button that will appear in the main window. Once accepted by a member of our team, the changes will be reflected within the official docs. 
+**C.** Finally, simply click the blue 'Push Origin' button that will appear in the main window. Once accepted by a member of our team, the changes will be reflected within the official docs. 
