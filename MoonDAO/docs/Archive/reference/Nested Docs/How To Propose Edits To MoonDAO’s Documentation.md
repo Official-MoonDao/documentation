@@ -2,9 +2,9 @@ This guide will walk you through the process of submitting edits to MoonDAO’s 
   
 ## Step One: Setup  
 
-**A.** [Follow this link](https://github.com/Official-MoonDao/moondaowww/fork) and click “FORK”. This makes a copy of all the information contained in the docs associated with your account and forwards you to your copied repository.  
+**A.** [Follow this link](https://github.com/Official-MoonDao/moondaowww/fork) and click “FORK”. This makes a copy of all the information contained in the docs which is controlled by your account. This is called a repository or 'repo'.  
 
-**B.** Click the green button labeled “Code” and select “Download ZIP”. Once the file is downloaded, you can extract the files to a local folder of your choice.  
+**B.** In your copied repo, click the green button labeled “Code” and select “Download ZIP”. Once the file is downloaded, you can extract the files to a local folder of your choice.  
   
 ## Step Two: Editing  
 
