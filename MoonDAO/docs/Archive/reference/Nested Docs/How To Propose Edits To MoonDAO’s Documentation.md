@@ -1,4 +1,4 @@
-This guide will walk you through the process of submitting edits to MoonDAO’s official docs. Before proceeding, [create a Github account](https://github.com/), and install both [Github Desktop](https://desktop.github.com/) and [Obsidian]([https://obsidian.md/download](https://obsidian.md/download)). We’ll use Obsidian as our editor and Github Desktop for syncing and submitting the edits.  
+This guide will walk you through the process of submitting edits to MoonDAO’s official docs. Before proceeding, [create a Github account](https://github.com/), and install both [Github Desktop](https://desktop.github.com/) and [Obsidian](https://obsidian.md/download). We’ll use Obsidian as our editor and Github Desktop for syncing and submitting the edits.  
   
 ## Step One: Setup  
 
