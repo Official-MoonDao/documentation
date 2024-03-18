@@ -6,7 +6,7 @@ This guide will walk you through the process of submitting edits to MoonDAO’s 
 
 **B.** In your copied repo, click the green button labeled “Code” and select “Download ZIP”. Once the file is downloaded, you can extract the files to a local folder of your choice.  
   
-## Step Two: Editing  
+## Step Two: Edit
 
 **A.** Open Obsidian, select the “Open Folder As Vault” option and, within the folder you just extracted the files to, select the ‘moondao-vault’ folder.  
 
@@ -14,7 +14,7 @@ This guide will walk you through the process of submitting edits to MoonDAO’s 
 
 **C.** Make changes to the file within the text editor. If you intend to include the page as an internal link (ie. not listed in the top navigation menu of the docs) then drag the page somewhere within the nested “Archive” folder.  
   
-## Step Three: Publishing  
+## Step Three: Publish
 
 **A.** Open Github Desktop and navigate to File>Add Local Repository… and then select the 'moondao-valut' folder. To make sure you're always working with the latest version, click the "Fetch Origin" button in Github Desktop before making any edits in Obsidian.
 
