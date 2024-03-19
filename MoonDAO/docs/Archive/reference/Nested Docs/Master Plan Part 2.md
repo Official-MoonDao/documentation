@@ -1,5 +1,5 @@
 # Part 2: The Mission
-This is Part 2 of a three part series by our founder Pablo Moncada-Larrotiz on how MoonDAO will get to the Moon. Read [Part 1: The Good, The Bad, and The Ugly](Master%20Plan%20Part%201.md) or [Part 3: The Mission](Master%20Plan%20Part%2023.md).
+This is Part 2 of a three part series by our founder Pablo Moncada-Larrotiz on how MoonDAO will get to the Moon. Read [Part 1: The Good, The Bad, and The Ugly](Master%20Plan%20Part%201.md) or [Part 3: The Mission](Master%20Plan%20Part%203.md).
 
 # Why?
 First I’ll start with why our mission is worthwhile.
