@@ -4,7 +4,7 @@ tags:
   - docs/roles
 id: contribute
 title: Contribute
-description: Learn how to contribute to MoonDAO, understand Progressive Governance, and Titles and their Subject Roles.
+description: Learn how to contribute to MoonDAO
 keywords:
   - Contribute
   - Progressive Governance
