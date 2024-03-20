@@ -1,5 +1,5 @@
 # Part 3: The Plan
-This is Part 3 of a three part series by our founder Pablo Moncada-Larrotiz on how MoonDAO will get to the Moon. Read [Part 1: The Good, The Bad, and The Ugly](Master%20Plan%20Part%201.md) or [Part 2: The Mission](Master%20Plan%20Part%202.md).
+This is Part 3 of a three part series by our founder Pablo Moncada-Larrotiz on how MoonDAO will get to the Moon. Read [Part 1: The Good, The Bad, and The Ugly](The%20Master%20Plan.md) or [Part 2: The Mission](The%20Master%20Plan%20Part%202.md).
 # What
 MoonDAO must create a foundation that can scale to thousands of people working collaboratively on the most pressing technological challenges to accelerate a lunar settlement.
 
@@ -108,57 +108,9 @@ While large centralized organizations and exchanges have over-levered and caused
 So, with that in mind, here is a timeline for accelerated lunar settlement with key growth milestones that MoonDAO aims to achieve.  
 ‍
 None of this is guaranteed to happen as is described here, but at the very least it’s a plan to start moving towards, and as we get better information we’ll adjust.
+‍
+![[Roadmap]]
 
-## 2023: **Foundation**
-
-- 100s of engaged members. 
-- Announce the flagship DePrize to fund critical technology for the long-term habitation of the Moon, with MoonDAO credibly-neutral technology, evangelizing people from all over the world to collaborate.
-- Inception of the MoonDAO Marketplace with flagship products and services listed.
-- Select someone from our community to go to space from our community.  
-    ‍
-## 2024: **Scale**
-
-- 1,000s of engaged members.
-- Open-source collaboration on technology and datasets generated and gifted to the MoonDAO community from partners and organizations working on our first DePrize.
-- 10s of products and services listed on our marketplace.
-- More DePrizes are set up to address other foundational elements of a lunar settlement and credibly neutral infrastructure.  
-    ‍
-## 2025: **Seat at the Table**
-
-- 10,000s of engaged members.
-- Fundraise for the ownership of a Starship or equivalent launch vehicle, and guaranteed refuel missions.
-- Multiple data- and income-generating IPs generated for the MoonDAO community.
-- Large Scale Coordination through an open-sim of Lunar Settlement, setting up DePrizes for each component required.
-- 100s of products and services listed on our marketplace.  
-    ‍
-## 2026: **Settlement Design Completed**
-
-- 100,000s of engaged members.
-- Design of major components have been completed, ready for manufacturing on Earth to begin simulations and testing.  
-    ‍
-## 2027: **Settlement Manufacturing Completed**
-
-- 1,000,000s of engaged members.
-
-- Selection of our first group of Moon settlers.
-- Manufacturing of key components on Earth with Earth-based simulations. Prototypes built out and ready to test.
-- MoonDAO has a manufacturing facility that operates in a decentralized way receiving designs from all over the world.  
-    ‍
-## 2028: **Components tested and Ready for Launch**
-
--  10,000,000s of engaged members.
-- Fast iteration on infrastructure, testing with Earth-based simulation complete.  
-    ‍
-## 2029: **Minimum Viable Settlement Construction Begins**
-
-- Infrastructure is sent to the Moon and the first crew begins construction on the Moon.  
-    ‍
-## 2030: **New Year’s 2030 - Lunar Party**
-
-- The first minimum viable Lunar Settlement is complete and can sustain multiple people for long-term habitation.
-- Host a New Year's Eve party on the Moon, inviting nations committed to peaceful activity on the Moon and Earth to celebrate the accomplishment of MoonDAO's first mission.
-- Next: Expand Lunar Base footprint, set up infrastructure to extend life to Mars.  
-    ‍
 
 # Who
 We’ll need a lot of help. I’m lucky to call many of the people along this journey with us friends. Ultimately that is the most important part of this all, the relationships we build together that unite us and find kindred spirits.  
