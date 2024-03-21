@@ -5,7 +5,7 @@ tags:
 aliases:
   - Mitchie
 address: 
-discord: "@Mitchie"
+discord: "@mitchie_mitch"
 roles:
   - Rocketeer
   - Operations Lead
