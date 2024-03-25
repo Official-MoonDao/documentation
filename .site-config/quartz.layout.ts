@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.DesktopOnly(Component.Explorer({
           filterFn: (node) => {
               // set containing names of folders to filter out from sidebar
-              const omit = new Set(["archive"])
+              const omit = new Set(["reference"])
               return !omit.has(node.name.toLowerCase())
           },
     })),
