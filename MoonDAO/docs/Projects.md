@@ -20,15 +20,15 @@ MoonDAO Projects are goal-oriented teams working on mission-aligned objectives. 
 
 MoonDAO Projects are composed of Rocketeers that lead a team of MoonDAO members referred to as Moonsettlers. Along with work on their core objective, Rocketeers have a responsibility to co-govern MoonDAO in the Senate. Projects are supported by Delegates who have a responsibility to help the project follow best practices and ensure they meet all the requirements outlined in this document.
 
-[[#Project Proposal Process]]
-[[#Project Start]]
-[[#Project Updates And Responsibilities]]
-[[#Project Completion]]
-[[#Retroactive Rewards]]
-[[#Project Revenue Distribution]]
-[[#Project Intellectual Property]]
-[[#Dispute Resolution]]
-[[#Miscellaneous FAQs]]
+- [[#Project Proposal Process]]
+- [[#Project Start]]
+- [[#Project Updates And Responsibilities]]
+- [[#Project Completion]]
+- [[#Retroactive Rewards]]
+- [[#Project Revenue Distribution]]
+- [[#Project Intellectual Property]]
+- [[#Dispute Resolution]]
+- [[#Miscellaneous FAQs]]
 
 ## Project Proposal Process
 
@@ -127,22 +127,22 @@ Where the UpfrontPayment is the amount of upfront payment that the member receiv
 
 Bob received 0.1 ETH and 10,000 MOONEY upfront for his contribution to a project. The DAO has 200 ETH equivalent in non-MOONEY liquid assets (ETH, DAI, USDC) at the end of Q4 2023 (4 quarters after the rewards program started).
 
-**Quarterly ETH Reward** = 200 ETH * 0.05 = 10 ETH  
+**Quarterly ETH Reward** = 200 ETH * 0.05 = 10 ETH  
 **Quarterly vMOONEY Reward** = 15,000,000 MOONEY * (0.95)^(4 Quarters) = 12,217,593.75 MOONEY  
 
 Bob’s Project received 10% of the voting power in the Member House.
 
-**Project ETH Reward** = 10 ETH * 0.10 * 0.9 = 0.9 ETH  
+**Project ETH Reward** = 10 ETH * 0.10 * 0.9 = 0.9 ETH  
 **Project vMOONEY Reward** = 12,217,593.75 MOONEY * 0.10 * 0.9 = 1,099,583.4375 MOONEY
 
 Bob received 25% of the total allocation for that project.  
 
-**Contributor ETH Reward** = 0.9 ETH * 0.25 = 0.225 ETH
+**Contributor ETH Reward** = 0.9 ETH * 0.25 = 0.225 ETH  
 **Contributor vMOONEY Reward** = 1,099,583.4375 MOONEY * 0.25 = 274,895.859375 MOONEY  
 
 Bob received 0.1 ETH and 10,000 MOONEY up-front for his contribution.
 
-**Bob’s ETH Reward** = 0.25 ETH - 0.1 ETH = 0.15 ETH
+**Bob’s ETH Reward** = 0.25 ETH - 0.1 ETH = 0.15 ETH  
 **Bob’s vMOONEY Reward** = 274,895.859375 MOONEY - 10,000 MOONEY = 264,895.859375 MOONEY  
 
 Therefore Bob’s retroactive reward would be 0.15 ETH and 264,895.859375 vMOONEY  
