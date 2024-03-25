@@ -20,6 +20,7 @@ keywords:
   ]
 sidebar_position: 2
 ---
+Disclaimer: These are the ambitious goals of our community, not a promise that these will be completed on this exact timeline. None of this is guaranteed to happen as is described here, but this acts as a plan to concentrate our effort. We set ambitious goals to inspire our organization to reach higher and push us out of our comfort zone. Why is the timeline so accelerated? Because we want to accelerate progress towards lunar settlement. If these goals inspire you, join us to help!
 ## 2023: **Foundation**
 
 - 100s of engaged members. 
