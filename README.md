@@ -1,5 +1,5 @@
-[MoonDAO](www.moondao.com) documentation, planning, project notes, and other reference material.
-Markdown files in `MoonDAO/docs` are used to generate MoonDAO's [public documentation](docs.moondao.com).
+[MoonDAO](https://www.moondao.com) documentation, planning, project notes, and other reference material.
+Markdown files in `MoonDAO/docs` are used to generate MoonDAO's [public documentation](https://docs.moondao.com).
 
 This repository is compatible with [Obsidian](https://help.obsidian.md/Home).
 
