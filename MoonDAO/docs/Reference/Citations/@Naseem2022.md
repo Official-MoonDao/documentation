@@ -12,7 +12,7 @@ doi::
 > [!info] Abstract
 > There is an opportunity for actors interested in entering the lunar communications space to learn from the best practices of network infrastructure providers (ISPs/IXPs), as well as the open source community.
 
-![[MoonDAO/docs/Archive/reference/Citations/attachments/2.-Last-mile-Analogies-OL.pdf]]
+![[documentation/MoonDAO/docs/Reference/Citations/attachments/2.-Last-mile-Analogies-OL.pdf]]
 
 ## Notes
 
