@@ -1,44 +1,25 @@
 [MoonDAO](https://moondao.com) documentation, planning, project notes, and other reference material.
-Markdown files in `MoonDAO/docs` are used to generate MoonDAO's [public documentation](https://docs.moondao.com).
+Markdown files in `MoonDAO/docs` are used to generate MoonDAO's [public documentation](https://docs.moondao.com)
+# How To Update MoonDAO’s Documentation  
 
-This repository is compatible with [Obsidian](https://help.obsidian.md/Home).
+MoonDAO’s documentation is stored in [markdown format](https://www.markdownguide.org/basic-syntax/) in a Github repository and also makes use of Obsidian-flavored [backlinks](https://help.obsidian.md/Plugins/Backlinks) and [frontmatter properties](https://help.obsidian.md/Editing+and+formatting/Properties). These markdown files are presented in [our documentation](https://docs.moondao.com/) using [Quartz](https://quartz.jzhao.xyz/authoring-content).  
+To propose an edit to the documentation, follow the steps below.  
+  
+**1.** [Create a Github account](https://github.com/) and sign in  
+  
+**2.**  [Follow this link](https://github.com/Official-MoonDao/documentation/fork) to create a copy of the documents (also called a ‘fork’ of the ‘repo’). You may optionally change the name and description of the repo, or just continue with the default values.  
+	*Note: Before making changes, ensure your fork is updated with the original repository to avoid merge conflicts. If your fork is behind, indicated by 'This branch is [# of commits] commits behind Official-MoonDao/documentation:main', update it by selecting 'Update Branch' under the 'Sync Fork' dropdown..*  
+  
+**3.** Click the green ‘CODE’ dropdown button, select the ‘Codespaces’ tab, and click the “Create Codespace On Main” button. The codespace will be opened in a new tab.  
+	Note: Experienced or frequent users may consider use of [Obsidian](https://obsidian.md/) as a local editor paired with commands in the CLI to sync branches and open pull requests*  
+  
+**4.** In the explorer window, navigate to MoonDAO>Docs and click the markdown file you intend to edit and implement the desired updates, or create a new entry by clicking the ‘New File’ button at the top of the left navigation menu.  
+	*Note: All markdown files located within the ‘docs’ folder will be displayed in the navigation menu in our documentation. To add a file without adding it in the navigation menu, ensure it’s added into the ‘reference’ folder. To remove a file from the front-end entirely (while keeping reference to it in the repo), place it within the ‘archive’ folder.  
+  
+**5.** After the changes are finalized, navigate to the source control view (CTRL+SHIFT+G), enter a summary description of the change in the ‘message’ input field and click the green ‘COMMIT’ button
 
-[![build-and-deploy](https://github.com/Official-MoonDao/moondao-vault/actions/workflows/build-and-deploy.yaml/badge.svg?branch=main)](https://github.com/Official-MoonDao/moondao-vault/actions/workflows/build-and-deploy.yaml)
-
-## Making changes
-These docs are a collection of markdown files so you can use any text editor to make changes.
-The recommended way to work with this repository is by cloning it and [opening the folder as an Obsidian vault](https://help.obsidian.md/Files+and+folders/Manage+vaults#Create+vault+from+an+existing+folder).
-
-The official documentation in `MoonDAO/docs` use Obsidian-flavored [backlinks](https://help.obsidian.md/Plugins/Backlinks) and [frontmatter properties](https://help.obsidian.md/Editing+and+formatting/Properties) that add extra functionality when using Obsidian to read and edit files.
-
-### Keeping private files private
-1. **Add a file or directory (incl. wildcards) to `.gitignore`** to exclude them from the repository altogether. This instructs git to ignore any changes to matching files when it looks for updates to your local repository. This is global for the whole repository, and affects everyone who clones the repo too.
-2. **Add `draft: true` to the file's frontmatter** to sync the file to the repository but do not allow it to be published on the generated docs site.
-3. **Clone this repo as a subdirectory of an existing vault** to use your own Obsidian workspace alongside this vault without syncing your files to this repo. In order to sync changes, pulls and pushes must be done from this repository, but all changes outside this repo's root directory will be ignored.
-
-### Look and feel
-By default, local Obsidian customizations (in the `.obsidian` folder) are not synced to the repo. Use whatever plugins and themes you want for your cloned repo.
-
-The site generated from `MoonDAO/docs` is customized in a roundabout way since this repo is meant for only MoonDAO files but Quartz relies on files cloned from [the official repo](https://github.com/jackyzha0/quartz) for [configuration](https://quartz.jzhao.xyz/configuration). We only install and invoke Quartz on the CI/CD runner so Quartz files are not stored in our repo. To get around this problem of keeping "dead" code from Quartz in our repo, we only store modified quartz files in this repo and overwrite the default files during the GitHub Actions workflow. That way we only keep relevant, customized files in the repo. All files in `.site-config/` are copied to the Quartz root during a build.  It's literally a recursive copy. The site can be completely configured by making modifications to Quartz files and merging them to the `.site-config` directory here.
-
-## Publishing changes
-The documentation site is automatically built and deployed after every new commit to the main branch.
-Clone this repository, make changes, and submit a [Pull Request](https://github.com/Official-MoonDao/moondao-vault/compare) to contribute.
-
-The documentation site is generated with [Quartz](https://quartz.jzhao.xyz/authoring-content). A markdown file in `MoonDAO/docs` can be excluded from the site by adding `draft: true` to the YAML frontmatter.
-
-```yaml
----
-title: Example Title
-draft: true
-tags:
-  - example-tag
----
-```
-
-At this time, Quartz only supports some of Obsidian's core plugins (e.g. Backlinks, Callouts, Graph View, Mermaid diagrams, etc.). [Click here for a full list of features supported by Quartz](https://quartz.jzhao.xyz/features/). Community plugins like [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) will not be rendered properly on the generated site and just show up as raw text.
-
-## Staying up to date
-Be sure to regularly sync your local repository like any other git repo. Avoid change conflicts by working on a separate branch from `main`, and occasionally merge `main` to your working branch.
-
-The **[Obsidian Git](https://github.com/denolehov/obsidian-git)** community plugin adds some shortcuts and convenience tools for backing up your work to git directly from Obsidian. Clone the repository and pull/push changes with conventional git commands. The plugin streamlines automatic commits and syncing to the remote.
+**6.** In the modal that asks, ‘Would you like to stage all your changes and commit them directly?, select ‘yes’, click the green ‘SYNC CHANGES’ button, and in the modal popup, select ‘OK’  
+  
+**7.** Go back to the previous tab, refresh the page, and under the ‘contribute’ dropdown, click ‘Open Pull Request’. You’ll be prompted to review the changes before again clicking the green ‘Open Pull Request’ button  
+  
+**8.** Optionally, enter a detailed description of the changes in the longtext field and again click the green ‘Open Pull Request’ button. ‘And that’s it! Simply wait for a member of our team to review and approve the changes

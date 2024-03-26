@@ -1,5 +1,5 @@
 # Reference
-Reference data (the files inside `MoonDAO/reference`) is a collection of files meant to be included as references in other docs, but usually not displayed directly. This is because the reference docs tend to hold _metadata_ rather than normal, everyday text.
+Reference data (the files inside `MoonDAO/docs/reference`) is a collection of files meant to be included as references in other docs, but usually not displayed directly. This is because the reference docs tend to hold _metadata_ rather than normal, everyday text.
 
 Automations, plugins, and other tools can easily hook into the metadata and display beautiful documents elsewhere. This means the information from the reference docs only needs to be updated in one place (the reference page) and information will propagate elsewhere, without needing to do any copy and paste or duplication of data.
 
