@@ -55,7 +55,7 @@ Desired Outcome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ` `\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Email Notice to: LuckDAO Limited d/b/a MoonDAO
+Email Notice to: MoonDAO DAO LLC d/b/a MoonDAO
 
 info@moondao.com
 
