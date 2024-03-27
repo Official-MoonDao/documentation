@@ -15,7 +15,7 @@ slug: /privacy-policy
 
 ### **Summary**
 
-Thank you for visiting the MoonDAO™ website located at www.moondao.com (the “Site”). The Site is an Internet property of LuckDAO Limited d/b/a MoonDAO (“MoonDAO™,” “we,” “our” or “us”). The following MoonDAO™ Website Privacy Policy (“Privacy Policy”) sets forth the Site’s policy with respect to the collection, storage and use of Personal Data (as defined below). For purposes of this Privacy Policy, “Personal Data” means any information concerning the personal or material circumstances of an identified or identifiable individual. This includes information such as your name, your mailing address, your phone number and your email address. Capitalized terms not defined herein shall have the meanings set forth in the MoonDAO™ Terms of Service (“Terms”).
+Thank you for visiting the MoonDAO™ website located at www.moondao.com (the “Site”). The Site is an Internet property of MoonDAO DAO LLC d/b/a MoonDAO (“MoonDAO™,” “we,” “our” or “us”). The following MoonDAO™ Website Privacy Policy (“Privacy Policy”) sets forth the Site’s policy with respect to the collection, storage and use of Personal Data (as defined below). For purposes of this Privacy Policy, “Personal Data” means any information concerning the personal or material circumstances of an identified or identifiable individual. This includes information such as your name, your mailing address, your phone number and your email address. Capitalized terms not defined herein shall have the meanings set forth in the MoonDAO™ Terms of Service (“Terms”).
 
 ### **Background**
 
