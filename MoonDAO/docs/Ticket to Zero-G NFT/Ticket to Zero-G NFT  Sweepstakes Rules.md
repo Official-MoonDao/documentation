@@ -13,7 +13,7 @@ slug: /ttzg-sweepstakes-rules
 
 **NO PURCHASE NECESSARY TO PLAY OR WIN. PURCHASE WILL NOT INCREASE YOUR ODDS OF WINNING.**
 
-The MoonDAO™ Ticket to ZeroG Sweepstakes (the “Promotion”) is sponsored by MoonDAO Limited d/b/a MoonDAO (“Sponsor”). By entering the Promotion, you agree to comply with and be bound by the following MoonDAO™ Ticket to ZeroG Sweepstakes Rules (the “Rules”). Please review the Rules carefully. If you do not agree to the terms and conditions of the Rules in their entirety, you are not permitted to enter the Promotion. This Promotion may be canceled or postponed by Sponsor, at any time in its sole discretion.
+The MoonDAO™ Ticket to ZeroG Sweepstakes (the “Promotion”) is sponsored by MoonDAO DAO LLC d/b/a MoonDAO (“Sponsor”). By entering the Promotion, you agree to comply with and be bound by the following MoonDAO™ Ticket to ZeroG Sweepstakes Rules (the “Rules”). Please review the Rules carefully. If you do not agree to the terms and conditions of the Rules in their entirety, you are not permitted to enter the Promotion. This Promotion may be canceled or postponed by Sponsor, at any time in its sole discretion.
 
 ### **ELIGIBILITY:​**
 
