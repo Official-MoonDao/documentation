@@ -3,8 +3,7 @@ tags:
  - press
  - media
 id: presscoverage
-title: MoonDAO Press Coverage - Articles, Videos, and Podcasts
-sidebar_label: Press Coverage
+title: Press Coverage
 description: Browse a selection of articles, videos, and podcasts highlighting MoonDAO and some of the initiatives or projects that we are spearheading. 
 author: ryand2d
 ---
