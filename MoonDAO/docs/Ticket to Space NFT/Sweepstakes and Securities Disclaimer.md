@@ -9,7 +9,7 @@ sidebar_position: 4
 slug: /tts-sweepstakes-and-securities-disclaimer
 ---
 
-NO PURCHASE OF A TICKET TO SPACE NFT IS NECESSARY TO ENTER THE SWEEPSTAKES OR WIN A CHANCE TO FLY TO SPACE. PURCHASE OF A TICKET TO SPACE NFT WILL NOT INCREASE YOUR ODDS OF WINNING A PRIZE. Sweepstakes are open only to individuals who are 18 years of age or older, or the age of majority if greater than 18 in their respective jurisdictions. Sweepstakes is void in Florida, New York, Puerto Rico and where otherwise prohibited by law. Alternate prize winners are responsible for taxes associated with the prizes. Odds of winning depend on the number of entries received during the contest period, but can be calculated by dividing the number of prizes by the total number of entries received. Sponsor: LuckDAO Limited d/b/a MoonDAO. Contest ends on June 4, 2022.
+NO PURCHASE OF A TICKET TO SPACE NFT IS NECESSARY TO ENTER THE SWEEPSTAKES OR WIN A CHANCE TO FLY TO SPACE. PURCHASE OF A TICKET TO SPACE NFT WILL NOT INCREASE YOUR ODDS OF WINNING A PRIZE. Sweepstakes are open only to individuals who are 18 years of age or older, or the age of majority if greater than 18 in their respective jurisdictions. Sweepstakes is void in Florida, New York, Puerto Rico and where otherwise prohibited by law. Alternate prize winners are responsible for taxes associated with the prizes. Odds of winning depend on the number of entries received during the contest period, but can be calculated by dividing the number of prizes by the total number of entries received. Sponsor: MoonDAO DAO LLC d/b/a MoonDAO. Contest ends on June 4, 2022.
 
 - For Alternative Method of Entry, [click here](https://moondao.com/docs/tts-sweepstakes-rules#how-to-enter).
 
