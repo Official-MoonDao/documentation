@@ -4,8 +4,8 @@ tags:
  - media
 id: presscoverage
 title: MoonDAO Press Coverage - Articles, Videos, and Podcasts
+sidebar_label: Press Coverage
 description: Browse a selection of articles, videos, and podcasts highlighting MoonDAO and some of the initiatives or projects that we are spearheading. 
-thumbnail: https://assets-global.website-files.com/634742417f9e1c182c6697d4/635d6ab70124f47636e9a0d5_DP%20Moon%20DAO.jpg
 author: ryand2d
 ---
 Welcome to MoonDAO's repository of media mentions and coverage from various outlets worldwide. Dive into a curated selection of articles, YouTube videos, and podcast interviews that highlight MoonDAO's initiatives, innovations, and contributions to the space sector. Our Press Coverage page is your gateway to discovering the diverse perspectives and stories surrounding our journey. 
