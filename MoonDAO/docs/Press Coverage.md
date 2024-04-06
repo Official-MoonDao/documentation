@@ -27,5 +27,6 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 - Ellie in Space: [How Dude Perfect was Sent to Space](https://www.youtube.com/watch?v=u0sUwRWWZe0)
 - DAODenver: [MoonDAO, A Fireside Chat with Pablo Moncada](https://www.youtube.com/watch?v=VYhZ6YeDP18)
 - [The Purple Trader Show](https://www.youtube.com/watch?v=aarLHU-pfoU)
+- [Mars Society Convention](https://www.youtube.com/watch?v=I4MIL6-7jEU): Decentralized Funding for Public Access to Space
 
-If you would like to feature MoonDAO in an upcoming press piece about the decentralization of space, Web3, or any of our [projects](Projects.md), please reach out to info@moondao.com to arrange an interview.
+If you would like to feature MoonDAO in an upcoming press piece about the decentralization of space, Web3, or any of our [projects](Projects.md), please reach out to info@moondao.com to arrange an interview. See the [Press Kit](https://docs.moondao.com/Press-Kit) for more details about MoonDAO, high resolution graphics, and more.
