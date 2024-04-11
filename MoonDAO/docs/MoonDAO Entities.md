@@ -20,18 +20,18 @@ Then look no further! MoonDAO Entities can help you today!
 
 MoonDAO Entities are a yearly subscription service that gives you:
 
-- Control over a self-custodied Treasury that you can add other peole onto.
+- Control over a self-custodied Treasury that you can add other people onto.
 - Administration of permissions within your organization:
 - Create roles for your members. You can get creative and make your organization however you’d like.
 - Discounts on onchain legal incorporation within the Marshall Islands. If you don't have an existing legal incorporation, this allows you to know you are running your organization within the laws of a sovereign nation.
 
 # How do I create an Entity?
 
-Creating a MoonDAO Entity is simple. Simply go [[[here]]](https://app.moondao.com/join) and click “Register an Entity” to get started.
+Creating a MoonDAO Entity is simple. Simply go [here](https://app.moondao.com/join) and click “Register an Entity” to get started.
 
-All you need to do is fill out your Entity’s information in a quick questionnaire, and then design your Registration image using our image generator.
+All you need to do is fill out your Entity’s information in a quick questionnaire, and then design your registration image using our image generator.
 
-The image generator creates an imprint of the night sky in the moment your create your Entity, and gives you a deed to your onchain organization within MoonDAO.
+The image generator creates an imprint of the night sky at the moment you create your Entity and gives you a deed to your onchain organization within MoonDAO.
 
 # How does it work?
 
@@ -39,12 +39,12 @@ MoonDAO has created a smart contract that helps you organize with others using E
 
 # How are funds handled onchain?
 
-Each Entity has an onchain multisig using a Gnosis Safe, the onchain gold standard for self-custodied multisigs. A multisig is simply a treasury that has a number of signers to execute a transaction. You can have as many signers on the multisig as you’d like, and you can set a signing threshold to execute a transaction. To start, the Entity creator’s wallet is the only signer on the multisig, and they can add more signers and change the threshold to manage funds using their Entity management page.
+Each Entity has an onchain multisig using a [Gnosis Safe](https://safe.global/), the onchain gold standard for self-custodied multisigs. A multisig is simply a treasury that has a minimum number of signers to execute a transaction. You can have as many signers on the multisig as you’d like, and you can set a signing threshold to execute a transaction. To start, the Entity creator’s wallet is the only signer on the multisig, and they can add more signers and change the threshold to manage funds using their Entity management page.
 
 # How are permissions handled?
 
-MoonDAO Entities uses Hats Protocol to handle onchain permissions. Hats creates an organization tree that is customizable. To begin the Entitie’s “root” hat will be stored in the multisig, and the administrator hat will be in the Entity creator’s wallet. These permissions can be changed using the Entity management page. Administrators can change the Entity’s onchain data (like the Name of the organization, bio, or adding and removing members within the org.
+MoonDAO Entities uses [Hats Protocol](https://www.hatsprotocol.xyz/) to handle onchain permissions. Hats creates an organization tree that is customizable. To begin the Entity’s “root” hat will be stored in the multisig, and the administrator hat will be in the Entity creator’s wallet. These permissions can be changed using the Entity management page. Administrators can change the Entity’s onchain data (like the name of the organization, bio, or adding and removing members within the org.
 
 # How long is the membership?
 
-Membership lasts one year and can be renewed or extended on your Entity Management page by clicking "Extend"
+Membership lasts one year and can be renewed or extended on your Entity Management page by clicking Extend.

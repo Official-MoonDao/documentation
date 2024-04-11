@@ -3,9 +3,8 @@ tags:
  - press
  - media
 id: presscoverage
-title: MoonDAO Press Coverage - Articles, Videos, and Podcasts
+title: Press Coverage
 description: Browse a selection of articles, videos, and podcasts highlighting MoonDAO and some of the initiatives or projects that we are spearheading. 
-thumbnail: https://assets-global.website-files.com/634742417f9e1c182c6697d4/635d6ab70124f47636e9a0d5_DP%20Moon%20DAO.jpg
 author: ryand2d
 ---
 Welcome to MoonDAO's repository of media mentions and coverage from various outlets worldwide. Dive into a curated selection of articles, YouTube videos, and podcast interviews that highlight MoonDAO's initiatives, innovations, and contributions to the space sector. Our Press Coverage page is your gateway to discovering the diverse perspectives and stories surrounding our journey. 
@@ -28,5 +27,6 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 - Ellie in Space: [How Dude Perfect was Sent to Space](https://www.youtube.com/watch?v=u0sUwRWWZe0)
 - DAODenver: [MoonDAO, A Fireside Chat with Pablo Moncada](https://www.youtube.com/watch?v=VYhZ6YeDP18)
 - [The Purple Trader Show](https://www.youtube.com/watch?v=aarLHU-pfoU)
+- [Mars Society Convention](https://www.youtube.com/watch?v=I4MIL6-7jEU): Decentralized Funding for Public Access to Space
 
-If you would like to feature MoonDAO in an upcoming press piece about the decentralization of space, Web3, or any of our [projects](Projects.md), please reach out to info@moondao.com to arrange an interview.
+If you would like to feature MoonDAO in an upcoming press piece about the decentralization of space, Web3, or any of our [projects](Projects.md), please reach out to info@moondao.com to arrange an interview. See the [Press Kit](https://docs.moondao.com/Press-Kit) for more details about MoonDAO, high resolution graphics, and more.
