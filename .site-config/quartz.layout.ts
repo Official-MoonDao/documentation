@@ -16,6 +16,15 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.MobileOnly(
+      Component.Explorer({
+        filterFn: (node) => {
+          // set containing names of folders to filter out from sidebar
+          const omit = new Set(["reference"]);
+          return !omit.has(node.name.toLowerCase());
+        },
+      })
+    )
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -27,14 +36,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-
-    Component.Explorer({
-      filterFn: (node) => {
-        // set containing names of folders to filter out from sidebar
-        const omit = new Set(["reference"]);
-        return !omit.has(node.name.toLowerCase());
-      },
-    }),
+    Component.DesktopOnly(
+      Component.Explorer({
+        filterFn: (node) => {
+          // set containing names of folders to filter out from sidebar
+          const omit = new Set(["reference"]);
+          return !omit.has(node.name.toLowerCase());
+        },
+      })
+    ),
   ],
   right: [Component.Graph(), Component.Backlinks()],
 };
