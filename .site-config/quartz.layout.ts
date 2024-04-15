@@ -20,22 +20,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        filterFn: (node) => {
-          // set containing names of folders to filter out from sidebar
-          const omit = new Set(["reference"]);
-          return !omit.has(node.name.toLowerCase());
-        },
-      })
-    ),
+
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of folders to filter out from sidebar
+        const omit = new Set(["reference"]);
+        return !omit.has(node.name.toLowerCase());
+      },
+    }),
   ],
   right: [Component.Graph(), Component.Backlinks()],
 };
