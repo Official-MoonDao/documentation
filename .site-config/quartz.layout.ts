@@ -22,17 +22,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
     Component.TableOfContents(),
   ],
-  afterBody: [
-    Component.MobileOnly(
-      Component.Explorer({
-        filterFn: (node) => {
-          // set containing names of folders to filter out from sidebar
-          const omit = new Set(["reference"]);
-          return !omit.has(node.name.toLowerCase());
-        },
-      })
-    ),
-  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -48,7 +37,19 @@ export const defaultContentPageLayout: PageLayout = {
       })
     ),
   ],
-  right: [Component.Graph(), Component.Backlinks()],
+  right: [
+    Component.MobileOnly(
+      Component.Explorer({
+        filterFn: (node) => {
+          // set containing names of folders to filter out from sidebar
+          const omit = new Set(["reference"]);
+          return !omit.has(node.name.toLowerCase());
+        },
+      })
+    ),
+    Component.Graph(),
+    Component.Backlinks(),
+  ],
 };
 
 // components for pages that display lists of pages  (e.g. tags or folders)
