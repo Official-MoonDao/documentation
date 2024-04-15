@@ -24,7 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
           return !omit.has(node.name.toLowerCase());
         },
       })
-    )
+    ),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
