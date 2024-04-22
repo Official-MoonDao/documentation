@@ -12,7 +12,7 @@ slug: /zg-social-media-contest-rules
 
 **NO PURCHASE NECESSARY TO PLAY OR WIN. PURCHASE WILL NOT INCREASE YOUR ODDS OF WINNING.**
 
-The MoonDAO™ Zero-G Social Media Contest (the “Contest”) is sponsored by MoonDAO Limited d/b/a MoonDAO (“Sponsor”). By entering the Contest, you agree to comply with and be bound by the following MoonDAO™ Zero-G Social Media Contest Rules (the “Rules”). Please review the Rules carefully. If you do not agree to the terms and conditions of the Rules in their entirety, you are not permitted to enter the Contest. This Contest may be canceled or postponed by Sponsor, at any time in its sole discretion.
+The MoonDAO™ Zero-G Social Media Contest (the “Contest”) is sponsored by MoonDAO DAO LLC d/b/a MoonDAO (“Sponsor”). By entering the Contest, you agree to comply with and be bound by the following MoonDAO™ Zero-G Social Media Contest Rules (the “Rules”). Please review the Rules carefully. If you do not agree to the terms and conditions of the Rules in their entirety, you are not permitted to enter the Contest. This Contest may be canceled or postponed by Sponsor, at any time in its sole discretion.
 
 ### **ELIGIBILITY:​**
 
