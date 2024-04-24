@@ -8,7 +8,6 @@ sidebar_label: NFT Owner Agreement
 sidebar_position: 3
 slug: /ttzg-nft-owner-agreement
 ---
-
 **NFT OWNER AGREEMENT**
 
 This NFT Owner Agreement (“Owner Agreement”) is entered into by and between MoonDAO DAO LLC d/b/a MoonDAO (“Licensor”) and the individual or entity that obtains a limited license in and to a Ticket to ZeroG NFT as defined below (the “Owner”), and is effective as of the date that the limited license rights in and to the Ticket to ZeroG NFT are transferred to the Owner (the “Effective Date”). This Owner Agreement shall be deemed incorporated into the MoonDAO Website Terms and Conditions (“Site Terms,” and together with this Owner Agreement, the “Agreement”), as made available on the Licensor website located at www.moondao.com (the “Site”); provided, however, to the extent that anything in this Owner Agreement is inconsistent with the Site Terms, this Owner Agreement shall take precedence.
