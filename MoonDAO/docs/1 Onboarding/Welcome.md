@@ -5,7 +5,6 @@ description: 🚀🌕 MoonDAO is an international collective of people united by
 sidebar_position: 1
 slug: /
 ---
-
 # MoonDAO is going to the moon.
 
 ![](hero.png)
