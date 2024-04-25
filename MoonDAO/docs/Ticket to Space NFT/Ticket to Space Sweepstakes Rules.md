@@ -8,7 +8,6 @@ sidebar_label: Sweepstakes Rules
 sidebar_position: 2
 slug: /tts-sweepstakes-rules
 ---
-
 ## MoonDAO™ Ticket to Space Sweepstakes Rules
 
 ## NO PURCHASE NECESSARY TO PLAY OR WIN.  PURCHASE WILL NOT INCREASE YOUR ODDS OF WINNING.  
@@ -20,6 +19,7 @@ The MoonDAO™ Second Ticket to Space Sweepstakes (the “Promotion”) is spons
 The Promotion is open only to individuals who are eighteen (18) years of age or older (or the applicable age of majority, if greater than eighteen (18) years of age in their respective jurisdictions) and that can enter into legally binding contracts under applicable law.  The Promotion is expressly void in Florida, New York, Puerto Rico and where otherwise prohibited by law.  Employees, officers and directors of Sponsor, Blue Origin, LLC (“Blue Origin”), and each of the foregoing’s respective parents, subsidiaries and affiliated companies, and each of their legal representatives, advertising, promotional, fulfillment and marketing agencies, and their immediate families (and those living in their respective households), are not eligible to participate or claim a Prize (as defined below) in the Promotion.  Entrants wishing to obtain a copy of these Rules may request a printed copy by writing to: MoonDAO, Attn: MoonDAO Second Ticket to Space Sweepstakes, PO Box 460446, San Francisco, CA 94146.  Participation constitutes each entrant’s full and unconditional agreement to Sponsor’s decisions, which are final and binding in all matters related to the Promotion. Winning a Prize is contingent upon fulfilling all requirements set forth herein.
 
 Blue Origin® is a registered trademark of Blue Origin, LLC (“Blue Origin”).  Please be advised that Sponsor is not in any way affiliated with Blue Origin, and the Promotion is not endorsed, administered or sponsored by Blue Origin.
+
 
 ## LIMITED TIME ONLY:
 
@@ -37,6 +37,7 @@ The Promotion period (“Promotion Period”) begins at 8:00:00 a.m. Pacific Sta
 
 (e) Cheating, Fraud and Abuse.  By participating in the Promotion as an entrant, you represent and warrant to us that you will not engage in any activity that interrupts or attempts to interrupt the operation of the Promotion.  Anyone who engages in, participates in, or displays behavior that may be interpreted, in  Sponsor’s sole discretion, as unfair methods of participating in the Promotion as an entrant including, but not limited to, the use of multiple Wallets, the use of unauthorized or altered software or hardware to assist entry (e.g., scripts, bots, bot nets, and collusion with bots), intentionally giving other entrants a competitive advantage, Collusion (as defined below) with any other entrant(s), harassment of other entrant(s), breach of these Rules, or any other act (whether through the use of automated technology or otherwise) that unfairly alters an entrant’s chance of winning or constitutes the commission of fraud (collectively, “Abuse”), will be subject to immediate sanctions (as determined by Sponsor in  Sponsor’s sole discretion), which may include, without limitation: (i) immediate MoonDAO™ membership termination and blocking of access to the MoonDAO™ community; (ii) any Prize that the applicable entrant may otherwise have been entitled to receive shall be void and forfeited; and (iii) any Prize received by the applicable entrant shall be subject to disgorgement and/or recoupment. In addition to the foregoing, Sponsor reserves the right to disclose or report any illegal activity to law enforcement and regulatory authorities. Without limiting  Sponsor’s other available remedies, Sponsor may institute or seek any injunctive relief, civil and/or criminal proceedings against any entrant and/or any co-conspirators arising out of or related to the commission of Abuse including, without limitation, recovering all of  Sponsor’s fees and expenses (including reasonable attorneys’ fees) in connection with such efforts.  For purposes of these Rules, “Collusion” shall mean where two (2) or more entrants or MoonDAO™ members collaborate or adopt a strategy (before, during or after the Promotion Period) in order to mutually gain an advantage, give an advantage to one (1) entrant, and/or harm other entrants.  
 
+
 ## IDENTIFICATION OF ENTRANTS:
 
 Each Entry will be identified by the applicable Wallet address and Full Name as collected and stored in the Promotion Database.  For purposes of these Rules, the “Promotion Database” is defined as the entire list of valid Entries recorded at 11:59:00 p.m. PST on January 12th, 2024 (”Snapshot Date”).  Sponsor will stop accepting Entries on the Promotion End Date. 
@@ -52,6 +53,7 @@ Each potential winning Prize Entry, as well as the associated information of the
 Where the Grand Prize winner forfeits the Grand Prize and/or is disqualified for any reason, the second Prize winner selected during the Prize Winner Selection process shall be deemed the potential Grand Prize winner.  If the second Prize winner selected during the Prize Winner Selection process forfeits the Grand Prize and/or is disqualified for any reason, the third Prize winner selected during the Prize Winner Selection process shall be deemed the potential Grand Prize winner, and so on and so forth.  
 
 Discord® is a registered trademark of Discord Inc. (“Discord”).   Please be advised that Sponsor is not in any way affiliated with Discord, and the Promotion is not endorsed, administered or sponsored by Discord.
+
 
 ## PRIZE DESCRIPTION:
 
@@ -79,11 +81,13 @@ No refund or compensation will be made in the event of the cancellation or delay
 
 Incidentals, tips, telephone calls and any other personal expenses incurred in connection with the Grand Prize are the responsibility of the potential Grand Prize winner.  No part of the Grand Prize is transferable or may be converted to a cash payment, resold, included in a separate promotion, or otherwise distributed to any member of the general public.    
 
+
 ## ODDS OF WINNING A PRIZE:
 
 (a) Alternate Prize Odds. The odds of winning an Alternate Prize depend on the number of Entries received during the Promotion Period, but can be calculated by dividing the number of Alternate Prizes (9) by the total number of Entries received.  
 
 (b) Grand Prize Odds. The odds of winning the Grand Prize depend on the number of Entries received during the Promotion Period, but can be calculated by dividing the number of Grand Prizes (1) by the total number of Entries received.  
+
 
 ## PRIVACY STATEMENT:
 
@@ -114,6 +118,7 @@ By entering the Promotion, each entrant agrees to release and hold harmless Spon
 These Rules shall be treated as though they were executed and performed in the State of New York and shall be governed by and construed in accordance with the laws of the State of New York (without regard to conflict of law principles).  The parties (and Covered Parties) hereby agree to arbitrate all claims that may arise under and/or relate to the Promotion and/or these Rules.  Without limiting the foregoing, should a dispute arise between the parties (and Covered Parties) including, without limitation, any matter concerning the Promotion, the Prize(s), the terms and conditions of these Rules or the breach of same by any party hereto: (a) the parties agree to submit their dispute for resolution by arbitration before JAMS in New York, NY; and (b) you agree to first commence a formal dispute proceeding by completing and submitting an Initial Dispute Notice which can be found [here](https://publish.obsidian.md/moondao/MoonDAO/docs/Ticket+to+Space+NFT/Dispute+Notice).  The Covered Party(ies) named in your Initial Dispute Notice (collectively, the “Named Parties”) may choose to provide you with a final written settlement offer after receiving your Initial Dispute Notice (“Final Settlement Offer”).  If the applicable Named Party(ies) provide(s) you with a Final Settlement Offer and you do not accept it, or such Named Party(ies) cannot otherwise satisfactorily resolve your dispute and you wish to proceed, you must submit your dispute for resolution by arbitration before JAMS, in your county of residence, by filing a separate Demand for Arbitration, which is available [here](https://www.jamsadr.com/files/uploads/documents/jams-international-request-for-arbitration-form.pdf).  For claims of Ten Thousand Dollars ($10,000.00) or less, you can choose whether the arbitration proceeds in person, by telephone or based only on submissions.  If the arbitrator awards you relief that is greater than the applicable Final Settlement Offer, then the Named Party(ies) will pay all filing, administration and arbitrator fees associated with the arbitration and, if you retained an attorney to represent you in connection with the arbitration, the Named Party(ies) will reimburse any reasonable attorneys' fees that your attorney accrued for investigating, preparing and pursuing the claim in arbitration. Any award rendered shall be final and conclusive to the parties and a judgment thereon may be entered in any court of competent jurisdiction.  Although the Named Party(ies) may have a right to an award of attorneys' fees and expenses if Named Party(ies) prevail(s) in arbitration, the Named Party(ies) will not seek such an award from you unless the arbitrator determines that your claim was frivolous. 
 
 To the extent permitted by law, you agree that you will not bring, join or participate in any class action lawsuit as to any claim, dispute or controversy that you may have against any of the Covered Parties.  You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. You agree to pay the attorney's fees and court costs that any Covered Party incurs in seeking such relief. This provision preventing you from bringing, joining or participating in class action lawsuits: (i) does not constitute a waiver of any of your rights or remedies to pursue a claim individually and not as a class action in binding arbitration as provided above; and (ii) is an independent agreement. You may opt-out of these dispute resolution provisions by providing written notice of your decision within thirty (30) days of the date that you first enter the Promotion.   
+
 
 ## DISQUALIFICATION:
 

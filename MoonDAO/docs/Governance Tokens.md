@@ -20,8 +20,7 @@ sidebar_position: 5
 aliases:
   - governance token
 ---
-
-## **There is no expectation of profit with the MOONEY token.**
+## There is no expectation of profit with the MOONEY token.
 
 **MOONEY is a governance token for the purpose of claiming voting power (sometimes referred to as vMOONEY). It does not represent fractionalized ownership. Governance includes the ability to guide the DAO’s mission, values, and operations of MoonDAO, as well as the allocation of resources to projects that the DAO supports. Governance tokens have no expectation of profit. Any contributions to MoonDAO are not tax deductible at this point in time.**
 
@@ -67,7 +66,6 @@ DAO members will vote on the proportion of the release of $MOONEY that is sent t
 This incentive structure began on Q4 2022. The $MOONEY assigned to each member will vest over a one year period, conditional on their continued engagement on a MoonDAO project.
 
 The rest of the $MOONEY in the treasury is controlled by the voting members. MoonDAO will never release $MOONEY without the consent of the holders.
-
 
 ## Voting Power Characteristics
 

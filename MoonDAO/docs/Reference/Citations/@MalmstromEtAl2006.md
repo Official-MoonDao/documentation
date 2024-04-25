@@ -17,7 +17,7 @@ periodically in many of the areas of interest. This paper will investigate sever
 communications architecture that enables lunar South Pole communication to Earth,
 including surface-to-lunar-relay, direct line of sight, and surface-to-Earth-relay.
 
-![[MoonDAO/docs/Archive/reference/Citations/attachments/6.-Cont-Comms-with-South-Pole.pdf]]
+![[documentation/MoonDAO/docs/Reference/Citations/attachments/6.-Cont-Comms-with-South-Pole.pdf]]
 
 ## Notes
 
