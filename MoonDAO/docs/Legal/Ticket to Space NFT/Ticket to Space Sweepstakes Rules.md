@@ -20,11 +20,11 @@ The Promotion is open only to individuals who are eighteen (18) years of age or 
 
 Blue Origin® is a registered trademark of Blue Origin, LLC (“Blue Origin”).  Please be advised that Sponsor is not in any way affiliated with Blue Origin, and the Promotion is not endorsed, administered or sponsored by Blue Origin.
 
-## LIMITED TIME ONLY:
+## LIMITED TIME ONLY
 
 The Promotion period (“Promotion Period”) begins at 8:00:00 a.m. Pacific Standard Time (“PST”) on December 15th, 2023, and ends at 11:59:00 p.m. PST on January 12th, 2024 (“Promotion End Date”).  Entries must be received prior to the expiration of the Promotion Period to be eligible for a Prize.  
 
-## HOW TO ENTER:
+## HOW TO ENTER
 
 ## LIMITED TIME ONLY
 
@@ -58,11 +58,7 @@ Where the Grand Prize winner forfeits the Grand Prize and/or is disqualified for
 
 Discord® is a registered trademark of Discord Inc. (“Discord”).   Please be advised that Sponsor is not in any way affiliated with Discord, and the Promotion is not endorsed, administered or sponsored by Discord.
 
-<<<<<<< HEAD:MoonDAO/docs/Legal/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
-## PRIZE DESCRIPTION:
-=======
 ## PRIZE DESCRIPTION
->>>>>>> Removed Conflicting Markdown Formatting:MoonDAO/docs/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
 
 (a) Alternate Prizes.  
 
@@ -88,43 +84,38 @@ No refund or compensation will be made in the event of the cancellation or delay
 
 Incidentals, tips, telephone calls and any other personal expenses incurred in connection with the Grand Prize are the responsibility of the potential Grand Prize winner.  No part of the Grand Prize is transferable or may be converted to a cash payment, resold, included in a separate promotion, or otherwise distributed to any member of the general public.    
 
-<<<<<<< HEAD:MoonDAO/docs/Legal/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
 ## ODDS OF WINNING A PRIZE:
-=======
-## ODDS OF WINNING A PRIZE
->>>>>>> Removed Conflicting Markdown Formatting:MoonDAO/docs/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
 
 (a) Alternate Prize Odds. The odds of winning an Alternate Prize depend on the number of Entries received during the Promotion Period, but can be calculated by dividing the number of Alternate Prizes (9) by the total number of Entries received.  
 
 (b) Grand Prize Odds. The odds of winning the Grand Prize depend on the number of Entries received during the Promotion Period, but can be calculated by dividing the number of Grand Prizes (1) by the total number of Entries received.  
 
-<<<<<<< HEAD:MoonDAO/docs/Legal/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
-## PRIVACY STATEMENT:
+## PRIVACY STATEMENT
 
 For a thorough recital of the Sponsor Privacy Policy, [Click Here](https://publish.obsidian.md/moondao/MoonDAO/docs/Legal/Website+Privacy+Policy).  To the extent that the Sponsor Privacy Policy is in conflict or inconsistent with these Rules as they pertain to the Promotion, these Rules shall take precedence.
 
-## WINNERS LIST: 
+## WINNERS LIST
 
 To request written confirmation of the Prize winners, send a self-addressed stamped envelope to: MoonDAO, MoonDAO Second Ticket to Space Sweepstakes, Attn: Winner’s List, PO Box 460446, San Francisco, CA 94146.
 
-## TAX INFORMATION:
+## TAX INFORMATION
 
 Other than as expressly set forth above with respect to the Grand Prize Taxes, all federal, state and local taxes, and all similar fees and assessments, are the responsibility of the Prize winners.  Sponsor reserves the right to withhold taxes from a winning Prize, as appropriate.  Sponsor will issue a form 1099-MISC for the Prize winner(s) in the amount of the applicable Prize(s). 
 
-## NO SUBSTITUTION OF WINNERS:
+## NO SUBSTITUTION OF WINNERS
 
 The Promotion NFTs are not transferrable, and may not be sold, under any circumstances.  The Prizes are non-transferable, and no substitution or transfer of a Prize will be accommodated or permitted, other than as expressly set forth herein or in Sponsor’s sole discretion. Sponsor reserves the right to substitute a Prize, or any portion thereof, for a substitute of equal or greater value for any reason.  
 
-## PUBLICITY: 
+## PUBLICITY
 
 Other than for residents of the State of Tennessee and where otherwise prohibited by law, Promotion entry constitutes permission for Sponsor and Blue Origin ‌to‌ ‌reproduce,‌ ‌display,‌ ‌perform,‌ ‌distribute‌ ‌and‌ ‌otherwise‌ ‌use‌ each entrant’s name and/or likeness ‌in‌ ‌connection‌ ‌with‌ promoting Sponsor, Blue Origin and/or their respective products, services and offerings in any and all forms of marketing and promotional material including, without limitation, email marketing, online ads, social media ads/announcements, as well as printed extracts and reproductions of any portion thereof. 
 
-## RELEASE:
+## RELEASE
 
 By entering the Promotion, each entrant agrees to release and hold harmless Sponsor, Blue Origin, and each of their respective representatives, affiliates, subsidiaries, parents, agents, and their respective members, officers, directors, employees and agents (collectively, “Covered Parties”) from and against any and all liability for any injuries, loss or damage of any kind arising from, or in connection with, the Promotion (including the Prizes) including, but not limited to: (a) any physical, emotional or psychological injury including, but not limited to, illness, paralysis, death, damages, economic loss or emotional loss arising out or relating to, participation in the Mission (including any training and familiarization activities associated therewith); and/or (b) liability arising from copyright infringement, improper use of likeness, personal injury, death, damages or monetary loss.  Restrictions, conditions and limitations apply.  By entering, each entrant further agrees that, in the event that there is any conflict or other inconsistency between the Rules and any advertisements, promotional or marketing materials, e-mails or announcements relevant to the Promotion, these Rules will govern.  Without limiting the foregoing, The Covered Parties are not responsible for the actions of entrants in connection with the Promotion, including entrants’ attempts to circumvent these Rules or otherwise interfere with the administration, security, fairness, integrity or proper conduct of the Promotion.
 
 ## CHOICE OF LAW/DISPUTE RESOLUTION/CLASS ACTION:
-=======
+
 ## PRIVACY STATEMENT
 
 For a thorough recital of the Sponsor Privacy Policy, [Click Here](https://publish.obsidian.md/moondao/MoonDAO/docs/Legal/Website+Privacy+Policy).  To the extent that the Sponsor Privacy Policy is in conflict or inconsistent with these Rules as they pertain to the Promotion, these Rules shall take precedence.
@@ -150,27 +141,11 @@ Other than for residents of the State of Tennessee and where otherwise prohibite
 By entering the Promotion, each entrant agrees to release and hold harmless Sponsor, Blue Origin, and each of their respective representatives, affiliates, subsidiaries, parents, agents, and their respective members, officers, directors, employees and agents (collectively, “Covered Parties”) from and against any and all liability for any injuries, loss or damage of any kind arising from, or in connection with, the Promotion (including the Prizes) including, but not limited to: (a) any physical, emotional or psychological injury including, but not limited to, illness, paralysis, death, damages, economic loss or emotional loss arising out or relating to, participation in the Mission (including any training and familiarization activities associated therewith); and/or (b) liability arising from copyright infringement, improper use of likeness, personal injury, death, damages or monetary loss.  Restrictions, conditions and limitations apply.  By entering, each entrant further agrees that, in the event that there is any conflict or other inconsistency between the Rules and any advertisements, promotional or marketing materials, e-mails or announcements relevant to the Promotion, these Rules will govern.  Without limiting the foregoing, The Covered Parties are not responsible for the actions of entrants in connection with the Promotion, including entrants’ attempts to circumvent these Rules or otherwise interfere with the administration, security, fairness, integrity or proper conduct of the Promotion.
 
 ## CHOICE OF LAW/DISPUTE RESOLUTION/CLASS ACTION
->>>>>>> Removed Conflicting Markdown Formatting:MoonDAO/docs/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
 
 These Rules shall be treated as though they were executed and performed in the State of New York and shall be governed by and construed in accordance with the laws of the State of New York (without regard to conflict of law principles).  The parties (and Covered Parties) hereby agree to arbitrate all claims that may arise under and/or relate to the Promotion and/or these Rules.  Without limiting the foregoing, should a dispute arise between the parties (and Covered Parties) including, without limitation, any matter concerning the Promotion, the Prize(s), the terms and conditions of these Rules or the breach of same by any party hereto: (a) the parties agree to submit their dispute for resolution by arbitration before JAMS in New York, NY; and (b) you agree to first commence a formal dispute proceeding by completing and submitting an Initial Dispute Notice which can be found [here](https://publish.obsidian.md/moondao/MoonDAO/docs/Ticket+to+Space+NFT/Dispute+Notice).  The Covered Party(ies) named in your Initial Dispute Notice (collectively, the “Named Parties”) may choose to provide you with a final written settlement offer after receiving your Initial Dispute Notice (“Final Settlement Offer”).  If the applicable Named Party(ies) provide(s) you with a Final Settlement Offer and you do not accept it, or such Named Party(ies) cannot otherwise satisfactorily resolve your dispute and you wish to proceed, you must submit your dispute for resolution by arbitration before JAMS, in your county of residence, by filing a separate Demand for Arbitration, which is available [here](https://www.jamsadr.com/files/uploads/documents/jams-international-request-for-arbitration-form.pdf).  For claims of Ten Thousand Dollars ($10,000.00) or less, you can choose whether the arbitration proceeds in person, by telephone or based only on submissions.  If the arbitrator awards you relief that is greater than the applicable Final Settlement Offer, then the Named Party(ies) will pay all filing, administration and arbitrator fees associated with the arbitration and, if you retained an attorney to represent you in connection with the arbitration, the Named Party(ies) will reimburse any reasonable attorneys' fees that your attorney accrued for investigating, preparing and pursuing the claim in arbitration. Any award rendered shall be final and conclusive to the parties and a judgment thereon may be entered in any court of competent jurisdiction.  Although the Named Party(ies) may have a right to an award of attorneys' fees and expenses if Named Party(ies) prevail(s) in arbitration, the Named Party(ies) will not seek such an award from you unless the arbitrator determines that your claim was frivolous. 
 
 To the extent permitted by law, you agree that you will not bring, join or participate in any class action lawsuit as to any claim, dispute or controversy that you may have against any of the Covered Parties.  You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. You agree to pay the attorney's fees and court costs that any Covered Party incurs in seeking such relief. This provision preventing you from bringing, joining or participating in class action lawsuits: (i) does not constitute a waiver of any of your rights or remedies to pursue a claim individually and not as a class action in binding arbitration as provided above; and (ii) is an independent agreement. You may opt-out of these dispute resolution provisions by providing written notice of your decision within thirty (30) days of the date that you first enter the Promotion.   
 
-<<<<<<< HEAD:MoonDAO/docs/Legal/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
-## DISQUALIFICATION:
-
-The Covered Parties are not responsible for lost, interrupted or unavailable network server or other connections, miscommunications, failed telephone or computer transmissions or technical failure, lost Entries, minting errors, technical issues or other errors, jumbled, scrambled or misdirected transmissions, lost AMOE Entries, NFT Prior Owner Entry and/or Waitlist Entries, errors related to any entrant’s Wallet, associated blockchain technology, or other error of any kind, whether human, mechanical or electronic.  Persons found tampering with or abusing any aspect of the Promotion, as solely determined by Sponsor, will be disqualified.  If disqualified for any of the above reasons, Sponsor reserves the right to terminate entrant’s eligibility to participate in the Promotion.  In the event that any portion of the Promotion is compromised by technical error, virus, bugs, non-authorized human intervention or other causes beyond the control of Sponsor which, in the sole opinion of Sponsor, corrupts or impairs the administration, security, fairness or proper determination of the Promotion, Sponsor reserves the right, in its sole discretion, to suspend or terminate the Promotion or any part of the Promotion, or any combination of the above.  The Covered Parties are not responsible for any problem with Entries generated by computer hardware or software malfunction, error or failure, whatever the cause.  
-
-## FORCE MAJEURE EVENTS:
-
-The Covered Parties are not responsible or liable to any entrant or potential Prize winner (or any person claiming through such entrant or potential Prize winner) for failure to supply a Prize or any part thereof, by reason of any acts of God, any action, regulation, order or request by any governmental or quasi-governmental entity (whether or not the action, regulations, order or request proves to be invalid), equipment failure, threatened terrorist acts, terrorist acts, air raid, blackout, act of public enemy, earthquake, volcanic eruption, war (declared or undeclared), fire, flood, COVID-19 or any similar virus, disease and/or pandemic, as well as any private sector or governmental response thereto, explosion, unusually severe weather, hurricane, embargo, labor dispute or strike (whether legal or illegal) labor or material shortage, transportation interruption of any kind, work slow-down, civil disturbance, insurrection, riot, or any other cause beyond the sole control of Sponsor and/or Blue Origin including, without limitation, any matter related to the Blue Shepard vehicle, Mission-related launch conditions and/or governmental regulations, decisions, actions and/or orders related to voyages similar to the Mission (collectively, “Force Majeure Events”).
-
-## INDEMNIFICATION:
-
-You agree to release, indemnify and hold the Covered Parties harmless from and against any and all claims, expenses (including reasonable attorneys' fees, costs and settlement costs), damages, suits, costs, demands and/or judgments whatsoever, made by any third party due to or arising out of: (a) your improper and/or unauthorized participation in the Promotion; (b) your breach of these Rules; and/or (c) your violation of any rights of another individual and/or entity.  The provisions of this paragraph are for the benefit of the Covered Parties.  Each of these individuals and entities shall have the right to assert and enforce these provisions directly against you on its own behalf.
-
-## LEGAL WARNING:
-=======
 ## DISQUALIFICATION
 
 The Covered Parties are not responsible for lost, interrupted or unavailable network server or other connections, miscommunications, failed telephone or computer transmissions or technical failure, lost Entries, minting errors, technical issues or other errors, jumbled, scrambled or misdirected transmissions, lost AMOE Entries, NFT Prior Owner Entry and/or Waitlist Entries, errors related to any entrant’s Wallet, associated blockchain technology, or other error of any kind, whether human, mechanical or electronic.  Persons found tampering with or abusing any aspect of the Promotion, as solely determined by Sponsor, will be disqualified.  If disqualified for any of the above reasons, Sponsor reserves the right to terminate entrant’s eligibility to participate in the Promotion.  In the event that any portion of the Promotion is compromised by technical error, virus, bugs, non-authorized human intervention or other causes beyond the control of Sponsor which, in the sole opinion of Sponsor, corrupts or impairs the administration, security, fairness or proper determination of the Promotion, Sponsor reserves the right, in its sole discretion, to suspend or terminate the Promotion or any part of the Promotion, or any combination of the above.  The Covered Parties are not responsible for any problem with Entries generated by computer hardware or software malfunction, error or failure, whatever the cause.  
@@ -183,7 +158,21 @@ The Covered Parties are not responsible or liable to any entrant or potential Pr
 
 You agree to release, indemnify and hold the Covered Parties harmless from and against any and all claims, expenses (including reasonable attorneys' fees, costs and settlement costs), damages, suits, costs, demands and/or judgments whatsoever, made by any third party due to or arising out of: (a) your improper and/or unauthorized participation in the Promotion; (b) your breach of these Rules; and/or (c) your violation of any rights of another individual and/or entity.  The provisions of this paragraph are for the benefit of the Covered Parties.  Each of these individuals and entities shall have the right to assert and enforce these provisions directly against you on its own behalf.
 
+## LEGAL WARNING:
+
+## DISQUALIFICATION
+
+The Covered Parties are not responsible for lost, interrupted or unavailable network server or other connections, miscommunications, failed telephone or computer transmissions or technical failure, lost Entries, minting errors, technical issues or other errors, jumbled, scrambled or misdirected transmissions, lost AMOE Entries, NFT Prior Owner Entry and/or Waitlist Entries, errors related to any entrant’s Wallet, associated blockchain technology, or other error of any kind, whether human, mechanical or electronic.  Persons found tampering with or abusing any aspect of the Promotion, as solely determined by Sponsor, will be disqualified.  If disqualified for any of the above reasons, Sponsor reserves the right to terminate entrant’s eligibility to participate in the Promotion.  In the event that any portion of the Promotion is compromised by technical error, virus, bugs, non-authorized human intervention or other causes beyond the control of Sponsor which, in the sole opinion of Sponsor, corrupts or impairs the administration, security, fairness or proper determination of the Promotion, Sponsor reserves the right, in its sole discretion, to suspend or terminate the Promotion or any part of the Promotion, or any combination of the above.  The Covered Parties are not responsible for any problem with Entries generated by computer hardware or software malfunction, error or failure, whatever the cause.  
+
+## FORCE MAJEURE EVENTS
+
+The Covered Parties are not responsible or liable to any entrant or potential Prize winner (or any person claiming through such entrant or potential Prize winner) for failure to supply a Prize or any part thereof, by reason of any acts of God, any action, regulation, order or request by any governmental or quasi-governmental entity (whether or not the action, regulations, order or request proves to be invalid), equipment failure, threatened terrorist acts, terrorist acts, air raid, blackout, act of public enemy, earthquake, volcanic eruption, war (declared or undeclared), fire, flood, COVID-19 or any similar virus, disease and/or pandemic, as well as any private sector or governmental response thereto, explosion, unusually severe weather, hurricane, embargo, labor dispute or strike (whether legal or illegal) labor or material shortage, transportation interruption of any kind, work slow-down, civil disturbance, insurrection, riot, or any other cause beyond the sole control of Sponsor and/or Blue Origin including, without limitation, any matter related to the Blue Shepard vehicle, Mission-related launch conditions and/or governmental regulations, decisions, actions and/or orders related to voyages similar to the Mission (collectively, “Force Majeure Events”).
+
+## INDEMNIFICATION
+
+You agree to release, indemnify and hold the Covered Parties harmless from and against any and all claims, expenses (including reasonable attorneys' fees, costs and settlement costs), damages, suits, costs, demands and/or judgments whatsoever, made by any third party due to or arising out of: (a) your improper and/or unauthorized participation in the Promotion; (b) your breach of these Rules; and/or (c) your violation of any rights of another individual and/or entity.  The provisions of this paragraph are for the benefit of the Covered Parties.  Each of these individuals and entities shall have the right to assert and enforce these provisions directly against you on its own behalf.
+
+
 ## LEGAL WARNING
->>>>>>> Removed Conflicting Markdown Formatting:MoonDAO/docs/Ticket to Space NFT/Ticket to Space Sweepstakes Rules.md
 
 Any attempt by any individual, whether or not an entrant, to damage, destroy, tamper with or vandalize any portion of the Promotion, or otherwise interfere with the operation of the Promotion, is a violation of criminal and civil law and Sponsor will diligently pursue any and all remedies in this regard against any offending individual or entity to the fullest extent permissible by law and in equity.
