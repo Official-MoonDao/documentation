@@ -55,7 +55,7 @@ Treasury signers are responsible for executing transactions on the [MoonDAO Trea
 **Bio:** MoonDAO Operations Lead.
 **Wallet Address:** 0xb1d4c1B9c8DA3191Fdb515Fa7AdeC3D41D014F4f
 
-## Ballack
+## Yang Zhuxiang
 **Socials:** https://twitter.com/yang_zhuxiang
 **Discord:** @ballack
 **Bio:** Web 3.0 and DAO Contributor.
