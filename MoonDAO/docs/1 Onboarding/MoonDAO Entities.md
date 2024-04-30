@@ -27,7 +27,7 @@ MoonDAO Entities are a yearly subscription service that gives you:
 
 # How do I create an Entity?
 
-Creating a MoonDAO Entity is simple. Simply go [[[here]]](https://app.moondao.com/join) and click “Register an Entity” to get started.
+Creating a MoonDAO Entity is simple. Simply go [here](https://app.moondao.com/join) and click “Register an Entity” to get started.
 
 All you need to do is fill out your Entity’s information in a quick questionnaire, and then design your Registration image using our image generator.
 
