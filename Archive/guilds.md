@@ -172,7 +172,10 @@ Every year, at the end of the term, the DAO must conduct an election to find out
 
 
 
------------------------------------------------------------------------
+
+
+
+=====================================================================
 
 # MoonDAO Guild Proposal Template
 

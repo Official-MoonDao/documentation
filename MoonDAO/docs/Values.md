@@ -18,7 +18,7 @@ keywords:
   - vMOONEY
   - Space Travel
 sidebar_label: Values
-sidebar_position: 4
+sidebar_position: 2
 ---
 **<del>Don’t</del> Can’t Be Evil**
 
