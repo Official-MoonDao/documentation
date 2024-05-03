@@ -1,14 +1,14 @@
 ---
-tags: docs/onboarding, docs/vision
+tags:
+  - docs/onboarding
+  - docs/vision
 id: mission
 title: Mission
 description: MoonDAO's Mission
 keywords:
-  [
-      Mission,
-      Vision,
-      Values
-  ]
+  - Mission
+  - Vision
+  - Values
 sidebar_position: 2
 ---
 MoonDAO is accelerating our multiplanetary future with an open platform to fund, collaborate, and compete on challenges that get us closer to a lunar settlement.

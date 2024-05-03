@@ -1,11 +1,14 @@
-| Term                        | Related                                                                                                                        |                |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| ![[@Astronaut]]             | [Roles](Roles.md)                                                                                                              |                |
-| ![[@Delegate]]              | [Roles](Roles.md), [Governance Model](Governance%20Model.md)                                                                   |                |
-| ![[@Earthling]]             | [Roles](Roles.md)                                                                                                              |                |
-| ![[@Executive]]             | [Roles](Roles.md)                                                                                                              |                |
-| ![[@Member]]                | [Roles](Roles.md), [Governance Model](Governance%20Model.md)                                                                   |                |
-| ![[@Moon Settler]]          | [Roles](Roles.md), [Projects](../../docs/Projects.md)                                                                          |                |
+| Term               | Related                                                      |     |
+| ------------------ | ------------------------------------------------------------ | --- |
+| ![[@Astronaut]]    | [Roles](Roles.md)                                            |     |
+| ![[@Delegate]]     | [Roles](Roles.md), [Governance Model](Governance%20Model.md) |     |
+| ![[@Earthling]]    | [Roles](Roles.md)                                            |     |
+| ![[@Executive]]    | [Roles](Roles.md)                                            |     |
+| ![[@Member]]       | [Roles](Roles.md), [Governance Model](Governance%20Model.md) |     |
+| ![[@Moon Settler]] | [Roles](Roles.md), [Projects](Projects.md)                   |     |
+| ![[@Rocketeer]]    | [Roles](Roles.md), [Projects](Projects.md)                   |     |
+| ![[@Voyager]]               | [Roles](Roles.md), [Projects](Projects.md)                                                                                     |                |
+ ![[@Moon Settler]]          | [Roles](Roles.md), [Projects](../../docs/Projects.md)                                                                          |                |
 | ![[@Rocketeer]]             | [Roles](Roles.md), [Projects](../../docs/Projects.md)                                                                          |                |
 | ![[@Voyager]]               | [Roles](Roles.md), [Projects](../../docs/Projects.md)                                                                          |                |
 | ![[Ethereum]]               | [MOONEY](MOONEY.md)                                                                                                            |                |

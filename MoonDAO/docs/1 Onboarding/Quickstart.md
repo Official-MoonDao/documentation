@@ -1,15 +1,24 @@
 ---
-tags: docs/onboarding
+tags:
+  - docs/onboarding
 id: quickstart
 title: Quickstart
 description: Quickstart Tutorial to get started at MoonDAO.
-keywords: [Quickstart, Getting started, Join, Onboarding, Governance]
-sidebar_position: 3
+keywords:
+  - Quickstart
+  - Getting started
+  - Join
+  - Onboarding
+  - Governance
+sidebar_position: 1
 ---
 ### How to get started at MoonDAO
 
+**Subscribe to our [Newsletter](https://app.moondao.com/news)**  
+The newsletter will keep you up to date on everything happening in the community.
+
 **Join [Our Discord](https://moondao.com/discord/)**  
-Discord is the epicenter of our community where we socialize and all work coordination and governance processes happen. Come introduce yourself, chat about space, and participate in our events!    
+Discord is the epicenter of our community where we socialize and all work coordination and governance processes happen. Come introduce yourself, chat about space, and participate in our events!
 
 **Visit [Mission Control](https://app.moondao.com/)**  
 Mission Control is the main utility layer where you can become a member, engage with space-focused endeavors, and get started on the path to deeper levels of integration.
