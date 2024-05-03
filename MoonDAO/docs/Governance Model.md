@@ -16,7 +16,7 @@ keywords:
   - MOONEY
   - Space Travel
 sidebar_label: Governance
-sidebar_position: 4
+sidebar_position: 5
 ---
 ## High-level Overview
 MoonDAO is composed of three governing bodies:
