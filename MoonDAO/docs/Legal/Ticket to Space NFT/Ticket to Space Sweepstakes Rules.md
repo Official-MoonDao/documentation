@@ -58,6 +58,7 @@ Where the Grand Prize winner forfeits the Grand Prize and/or is disqualified for
 
 Discord® is a registered trademark of Discord Inc. (“Discord”).   Please be advised that Sponsor is not in any way affiliated with Discord, and the Promotion is not endorsed, administered or sponsored by Discord.
 
+
 ## PRIZE DESCRIPTION
 
 (a) Alternate Prizes.  
@@ -84,7 +85,8 @@ No refund or compensation will be made in the event of the cancellation or delay
 
 Incidentals, tips, telephone calls and any other personal expenses incurred in connection with the Grand Prize are the responsibility of the potential Grand Prize winner.  No part of the Grand Prize is transferable or may be converted to a cash payment, resold, included in a separate promotion, or otherwise distributed to any member of the general public.    
 
-## ODDS OF WINNING A PRIZE:
+
+## ODDS OF WINNING A PRIZE
 
 (a) Alternate Prize Odds. The odds of winning an Alternate Prize depend on the number of Entries received during the Promotion Period, but can be calculated by dividing the number of Alternate Prizes (9) by the total number of Entries received.  
 
@@ -114,7 +116,7 @@ Other than for residents of the State of Tennessee and where otherwise prohibite
 
 By entering the Promotion, each entrant agrees to release and hold harmless Sponsor, Blue Origin, and each of their respective representatives, affiliates, subsidiaries, parents, agents, and their respective members, officers, directors, employees and agents (collectively, “Covered Parties”) from and against any and all liability for any injuries, loss or damage of any kind arising from, or in connection with, the Promotion (including the Prizes) including, but not limited to: (a) any physical, emotional or psychological injury including, but not limited to, illness, paralysis, death, damages, economic loss or emotional loss arising out or relating to, participation in the Mission (including any training and familiarization activities associated therewith); and/or (b) liability arising from copyright infringement, improper use of likeness, personal injury, death, damages or monetary loss.  Restrictions, conditions and limitations apply.  By entering, each entrant further agrees that, in the event that there is any conflict or other inconsistency between the Rules and any advertisements, promotional or marketing materials, e-mails or announcements relevant to the Promotion, these Rules will govern.  Without limiting the foregoing, The Covered Parties are not responsible for the actions of entrants in connection with the Promotion, including entrants’ attempts to circumvent these Rules or otherwise interfere with the administration, security, fairness, integrity or proper conduct of the Promotion.
 
-## CHOICE OF LAW/DISPUTE RESOLUTION/CLASS ACTION:
+## CHOICE OF LAW/DISPUTE RESOLUTION/CLASS ACTION
 
 ## PRIVACY STATEMENT
 
@@ -158,7 +160,7 @@ The Covered Parties are not responsible or liable to any entrant or potential Pr
 
 You agree to release, indemnify and hold the Covered Parties harmless from and against any and all claims, expenses (including reasonable attorneys' fees, costs and settlement costs), damages, suits, costs, demands and/or judgments whatsoever, made by any third party due to or arising out of: (a) your improper and/or unauthorized participation in the Promotion; (b) your breach of these Rules; and/or (c) your violation of any rights of another individual and/or entity.  The provisions of this paragraph are for the benefit of the Covered Parties.  Each of these individuals and entities shall have the right to assert and enforce these provisions directly against you on its own behalf.
 
-## LEGAL WARNING:
+## LEGAL WARNING
 
 ## DISQUALIFICATION
 
