@@ -12,7 +12,6 @@ keywords:
   - Governance
 sidebar_position: 1
 ---
-
 ### How to get started at MoonDAO
 
 **Subscribe to our [Newsletter](https://app.moondao.com/news)**  
