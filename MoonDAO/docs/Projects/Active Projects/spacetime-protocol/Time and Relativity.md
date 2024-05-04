@@ -38,7 +38,7 @@ time│
 
 Unlike linear spatial coordinates where the "grid" is square, spacetime coordinates are not linear. The "grid" on the spacetime plot is made up of hyperbolas rather than lines.
 
-![](../../media-files/Pasted%20image%2020240101164720.png)
+![](Pasted%20image%2020240101164720.png)
 
 ## Time Dilation from Velocity
 The _Metric Equation_ lets us find a spacetime interval between events. ([Derivation](https://physics.unm.edu/Courses/Fields/Phys2310/Lectures/lecture27.pdf))
@@ -81,7 +81,7 @@ Now imagine 4 points in this coordinate frame. How does time dilation affect eac
 3. ✈️ - a plane flying 10 km due east above the ocean at 900 km/h ground speed.
 4. 🛰 - a satellite orbiting in a [geosynchronous equatorial orbit](https://en.wikipedia.org/wiki/Geostationary_orbit) around Earth. 
 
-![](../../media-files/ECI%20vs%20time%20dilation.png)
+![](ECI%20vs%20time%20dilation.png)
 Point ⭕ has zero velocity, but is still in the presence of Earth's gravity well and feels gravitational potential. Is its proper time faster or slower than coordinate time? _Faster!_
 
 Now let's consider some real objects, 📡 and ✈️. Both are pretty close to each other in terms of altitude, astronomically speaking, so they share about the same amount of gravitational dilation. Unlike ⭕, both are in motion with the Earth's surface as it rotates. And that means they're moving pretty dang fast with respect to the center of Earth. The dilation from velocity dominates over the dilation from being far from the center of Earth, so both clocks are _slower_ than the coordinate time in total.
@@ -90,7 +90,7 @@ But how do 📡 and ✈️ compare to each other? ✈️ is moving 900 km/h grou
 
 Finally, let's consider 🛰… It's not so simple anymore. Let's check [the answers](https://en.wikipedia.org/wiki/Time_dilation).
 
-![](../../media-files/Pasted%20image%2020240101223031.png)
+![](Pasted%20image%2020240101223031.png)
 
 Okay, we're on the right track! Now to do the math ourselves…
 
