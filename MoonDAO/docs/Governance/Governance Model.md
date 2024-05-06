@@ -19,6 +19,7 @@ sidebar_label: Governance
 sidebar_position: 5
 ---
 ## High-level Overview
+
 MoonDAO is composed of three governing bodies:
 1. **The MoonDAO Senate.** This is a group of contributors that review incoming Proposals and perform due-diligence before it goes up for vote for the rest of the DAO.
 2. **Member House.** This house is composed of all the DAO members. We use off-chain voting on [Snapshot](https://snapshot.org/#/tomoondao.eth).
