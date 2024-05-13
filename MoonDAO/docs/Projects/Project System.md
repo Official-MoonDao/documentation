@@ -143,9 +143,11 @@ Bob received 25% of the total allocation for that project.  
 Bob received 0.1 ETH and 10,000 MOONEY up-front for his contribution.
 
 **Bob’s ETH Reward** = 0.25 ETH - 0.1 ETH = 0.15 ETH  
-**Bob’s vMOONEY Reward** = 274,895.859375 MOONEY - 10,000 MOONEY = 264,895.859375 MOONEY  
+**Bob’s vMOONEY Reward** = 274,895.859375 MOONEY - 10,000 MOONEY = 264,895.859375 MOONEY.  
 
-Therefore Bob’s retroactive reward would be 0.15 ETH and 264,895.859375 vMOONEY  
+Therefore Bob’s retroactive reward would be 0.15 ETH and 264,895.859375 vMOONEY.
+
+For more example of how the retroactive rewards are calculated, please [click here](MoonDAO%E2%80%99s%20Quarterly%20Rewards.md)  
 
 **Reward Timing and Method**
 
