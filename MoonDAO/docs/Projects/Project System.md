@@ -2,7 +2,7 @@
 tags:
   - docs/governance
 id: project-guidelines
-title: Projects
+title: Project System
 description: Learn more about how MoonDAO projects work
 keywords:
   - Proposal
