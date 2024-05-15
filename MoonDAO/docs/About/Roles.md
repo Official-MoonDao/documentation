@@ -30,5 +30,5 @@ sidebar_position: 7
 - **[[@Astronaut]]:** Leader of MoonDAO.
 - **[[@TreasurySigner]]:** Signer on MoonDAO’s Treasury.
 - **[@Voyager](@Voyager.md):** Former Moonsettler, Rocketeer, Astronaut, or Treasury Signer.
-- **[[@Earthling]]:** A verified member of our Discord.
+- **[[@Alien]]:** A verified member of our Discord.
 

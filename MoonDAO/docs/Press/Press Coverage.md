@@ -20,15 +20,17 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 - News18: [Dude Perfect' YouTuber Jets Off to Space With Free Ticket Aboard Blue Origin Flight](https://www.news18.com/news/buzz/dude-perfect-youtuber-jets-off-to-space-with-free-ticket-aboard-blue-origin-flight-6322909.html)
 - QZ: [Space Business: MoonDAO's Golden Tickets](https://qz.com/emails/space-business/1849365590/space-business-moondaos-golden-tickets) 
 ## Podcasts
-- [Astro Ben Podcast](https://astroben.libsyn.com/pablo-moncada-larrotiz-co-founder-of-moondao) 
+- Astro Ben Podcast: [Pablo Moncada](https://astroben.libsyn.com/pablo-moncada-larrotiz-co-founder-of-moondao), [Dr. Eiman Jahangir](https://astroben.libsyn.com/dr-eiman-jahangir-associate-professor-at-vanderbilt-university-and-the-director-of-the-sections-of-general-cardiology-and-cardio-oncology-hes-also-going-to-space-with-moondao)
 - [The Space Revolution by Rick Tumlinson](https://podcasts.apple.com/gb/podcast/episode-21-pablo-moncada/id1659076624?i=1000626953339)
 - [Just DAO It!](https://open.spotify.com/episode/5UxbqDDiqAnD4nv9KQUcvu)
 - [DeSci Rising](https://www.youtube.com/watch?v=NNpLoP6EDMc)
 ## YouTube
 - [Dude Perfect goes to SPACE](https://www.youtube.com/watch?v=YXXlSG-du7c)
 - Ellie in Space: [How Dude Perfect was Sent to Space](https://www.youtube.com/watch?v=u0sUwRWWZe0)
+- [Foresight Institute](https://www.youtube.com/watch?v=huNZxzM5u3w): Decentralized Approaches to Support Space Progress
 - DAODenver: [MoonDAO, A Fireside Chat with Pablo Moncada](https://www.youtube.com/watch?v=VYhZ6YeDP18)
 - [The Purple Trader Show](https://www.youtube.com/watch?v=aarLHU-pfoU)
+- [New Worlds Conference](https://www.youtube.com/watch?v=BGMq5V-BGnY)
 - [Mars Society Convention](https://www.youtube.com/watch?v=I4MIL6-7jEU): Decentralized Funding for Public Access to Space
 
-If you would like to feature MoonDAO in an upcoming press piece about the decentralization of space, Web3, or any of our [projects](Project%20System.md), please reach out to info@moondao.com to arrange an interview. See the [Press Kit](https://docs.moondao.com/Press-Kit) for more details about MoonDAO, high resolution graphics, and more.
+If you would like to feature MoonDAO in an upcoming press piece about the decentralization of space, Web3, or any of our [projects](Project%20System.md), please reach out to info@moondao.com to arrange an interview. See the [[Press Kit]] for more details about MoonDAO, high resolution graphics, and more.

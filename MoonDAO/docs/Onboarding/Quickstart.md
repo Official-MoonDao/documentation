@@ -16,3 +16,5 @@ Mission Control is the main utility layer where you can become a member, engage 
 
 **Join a [MoonDAO Project](Project%20System.md)**  
 Our project system is the main method MoonDAO uses for developing, approving, and funding new initiatives.
+
+Read Next: [[Contribute]]

@@ -2,7 +2,7 @@
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------- |
 | ![[@Astronaut]]             | [Roles](Roles.md)                                                                                                              |                |
 | ![[@Delegate]]              | [Roles](Roles.md), [Governance Model](Governance%20Model.md)                                                                   |                |
-| ![[@Earthling]]             | [Roles](Roles.md)                                                                                                              |                |
+| ![[@Alien]]             | [Roles](Roles.md)                                                                                                              |                |
 | ![[@Executive]]             | [Roles](Roles.md)                                                                                                              |                |
 | ![[@Member]]                | [Roles](Roles.md), [Governance Model](Governance%20Model.md)                                                                   |                |
 | ![[@Moon Settler]]          | [Roles](Roles.md), [Project System](Project%20System.md)                                                                       |                |
