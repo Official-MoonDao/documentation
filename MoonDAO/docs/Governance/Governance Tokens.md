@@ -52,9 +52,11 @@ $MOONEY on Ethereum Mainnet:
 $MOONEY on Polygon (POS):
 [0x74ac7664abb1c8fa152d41bb60e311a663a41c7e](https://polygonscan.com/token/0x74ac7664abb1c8fa152d41bb60e311a663a41c7e)
 
-Staked $vMOONEY on Ethereum Mainnet: [0xcc71c80d803381fd6ee984faff408f8501db1740](https://etherscan.io/token/0xcc71c80d803381fd6ee984faff408f8501db1740)
+Staked $vMOONEY on Ethereum Mainnet: 
+[0xcc71c80d803381fd6ee984faff408f8501db1740](https://etherscan.io/token/0xcc71c80d803381fd6ee984faff408f8501db1740)
 
-Staked $vMOONEY on Polygon (POS): [0xe2d1BFef0A642B717d294711356b468ccE68BEa6](https://polygonscan.com/token/0xe2d1BFef0A642B717d294711356b468ccE68BEa6)
+Staked $vMOONEY on Polygon (POS): 
+[0xe2d1BFef0A642B717d294711356b468ccE68BEa6](https://polygonscan.com/token/0xe2d1BFef0A642B717d294711356b468ccE68BEa6)
 
 ### Geometric Release Schedule
 On a quarterly basis the DAO will get a list of all the active projects that were completed in that quarter.
