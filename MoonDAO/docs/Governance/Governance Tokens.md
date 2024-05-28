@@ -45,13 +45,18 @@ MOONEY tokens are the only tokens that can be staked for voting power.
 
 Approximately 50% of the MOONEY tokens are in the MoonDAO treasury. These tokens will be released on an infinite geometric series to incentivize members to work on MoonDAO Projects.
 
-
-### Contract address
-On Ethereum Mainnet:
+### Contract Addresses
+$MOONEY on Ethereum Mainnet:
 [0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395](https://etherscan.io/address/0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395)
 
-On Polygon (POS):
-[0x74ac7664abb1c8fa152d41bb60e311a663a41c7e](0x74ac7664abb1c8fa152d41bb60e311a663a41c7e)
+$MOONEY on Polygon (POS):
+[0x74ac7664abb1c8fa152d41bb60e311a663a41c7e](https://polygonscan.com/token/0x74ac7664abb1c8fa152d41bb60e311a663a41c7e)
+
+Staked $vMOONEY on Ethereum Mainnet: 
+[0xcc71c80d803381fd6ee984faff408f8501db1740](https://etherscan.io/token/0xcc71c80d803381fd6ee984faff408f8501db1740)
+
+Staked $vMOONEY on Polygon (POS): 
+[0xe2d1BFef0A642B717d294711356b468ccE68BEa6](https://polygonscan.com/token/0xe2d1BFef0A642B717d294711356b468ccE68BEa6)
 
 ### Geometric Release Schedule
 On a quarterly basis the DAO will get a list of all the active projects that were completed in that quarter.
@@ -63,7 +68,7 @@ There will be a geometric release of the total $MOONEY token over time. With 40 
 
 DAO members will vote on the proportion of the release of $MOONEY that is sent to each project by token weighted voting, or whatever governance mechanism the DAO selects, with the precedence between the two being the latter.
 
-This incentive structure began on Q4 2022. The $MOONEY assigned to each member will vest over a one year period, conditional on their continued engagement on a MoonDAO project.
+This incentive structure began on Q4 2022. The $MOONEY will be locked for four years and given in the form of delegated $vMOONEY that they can unlock after it has vested. See: [[Project System]] for more details.
 
 The rest of the $MOONEY in the treasury is controlled by the voting members. MoonDAO will never release $MOONEY without the consent of the holders.
 

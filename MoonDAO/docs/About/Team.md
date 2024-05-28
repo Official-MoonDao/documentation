@@ -33,8 +33,14 @@ See [Roles](Roles.md) for a description of each role.
 ## Ryan
 
 ![[@ryand2d]]
+
 ## Mitchie
+
 ![[@mitchie_mitch]]
+
+## Colin
+
+![[@name.get]]
 
 # Treasury Signers
 
@@ -85,6 +91,9 @@ Treasury signers are responsible for executing transactions on the [MoonDAO Trea
 
 # Rocketeers (Project Leaders)
 
+## Eiman
+![[@DrEJahangir]]
+
 ## Phil
 ![[@philiplinden]]
 
@@ -93,22 +102,22 @@ Treasury signers are responsible for executing transactions on the [MoonDAO Trea
 ## Christina
 ![[@xtina_korp]]
 
-## DaMian
+%% ## DaMian
 ![[@damian2848]]
 
 ## Elijah
 ![[@flowscience]]
 
 ## Eliot
-![[@social_hacker]]
+![[@social_hacker]] %%
 
 ## Fiyin
 ![[@fiyin]]
 
-## Greg
+%% ## Greg
 ![[@gregsearch]]
 
 ## Justin
 ![[@justinpark01]]
 ## Larrotiz
-![[@larrotiz]]
+![[@larrotiz]] %%
