@@ -68,7 +68,7 @@ There will be a geometric release of the total $MOONEY token over time. With 40 
 
 DAO members will vote on the proportion of the release of $MOONEY that is sent to each project by token weighted voting, or whatever governance mechanism the DAO selects, with the precedence between the two being the latter.
 
-This incentive structure began on Q4 2022. The $MOONEY assigned to each member will vest over a one year period, conditional on their continued engagement on a MoonDAO project.
+This incentive structure began on Q4 2022. The $MOONEY will be locked for four years and given in the form of delegated $vMOONEY that they can unlock after it has vested. See: [[Project System]] for more details.
 
 The rest of the $MOONEY in the treasury is controlled by the voting members. MoonDAO will never release $MOONEY without the consent of the holders.
 
