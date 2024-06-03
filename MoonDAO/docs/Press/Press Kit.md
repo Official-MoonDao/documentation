@@ -22,7 +22,9 @@ MoonDAO creates decentralized solutions to democratize access to space explorati
 MoonDAO was co-founded by Pablo Moncada-Larrotiz at the end of 2021. Pablo, MoonDAO's co-founder and first elected astronaut, was formerly employed at BigTech but made the decision to withdraw upon recognizing the potential consequences of centralized control over billions of individuals' lives. He perceives decentralization as a viable solution to address these issues. 
 
 Since helping to found MoonDAO, Pablo has dedicated his efforts to making space more accessible to all and enabling the collective governance of space. Pablo previously held positions at Waymo (Google's self-driving car division), YouTubeVR, and within the field of biotechnology. Although he spent most of his formative years in Ann Arbor, MI, and pursued his education at the University of Michigan, Pablo's cultural roots lie in Spain, as he resided in Zaragoza during his childhood.
-[Read about the MoonDAO Team](Team.md).
+
+- [[About Pablo Moncada]]
+- [Read about the MoonDAO Team](Team.md).
 
 ## High Resolution Graphics
 - [Download Logos and Graphics](https://drive.google.com/drive/folders/1xFv7fFPVLUKWPhd9LKd7-PWYH28WyUGP?usp=drive_link)
