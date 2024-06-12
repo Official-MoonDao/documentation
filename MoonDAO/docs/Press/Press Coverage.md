@@ -10,6 +10,7 @@ sidebar_position: 2
 ---
 Welcome to MoonDAO's repository of media mentions and coverage from various outlets worldwide. Dive into a curated selection of articles, YouTube videos, and podcast interviews that highlight MoonDAO's initiatives, innovations, and contributions to the space sector. Our Press Coverage page is your gateway to discovering the diverse perspectives and stories surrounding our journey. 
 ## Articles 
+- [MIDAO Customer Spotlight: MoonDAO](https://www.midao.org/blog-posts/midao-customer-spotlight-moondao)
 - Vanderbilt University Medical Center: [The stars look very different today: Eiman Jahangir to realize lifelong dream to fly to space](https://news.vumc.org/2024/04/24/eiman-jahangir-to-realize-lifelong-dream-to-fly-to-space/)
 - Houston Chronicle: [Crypto in space? As markets overlap, some see blockchain's potential in growing off-planet economy](https://www.houstonchronicle.com/news/houston-texas/space/article/cryptocurrency-blockchain-space-overlap-17753964.php)
 - CoinTelegraph: [Lunar colony ‘unlikely’ by 2030, but that’s not the point — MoonDAO](https://cointelegraph.com/news/moondao-crypto-space-moon-mission-funding-research) 
