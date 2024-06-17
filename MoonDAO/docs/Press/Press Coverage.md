@@ -8,8 +8,9 @@ description: Browse a selection of articles, videos, and podcasts highlighting M
 author: ryand2d
 sidebar_position: 2
 ---
-Welcome to MoonDAO's repository of media mentions and coverage from various outlets worldwide. Dive into a curated selection of articles, YouTube videos, and podcast interviews that highlight MoonDAO's initiatives, innovations, and contributions to the space sector. Our Press Coverage page is your gateway to discovering the diverse perspectives and stories surrounding our journey. 
+Welcome to MoonDAO's repository of media mentions and coverage from various outlets worldwide. Dive into a curated selection of articles, YouTube videos, and podcast interviews that highlight MoonDAO's initiatives, innovations, and contributions to the space sector. Our Press Coverage page is your gateway to discovering diverse perspectives and stories surrounding our journey. 
 ## Articles 
+- NewsNation: [Vanderbilt doctor to go to space on Blue Origin flight](https://www.newsnationnow.com/good-news/vanderbilt-doctor-to-go-to-space-on-blue-origin-flight/)
 - [MIDAO Customer Spotlight: MoonDAO](https://www.midao.org/blog-posts/midao-customer-spotlight-moondao)
 - Vanderbilt University Medical Center: [The stars look very different today: Eiman Jahangir to realize lifelong dream to fly to space](https://news.vumc.org/2024/04/24/eiman-jahangir-to-realize-lifelong-dream-to-fly-to-space/)
 - Houston Chronicle: [Crypto in space? As markets overlap, some see blockchain's potential in growing off-planet economy](https://www.houstonchronicle.com/news/houston-texas/space/article/cryptocurrency-blockchain-space-overlap-17753964.php)
@@ -29,6 +30,7 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 ## YouTube
 - [Dude Perfect goes to SPACE](https://www.youtube.com/watch?v=YXXlSG-du7c)
 - Ellie in Space: [How Dude Perfect was Sent to Space](https://www.youtube.com/watch?v=u0sUwRWWZe0)
+- WKRN Nashville: [Vanderbilt doctor prepares to be an astronaut](https://www.youtube.com/watch?v=YsofvOAKG3E)
 - [Foresight Institute](https://www.youtube.com/watch?v=huNZxzM5u3w): Decentralized Approaches to Support Space Progress
 - DAODenver: [MoonDAO, A Fireside Chat with Pablo Moncada](https://www.youtube.com/watch?v=VYhZ6YeDP18)
 - [The Purple Trader Show](https://www.youtube.com/watch?v=aarLHU-pfoU)
