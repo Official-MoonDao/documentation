@@ -40,4 +40,4 @@ Since helping to found MoonDAO, Pablo has dedicated his efforts to making space 
 - [Instagram](https://instagram.com/official_moondao)
 - [Facebook](https://www.facebook.com/officialmoondao)
 - [LinkedIn](https://linkedin.com/company/moondao)
-- [Newsletter](https://app.moondao.com/news)
+- [Newsletter](https://www.moondao.com/news)

@@ -6,7 +6,7 @@
 
 ## Background
 
-In early 2024, MoonDAO held the [Ticket to Space giveaway](https://app.moondao.com/sweepstakes) which aimed to randomly select one lucky, everyday person to go to space. There were more than 2,200 entries from all around the world with Eiman Jahangir ultimately winning a seat aboard a future Blue Origin New Shepard launch. This will be the second time that MoonDAO has sent someone to space, including the [launch of Coby Cotton of Dude Perfect](https://www.youtube.com/watch?v=YXXlSG-du7c) aboard Blue Origin’s NS-22 in August 2022. The first seat aimed to send a prominent content creator to space and Dude Perfect was chosen by a MoonDAO community vote. 
+In early 2024, MoonDAO held the [Ticket to Space giveaway](https://www.moondao.com/sweepstakes) which aimed to randomly select one lucky, everyday person to go to space. There were more than 2,200 entries from all around the world with Eiman Jahangir ultimately winning a seat aboard a future Blue Origin New Shepard launch. This will be the second time that MoonDAO has sent someone to space, including the [launch of Coby Cotton of Dude Perfect](https://www.youtube.com/watch?v=YXXlSG-du7c) aboard Blue Origin’s NS-22 in August 2022. The first seat aimed to send a prominent content creator to space and Dude Perfect was chosen by a MoonDAO community vote. 
 * [MoonDAO Livestream Reveal Event + Interview with Eiman](https://www.youtube.com/live/XLHrRUxrroY?feature=shared&t=50)  
 * [Short Bio Video of Eiman](https://www.youtube.com/watch?v=zFSsqP0H-ow)
 ## Full Biography

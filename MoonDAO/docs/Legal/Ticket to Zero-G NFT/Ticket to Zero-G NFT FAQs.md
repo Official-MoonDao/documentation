@@ -27,7 +27,7 @@ NO PURCHASE OF A TICKET TO ZERO-G NFT IS NECESSARY TO ENTER THE CONTEST OR WIN A
 On April 30th, 2023, at 12:00am PST we will choose the potential winning astronaut through a random drawing. We will select a prize winner, and check that they meet the following requirements:
 
 - At the time of selection, each potential winner’s wallet may have no more than one Ticket To Space NFT on April 30th, 2023, at 12:00am PST; provided, that, ownership of a Ticket To Zero-G NFT is not required for those individuals who entered through the alternative means of entry (“AMOE Entrants”).
-- The winner must mint their Ticket to Zero-G NFT using the [Zero-G Portal](https://app.moondao.com/zero-g)
+- The winner must mint their Ticket to Zero-G NFT using the [Zero-G Portal](https://www.moondao.com/zero-gravity)
 - Each potential winner may not be a resident of the states of Florida, New York, Puerto Rico or where the contest is otherwise prohibited by law.
 - Each potential winner must be 18 years of age or older, or the age of majority if greater than 18 years of age in the potential winner’s jurisdiction.
 
