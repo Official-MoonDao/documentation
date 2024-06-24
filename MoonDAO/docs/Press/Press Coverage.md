@@ -27,6 +27,7 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 - [The Space Revolution by Rick Tumlinson](https://podcasts.apple.com/gb/podcast/episode-21-pablo-moncada/id1659076624?i=1000626953339)
 - [Just DAO It!](https://open.spotify.com/episode/5UxbqDDiqAnD4nv9KQUcvu)
 - [DeSci Rising](https://www.youtube.com/watch?v=NNpLoP6EDMc)
+- [Dr. Eiman Jahangir on Astro Eliza Podcast](https://www.youtube.com/watch?v=x6Z4e3maWzw)
 ## YouTube
 - [Dude Perfect goes to SPACE](https://www.youtube.com/watch?v=YXXlSG-du7c)
 - Ellie in Space: [How Dude Perfect was Sent to Space](https://www.youtube.com/watch?v=u0sUwRWWZe0)
