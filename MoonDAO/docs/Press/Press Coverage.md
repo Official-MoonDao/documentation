@@ -28,10 +28,12 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 - [Just DAO It!](https://open.spotify.com/episode/5UxbqDDiqAnD4nv9KQUcvu)
 - [DeSci Rising](https://www.youtube.com/watch?v=NNpLoP6EDMc)
 - [Dr. Eiman Jahangir on Astro Eliza Podcast](https://www.youtube.com/watch?v=x6Z4e3maWzw)
+- [Dr. Eiman Jahangir on The Interplanetary Podcast](https://soundcloud.com/matt-interplanetary/306-dr-eiman-jahangir-new-shepard)
 ## YouTube
 - [Dude Perfect goes to SPACE](https://www.youtube.com/watch?v=YXXlSG-du7c)
 - Ellie in Space: [How Dude Perfect was Sent to Space](https://www.youtube.com/watch?v=u0sUwRWWZe0)
 - WKRN Nashville: [Vanderbilt doctor prepares to be an astronaut](https://www.youtube.com/watch?v=YsofvOAKG3E)
+- IgnitedThinkers: [Eiman Jahangir: Future Moon DAO Astronaut and Cardiologist at Vanderbilt Medical School](https://www.youtube.com/watch?v=JRpbY3BMJy0)
 - [Foresight Institute](https://www.youtube.com/watch?v=huNZxzM5u3w): Decentralized Approaches to Support Space Progress
 - DAODenver: [MoonDAO, A Fireside Chat with Pablo Moncada](https://www.youtube.com/watch?v=VYhZ6YeDP18)
 - [The Purple Trader Show](https://www.youtube.com/watch?v=aarLHU-pfoU)
