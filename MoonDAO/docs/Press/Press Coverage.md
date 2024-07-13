@@ -21,6 +21,7 @@ Welcome to MoonDAO's repository of media mentions and coverage from various outl
 - VICE: [Investors in 'MoonDAO' Think They'll Go to Space on a Billionaire's Rocket](https://www.vice.com/en/article/4aw4wj/investors-in-moondao-think-theyll-go-to-space-on-a-billionaires-rocket)
 - News18: [Dude Perfect' YouTuber Jets Off to Space With Free Ticket Aboard Blue Origin Flight](https://www.news18.com/news/buzz/dude-perfect-youtuber-jets-off-to-space-with-free-ticket-aboard-blue-origin-flight-6322909.html)
 - QZ: [Space Business: MoonDAO's Golden Tickets](https://qz.com/emails/space-business/1849365590/space-business-moondaos-golden-tickets) 
+- SpaceImpulse: [Cardiologist’s Dream Of Space Takes Flight With MoonDAO Selection](https://spaceimpulse.com/2024/07/08/cardiologists-dream-of-space-takes-flight-with-moondao-selection/)
 ## Podcasts
 - [Space and Things Podcast with Dr. Eiman Jahangir](https://spaceandthingspodcast.com/podcast/stp195-winning-a-trip-to-space-with-dr-eiman-jahangir)
 - Astro Ben Podcast: [Pablo Moncada](https://astroben.libsyn.com/pablo-moncada-larrotiz-co-founder-of-moondao), [Dr. Eiman Jahangir](https://astroben.libsyn.com/dr-eiman-jahangir-associate-professor-at-vanderbilt-university-and-the-director-of-the-sections-of-general-cardiology-and-cardio-oncology-hes-also-going-to-space-with-moondao)
