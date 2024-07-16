@@ -9,6 +9,18 @@
 In early 2024, MoonDAO held the [Ticket to Space giveaway](https://www.moondao.com/sweepstakes) which aimed to randomly select one lucky, everyday person to go to space. There were more than 2,200 entries from all around the world with Eiman Jahangir ultimately winning a seat aboard a future Blue Origin New Shepard launch. This will be the second time that MoonDAO has sent someone to space, including the [launch of Coby Cotton of Dude Perfect](https://www.youtube.com/watch?v=YXXlSG-du7c) aboard Blue Origin’s NS-22 in August 2022. The first seat aimed to send a prominent content creator to space and Dude Perfect was chosen by a MoonDAO community vote. 
 * [MoonDAO Livestream Reveal Event + Interview with Eiman](https://www.youtube.com/live/XLHrRUxrroY?feature=shared&t=50)  
 * [Short Bio Video of Eiman](https://www.youtube.com/watch?v=zFSsqP0H-ow)
+
+## Media Coverage
+- NewsNation: [Vanderbilt doctor to go to space on Blue Origin flight](https://www.newsnationnow.com/good-news/vanderbilt-doctor-to-go-to-space-on-blue-origin-flight/)
+- Vanderbilt University Medical Center: [The stars look very different today: Eiman Jahangir to realize lifelong dream to fly to space](https://news.vumc.org/2024/04/24/eiman-jahangir-to-realize-lifelong-dream-to-fly-to-space/)
+- SpaceImpulse: [Cardiologist’s Dream Of Space Takes Flight With MoonDAO Selection](https://spaceimpulse.com/2024/07/08/cardiologists-dream-of-space-takes-flight-with-moondao-selection/)
+- Astro Ben Podcast: [Dr. Eiman Jahangir](https://astroben.libsyn.com/
+- [Dr. Eiman Jahangir on Astro Eliza Podcast](https://www.youtube.com/watch?v=x6Z4e3maWzw)
+- [Dr. Eiman Jahangir on The Interplanetary Podcast](https://soundcloud.com/matt-interplanetary/)
+- WKRN Nashville: [Vanderbilt doctor prepares to be an astronaut](https://www.youtube.com/watch?v=YsofvOAKG3E)
+- IgnitedThinkers: [Eiman Jahangir: Future Moon DAO Astronaut and Cardiologist at Vanderbilt Medical School](https://www.youtube.com/watch?v=JRpbY3BMJy0)
+- Yahoo News: [Vanderbilt doctor to go to space on Blue Origin flight, fulfilling decades-long dream](https://www.yahoo.com/news/vanderbilt-doctor-space-blue-origin-155044308.html)
+
 ## Full Biography
 
 Eiman Jahangir was born in Tehran, Iran and immigrated to Nashville, TN when he was four years old. From a young age he had a passion for space and medicine. He attended Martin Luther King Jr. Magnet High School, Nashville, TN, a magnet school for Math and Engineering, before pursuing a Bachelor of Arts at the George Washington University, Washington, DC and then a Medical Doctorate from the University of Tennessee, Memphis, TN. He completed an Internal Medicine Residency at Boston University Medical Center, Boston, MA and a Fellowship in Cardiovascular Medicine at Vanderbilt University, Nashville, TN. He is now an Associate Professor at Vanderbilt University and the Director of the Sections of General Cardiology and Cardio-Oncology. He spends his time caring for patients, educating students, and performing research.
