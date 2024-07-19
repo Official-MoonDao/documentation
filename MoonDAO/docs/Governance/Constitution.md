@@ -146,7 +146,7 @@ Astronauts may be removed through the creation of a Proposal that is approved by
 2. All Astronauts unanimously have the right to propose the removal of any member of the Senate for breaking the Code of Conduct, by providing evidence of a reason for removal to the Senate transparently. This can be appealed and voted on for re-entry by a random drawing of seven MoonDAO Senate members.
 3. All Astronauts unanimously have the right to jointly propose the termination of MoonDAO projects.
 4. Right to appoint or remove MoonDAO moderators on official channels of communication.
-5. Right to individually propose a salary approved by the Senate and DAO members.\
+5. Right to individually propose a salary approved by the Senate and DAO members.
 6. Right to one vote in the Senate during the season(s) they are active.
 
 #### 2.3.2 Treasury Signers
