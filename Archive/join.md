@@ -30,7 +30,7 @@ If you just can't wait, and you're familiar with DAO tools already, you'll simpl
 1. Jump in our [Discord](https://discord.gg/RpDEtQHcPw)
 2. Apply to a [MoonDAO Guild](https://moondao.com/contribute). You don't necessarily need to be part of a Guild to be in MoonDAO, but this is the first step to contributing towards a project or bounty.
 3. [Purchase our governance token $MOONEY](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet). There is no expectation of profit with the $MOONEY token, please check our $MOONEY token documentation for more information. This is optional, you may also complete tasks to receive $MOONEY.
-4. [Stake your $MOONEY tokens for voting power.](https://app.moondao.com/) Important note: this does not consume the tokens, your $MOONEY can be unlocked after the time period ends. Connect your wallet in the “verify-wallet” channel to start contributing to MoonDAO
+4. [Stake your $MOONEY tokens for voting power.](https://www.moondao.com/lock) Important note: this does not consume the tokens, your $MOONEY can be unlocked after the time period ends. Connect your wallet in the “verify-wallet” channel to start contributing to MoonDAO
 
 We also host onboarding meetings for new members, so stay tuned and find our event calendar on Discord to see all the events going on at MoonDAO.
 

@@ -201,7 +201,7 @@ If any treasury signers decide to veto the proposal and not sign the transaction
 
 MoonDAO is organized into sub-units called MoonDAO Projects.
 
-MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the project stewards (i.e. Rocketeers) have the authority to determine who can be part of the project, how the budget is spent, and the strategy around execution. Once the project’s original goal is achieved, the team may be disbanded to work on other projects. Specification for how MoonDAO projects operate can be found here: [https://docs.moondao.com/projects](https://docs.moondao.com/projects).
+MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the project stewards (i.e. Rocketeers) have the authority to determine who can be part of the project, how the budget is spent, and the strategy around execution. Once the project’s original goal is achieved, the team may be disbanded to work on other projects. Specification for how MoonDAO projects operate can be found here: [https://docs.moondao.com/Projects/Project-System](https://docs.moondao.com/Projects/Project-System).
 
 Project stewards may have whatever consensus mechanism they would like internally (e.g. they may do one-person-one-vote, token voting, or just let the stewards have control). This includes how they decide over their votes in the Senate.
 
