@@ -146,7 +146,7 @@ Astronauts may be removed through the creation of a Proposal that is approved by
 2. All Astronauts unanimously have the right to propose the removal of any member of the Senate for breaking the Code of Conduct, by providing evidence of a reason for removal to the Senate transparently. This can be appealed and voted on for re-entry by a random drawing of seven MoonDAO Senate members.
 3. All Astronauts unanimously have the right to jointly propose the termination of MoonDAO projects.
 4. Right to appoint or remove MoonDAO moderators on official channels of communication.
-5. Right to individually propose a salary approved by the Senate and DAO members.\
+5. Right to individually propose a salary approved by the Senate and DAO members.
 6. Right to one vote in the Senate during the season(s) they are active.
 
 #### 2.3.2 Treasury Signers
@@ -264,6 +264,6 @@ In general, enforcement actions are intended to be temporary. The community may 
 
 A proposal to amend the constitution can be made by a Senate member, and ratified by the MoonDAO Proposal Process, with a threshold higher than 80% of the Senate majority and 80% of Member House majority. With a quorum of 80% in the Senate, and ten day voting period in the Member House.
 
-### 5.1 Coming into forace and transition period
+### 5.1 Coming into force and transition period
 
 Amendments of the Constitution will go into effect immediately after they are approved by the MoonDAO community by Amendment of the Constitution, as outlined in Section 5. There will be a three month Transition Period after the amendment is approved during which MoonDAO Members have the right to opt-out of the community by selling their governance tokens or if they are not able to sell their [governance tokens](Governance%20Tokens.md) they may notify the DAO in writing to info@moondao.com with their wallet address and indicating they want to opt-out. Three months after the amendment is passed, the change is binding and existing members are deemed to consent.
