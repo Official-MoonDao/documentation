@@ -46,7 +46,7 @@ We are an open source community, and data is stored onchain. This means it is wr
 
 
 
-Teams FAQs:
+## Teams FAQs:
 
 
 **What is a Team?**
