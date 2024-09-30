@@ -35,7 +35,7 @@ The current price is available [here](https://moondao.com/join). After becoming 
 On your Citizen profile click “Extend Plan” and enter the number of years you’d like to extend your membership.
 
 **Do I need to be a Citizen to participate in MoonDAO?**
-Anyone can participate in our community, even if they are not Citizens. They can join Discord, acquire our governance token, and vote on proposals without being a Citizen. Although it’s not required, it’s highly encouraged to become a Citizen to access the full opportunities MoonDAO's Network can offer.
+Anyone can participate in our community, even if they are not Citizens. They can join Discord, acquire our governance token, and vote on proposals without being a Citizen. Although it’s not required, it’s highly encouraged to become a Citizen to access the full opportunities MoonDAO can offer.
 
 **How do I fund my wallet?**
 Click on the top left purple button, in the dropdown select “fund” and follow the instructions. If you need support with this step you can create a ticket in our Discord here or email info@moondao.com.
@@ -59,7 +59,7 @@ Currently you must apply to create a Team. Go to https://moondao.com/join and cl
 Managers can edit the team page directly, Members are displayed as part of the team and can access the teams portal but cannot edit the public team page.
 
 **How do I add team members?**
-On your team page, go to the members section and click “
+On your team page, Managers can go to the Team section and click “Manage Team," in the modal click "Add member" and select their role from the dropdown menu and add their wallet address.
 
 **Can I configure my organization differently?**
 Yes! If you can dream it you can build it with hats protocol. Our frontend only recognizes Manager and Member hats, but beyond that you can structure things however you’d like. If you’d like us to support your particular use case let us know.
@@ -101,7 +101,7 @@ On your team page click “Add a Job” to create a new posting.
 You can add an email or other form of notification for job postings, or link an existing form or job application website.
 
 **How do I create a proposal for funding?**
-On the team page click “Fund” and it will take you to our proposal system. This allows you to create a project with MoonDAO to fund an initiative. You can read more about projects <here>.
+On the team page click “Fund” and it will take you to our proposal system. This allows you to create a project with MoonDAO to fund an initiative. You can read more about projects at https://docs.moondao.com/Projects/Project-System.
 
 **How is data handled on the website?**
 We are an open source community, and data is stored onchain. This means it is written to the blockchain, please be aware that all data is public. If you’d like, you can request for us to take down your data from the team page by clicking “Edit” and “Delete my Data.”
