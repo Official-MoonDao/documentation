@@ -11,7 +11,7 @@ keywords:
   ]
 sidebar_position: 2
 ---
-MoonDAO is accelerating our multiplanetary future with an open platform to fund, collaborate, and compete on challenges that get us closer to a lunar settlement.
+MoonDAO’s mission is to create a self-sustaining, self-governing settlement on the Moon by 2030 to act as a launch point for humanity to explore the cosmos.
 
 ## Why the Moon?
 
