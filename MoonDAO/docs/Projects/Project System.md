@@ -140,7 +140,7 @@ If Dispute Resolution through MoonDAO’s arbitration procedure is unsuccessful,
 
 Yes. If a Lead must step down for whatever reason but the project is not yet completed, an Astronaut may appoint a new Lead to the project.
 
-**Can Leadss be external to MoonDAO, or must they be members?**
+**Can Leads be external to MoonDAO, or must they be members?**
 
 Leads must be MoonDAO members before they start a project. If someone wants to join a project but is not yet a member, they should be on-boarded into the community and get vMOONEY before starting work.
 
