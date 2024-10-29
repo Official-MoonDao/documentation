@@ -40,8 +40,6 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
 
 **Step 2: Proposal Submission.** A [Project Proposal](https://moondao.com/propose) ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be posted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. See our Proposal Process for more information on how proposals are passed.
 
-The Proposal must follow the template provided hereunder, if the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote.
-
 ## Start
 
 The Project’s Lead becomes a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position until the end of the quarter when their objective is completed. Senate members are required to attend weekly Senate meetings and required to vote and review incoming proposals. The Project Lead must ensure the following is completed BEFORE receiving their budget:  
@@ -56,17 +54,17 @@ Throughout the lifetime of the Project the **Lead** must do the following:  
 
 **1. Provide Weekly Progress Updates to the Senate.** Every week the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Astronauts may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
 
-**2. Attend weekly Senate meetings.** Rocketeers must attend the weekly townhalls and are required to vote on Senate decisions as outlined in the DAO Constitution. They are required to help review incoming project proposals and encouraged to share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. **For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards.** If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
+**2. Attend weekly Senate meetings.** Project Leads must attend the weekly townhalls and are required to vote on Senate decisions as outlined in the DAO Constitution. They are required to help review incoming project proposals and encouraged to share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. **For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards.** If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
 
 Other members of the project with assigned tasks become **Contributors**. These members must:
 
-**1. Provide weekly written updates on progress.** Post updates on work in the “progress” channel under Contribute. **If a Contributor doesn’t provide a weekly update to the DAO, then 5% of their rewards will be deducted per missed update.**  
+**1. Provide weekly written updates on progress.** Post updates on work in the “progress” channel under Contribute. **If a Contributor doesn’t provide a weekly update to the DAO, then 5% of the Project Lead's rewards will be deducted per missed update.**  
 
 ## Completion
 
 The Project Lead must make sure the following are complete:  
 
-**1. Complete a [Final Report](https://docs.google.com/document/d/1aa6rMBh1YwYT0IwhlcM8PStAeI0qeO-WN7C6UrLhq2c/edit).** Each project member must include their contributions in the final report. Reports must be submitted to the DAO in the “Submit Report” channel on Discord before the end of the quarter to be included in that quarter’s reward cycle. These reports will be attached on Snapshot for final voting by the DAO.  
+**1. Complete a [Final Report](https://docs.google.com/document/d/1aa6rMBh1YwYT0IwhlcM8PStAeI0qeO-WN7C6UrLhq2c/edit).** Each project member must include their contributions in the final report. Reports must be submitted to the DAO in the [“Submit Report” channel](https://discord.com/channels/914720248140279868/1217671061269647360) on Discord before the end of the quarter to be included in that quarter’s reward cycle. These reports will be attached on Snapshot for final voting by the DAO.  
 
 **2. Return excess funds to the DAO treasury.** Please attach a link to the DAO’s multisig in the final report along with a table including the justification for expenses.
 
@@ -122,7 +120,7 @@ Where the UpfrontPayment is the amount of upfront payment that the member receiv
 
 The ETH will be given as a lump-sum reward within a month of the end of the quarter. 
  
-The MOONEY will be locked for four years and given in the form of delegated vMOONEY that they can unlock after it has vested. For this process MoonDAO uses “delegation safes”. A delegation safe is a multisig wallet that holds the staked voting power that a contributor earns through the quarterly rewards cycle. For more information about delegation safes, such as how to increase your stake or how to delegate your voting power to another address, see the [delegation safe FAQs](https://docs.moondao.com/Archive/reference/Reference-Docs/Delegation-Safe-FAQs).  
+The MOONEY will be locked for four years and given in the form of delegated vMOONEY that they can unlock after it has vested.
 
 ## Project Intellectual Property
 
