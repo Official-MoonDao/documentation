@@ -41,7 +41,7 @@ None of our messages constitute investment advice, please do your own research. 
 The $MOONEY token launched on **Friday, December 17, 2021** on Juicebox. The funding period lasted for one lunar cycle and ended on **Sunday, January 16, 2022 at 3:18 PM EST**. 
 
 There will only ever be 2.6 billion tokens. We will never mint more $MOONEY tokens.
-MOONEY tokens are the only tokens that can be staked for voting power.
+MOONEY tokens are the only tokens that can be locked for voting power.
 
 Approximately 50% of the MOONEY tokens are in the MoonDAO treasury. These tokens will be released on an infinite geometric series to incentivize members to work on MoonDAO Projects.
 
@@ -52,11 +52,17 @@ $MOONEY on Ethereum Mainnet:
 $MOONEY on Polygon (POS):
 [0x74ac7664abb1c8fa152d41bb60e311a663a41c7e](https://polygonscan.com/token/0x74ac7664abb1c8fa152d41bb60e311a663a41c7e)
 
-Staked $vMOONEY on Ethereum Mainnet: 
+$MOONEY on Arbitrum One:
+[0x1Fa56414549BdccBB09916f61f0A5827f779a85c](https://arbiscan.io/token/0x1Fa56414549BdccBB09916f61f0A5827f779a85c)
+
+Locked $vMOONEY on Ethereum Mainnet: 
 [0xcc71c80d803381fd6ee984faff408f8501db1740](https://etherscan.io/token/0xcc71c80d803381fd6ee984faff408f8501db1740)
 
-Staked $vMOONEY on Polygon (POS): 
+Locked $vMOONEY on Polygon (POS): 
 [0xe2d1BFef0A642B717d294711356b468ccE68BEa6](https://polygonscan.com/token/0xe2d1BFef0A642B717d294711356b468ccE68BEa6)
+
+Locked $vMOONEY on Arbitrum One:
+[0xB255c74F8576f18357cE6184DA033c6d93C71899](https://arbiscan.io/address/0xB255c74F8576f18357cE6184DA033c6d93C71899)
 
 ### Geometric Release Schedule
 On a quarterly basis the DAO will get a list of all the active projects that were completed in that quarter.
@@ -76,6 +82,6 @@ The rest of the $MOONEY in the treasury is controlled by the voting members. Moo
 
 Voting power is a measure of impact a member has on collective decisioning, and we've made it easy to join and claim your voting power. Simply visit the [Join MoonDAO](https://www.moondao.com/join) page in our app, select your membership level, and follow the guided process. 
 
-Advanced users can purchase any amount of [$MOONEY via Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) and [stake](https://www.moondao.com/lock) some or all of that for any amount of time between one week and four years. You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you stake.
+Advanced users can purchase any amount of [$MOONEY via Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) and [lock](https://www.moondao.com/lock) some or all of that for any amount of time between one week and four years. You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you lock.
 
-To prevent sybil attacks, you may only have one wallet registered to vote on MoonDAO proposals. Your voting power is calculated as the square root of the total tokens you have staked.
+To prevent sybil attacks, you may only have one wallet registered to vote on MoonDAO proposals. Your voting power is calculated as the square root of the total tokens you have locked.
