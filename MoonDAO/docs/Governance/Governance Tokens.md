@@ -41,7 +41,7 @@ None of our messages constitute investment advice, please do your own research. 
 The $MOONEY token launched on **Friday, December 17, 2021** on Juicebox. The funding period lasted for one lunar cycle and ended on **Sunday, January 16, 2022 at 3:18 PM EST**. 
 
 There will only ever be 2.6 billion tokens. We will never mint more $MOONEY tokens.
-MOONEY tokens are the only tokens that can be staked for voting power.
+MOONEY tokens are the only tokens that can be locked for voting power.
 
 Approximately 50% of the MOONEY tokens are in the MoonDAO treasury. These tokens will be released on an infinite geometric series to incentivize members to work on MoonDAO Projects.
 
@@ -82,6 +82,6 @@ The rest of the $MOONEY in the treasury is controlled by the voting members. Moo
 
 Voting power is a measure of impact a member has on collective decisioning, and we've made it easy to join and claim your voting power. Simply visit the [Join MoonDAO](https://www.moondao.com/join) page in our app, select your membership level, and follow the guided process. 
 
-Advanced users can purchase any amount of [$MOONEY via Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) and [stake](https://www.moondao.com/lock) some or all of that for any amount of time between one week and four years. You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you stake.
+Advanced users can purchase any amount of [$MOONEY via Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) and [lock](https://www.moondao.com/lock) some or all of that for any amount of time between one week and four years. You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you lock.
 
-To prevent sybil attacks, you may only have one wallet registered to vote on MoonDAO proposals. Your voting power is calculated as the square root of the total tokens you have staked.
+To prevent sybil attacks, you may only have one wallet registered to vote on MoonDAO proposals. Your voting power is calculated as the square root of the total tokens you have locked.
