@@ -92,8 +92,6 @@ Each member may only have one wallet registered with MoonDAO to determine their 
 
 ![[Voting-Power-Equation-1.3.png]]
 
-Each member may only have one wallet registered with MoonDAO to determine their voting power. Members may delegate their voting power to other members.
-
 #### 2.1.1 MOONDAO LLC Membership
 
 A MoonDAO Member is any individual who holds wallet-bound $vMOONEY in consonance with Article III of the MoonDAO Operating Agreement.
@@ -132,7 +130,7 @@ MoonDAO’s Executive Branch is composed of Astronauts and the Treasury signers 
 Astronauts are trusted members of the DAO that have the responsibility to represent MoonDAO’s mission and values externally and provide leadership to the DAO internally.
 
 ###### Election
-MoonDAO members may hold an election for a new Astronaut if there is a vacancy. Candidate Astronauts may be nominated by MoonDAO members and must have been part of the Senate for at least 180 days. Each nomination must go through the senate with a super majority vote. If there are multiple nominations that go through the Senate, then the DAO will vote among the candidates using $vMOONEY with weighted voting. There may be multiple rounds of voting until a Candidate Astronaut receives super-majority votes to be confirmed as an Astronaut.
+MoonDAO members may hold an election for a new Astronaut if there is a vacancy. Candidate Astronauts may be nominated by MoonDAO members and must have been part of the Senate for at least 180 days. Each nomination must go through the senate with a super majority vote. If there are multiple nominations that go through the Senate, then the DAO will vote among the candidates using $vMOONEY with Instant Runoff Ranked Choice Voting.
 
 ###### Term Limits
 Astronauts serve for a three-year term. After three years, the DAO must re-vote with a super majority to confirm they stay as an Astronaut. They are eligible to remain an Astronaut for multiple terms. There can only be a maximum of three Astronauts at any given time.
