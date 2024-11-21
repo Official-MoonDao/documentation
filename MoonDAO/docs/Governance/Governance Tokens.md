@@ -55,6 +55,9 @@ $MOONEY on Polygon (POS):
 $MOONEY on Arbitrum One:
 [0x1Fa56414549BdccBB09916f61f0A5827f779a85c](https://arbiscan.io/token/0x1Fa56414549BdccBB09916f61f0A5827f779a85c)
 
+$MOONEY on Base:
+[0x6585a54A98fADA893904EB8A9E9CDFb927bddf39](https://basescan.org/address/0x6585a54A98fADA893904EB8A9E9CDFb927bddf39)
+
 Locked $vMOONEY on Ethereum Mainnet: 
 [0xcc71c80d803381fd6ee984faff408f8501db1740](https://etherscan.io/token/0xcc71c80d803381fd6ee984faff408f8501db1740)
 
@@ -63,6 +66,9 @@ Locked $vMOONEY on Polygon (POS):
 
 Locked $vMOONEY on Arbitrum One:
 [0xB255c74F8576f18357cE6184DA033c6d93C71899](https://arbiscan.io/address/0xB255c74F8576f18357cE6184DA033c6d93C71899)
+
+Locked $vMOONEY on Base:
+[0x7f8f1B45c3FD6Be4F467520Fc1Cf030d5CaBAcF5](https://basescan.org/address/0x7f8f1B45c3FD6Be4F467520Fc1Cf030d5CaBAcF5)
 
 ### Geometric Release Schedule
 On a quarterly basis the DAO will get a list of all the active projects that were completed in that quarter.
@@ -85,3 +91,4 @@ Voting power is a measure of impact a member has on collective decisioning, and 
 Advanced users can purchase any amount of [$MOONEY via Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395&chain=mainnet) and [lock](https://www.moondao.com/lock) some or all of that for any amount of time between one week and four years. You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you lock.
 
 To prevent sybil attacks, you may only have one wallet registered to vote on MoonDAO proposals. Your voting power is calculated as the square root of the total tokens you have locked.
+
