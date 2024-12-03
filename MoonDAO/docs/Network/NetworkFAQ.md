@@ -53,7 +53,7 @@ We are an open source community, and data is stored onchain. This means it is wr
 Teams are companies, nonprofits, communities, or internal groups that are coordinating together using our tools to accelerate a permanent human presence on the Moon. MoonDAO teams interface directly with the MoonDAO community, allowing them access to fund, hire, and sell directly to the MoonDAO community.
 
 **How do I create a Team?**
-Currently you must apply to create a Team. Go to https://moondao.com/join and click “Create a Team” to fill out the application form. You should hear back within a few days.
+Currently you must apply to create a Team. Go to https://moondao.com/join and click “Create a Team” to fill out the application form. You should hear back within a few days. See: [[How to Create Your Team]]
 
 **What is the difference between a Manager and a Member role?**
 Managers can edit the team page directly, Members are displayed as part of the team and can access the teams portal but cannot edit the public team page.
