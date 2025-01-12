@@ -2,8 +2,6 @@
 
 # How to Create Your Team in the Space Acceleration Network
 
-- [Watch the Demo Video](https://youtu.be/GU1aT7UFRcs?feature=shared\&t=90)
-
 - [Browse Existing Teams](https://moondao.com/network)
 
 ## **Sign In**
