@@ -11,13 +11,13 @@ keywords:
   ]
 sidebar_position: 2
 ---
-MoonDAO’s mission is to create a self-sustaining, self-governing settlement on the Moon by 2030 to act as a launch point for humanity to explore the cosmos.
+MoonDAO’s mission is to accelerate the creation a self-sustaining, self-governing settlement on the Moon by 2030 to act as a launch point for humanity to explore the cosmos.
 
 ## Why the Moon?
 
 > “All civilizations become either spacefaring or extinct.” - Carl Sagan
 
-If we zoom out on the timeline of humanity, voyaging into the unknown of Space and settling it long-term represents the biggest inflection point of our civilization to date - we are incredibly lucky to be alive in this era. Space calls upon us to explore, and the Moon is the first step. Once you reach the “eighth continent” every other destination in the solar system is just a function of propellant and time. A base on the moon is a gateway to the rest of the cosmos.
+If we zoom out on the timeline of humanity, voyaging into the unknown of space and settling it long-term represents the biggest inflection point of our civilization to date - we are incredibly lucky to be alive in this era. Space calls upon us to explore, and the Moon is the first step. Once you reach the “eighth continent” every other destination in the solar system is just a function of propellant and time. A base on the Moon is a gateway to the rest of the cosmos.
 
 ## Why a DAO?
 
