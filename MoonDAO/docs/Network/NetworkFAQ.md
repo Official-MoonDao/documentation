@@ -20,10 +20,10 @@ Space Acceleration Network
 ## Citizen FAQs
 
 **What benefits do Citizens receive?**
-Citizens can get paid for their contributions towards enabling a long-term human presence on the Moon (or anything else the community feels is valuable), get hired directly by teams in the network, submit proposals to receive funding for their projects, and show up in our network directory.
+Citizens can get [paid for their contributions](https://moondao.com/contribute) towards enabling a long-term human presence on the Moon (or anything else the community feels is valuable), [get hired](https://moondao.com/jobs) directly by teams in the network, [submit proposals](https://moondao.com/submit) to receive funding for their projects, and show up in our [network directory](https://moondao.com/citizens).
 
 **How do I become a Citizen?**
-Click [here](https://moondao.com/join) and follow the steps.
+Click [here](https://moondao.com/citizen) and follow the steps. See: [[How to Become a Citizen]]
 
 **Do I need a wallet to join the Network?**
 Yes. If you don’t already have one, we will make one for you if you click “Sign In” and create an account.
@@ -35,13 +35,13 @@ The current price is available [here](https://moondao.com/join). After becoming 
 On your Citizen profile click “Extend Plan” and enter the number of years you’d like to extend your membership.
 
 **Do I need to be a Citizen to participate in MoonDAO?**
-Anyone can participate in our community, even if they are not Citizens. They can join Discord, acquire our governance token, and vote on proposals without being a Citizen. Although it’s not required, it’s highly encouraged to become a Citizen to access the full opportunities MoonDAO can offer.
+Anyone can participate in our community, even if they are not Citizens. They can [join Discord](https://discord.gg/moondao), acquire our governance token, and vote on proposals without being a Citizen. Although it’s not required, it’s highly encouraged to become a Citizen to access the full opportunities MoonDAO can offer.
 
 **How do I fund my wallet?**
-Click on the top left purple button, in the dropdown select “fund” and follow the instructions. If you need support with this step you can create a ticket in our Discord here or email info@moondao.com.
+Click on the top left purple button, in the dropdown select “fund” and follow the instructions. If you need support with this step you can create a ticket in our Discord [here](https://discord.com/channels/914720248140279868/1212113005836247050) or email info@moondao.com.
 
 **How is data handled on the website?**
-We are an open source community, and data is stored onchain. This means it is written to the blockchain, please be aware that all data is public. You can request for your data to be removed from our front-end website, and then your profile will no longer show up on https://moondao.com. To delete your profile, navigate to your profile page and click the “edit” button and then "delete data."
+We are an open source community, and data is stored onchain. This means it is written to the blockchain, please be aware that all data is public, except for email. You can request for your data to be removed from our front-end website, and then your profile will no longer show up on https://moondao.com. To delete your profile, navigate to your profile page and click the “edit” button and then "delete data."
 
 
 
