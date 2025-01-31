@@ -80,7 +80,7 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. ETH Reward: 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the last day of the quarter.
+**1. ETH Reward: 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
 
 **2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
