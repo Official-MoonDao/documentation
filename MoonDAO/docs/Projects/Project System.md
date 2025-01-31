@@ -38,7 +38,7 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members much be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
 
 ## Start
 
