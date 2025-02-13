@@ -40,7 +40,7 @@ Gathertown is where we co-work; Follow [this link](https://app.gather.town/invit
 
 ## Tips for Effective Contribution
 
-**Meet with the crew:** Engage with the community, attend scheduled meetings, and participate in discussions happening in our [ground-control](https://discord.com/channels/914720248140279868/917498630510878821) channel  
+**Meet with the crew:** Engage with the community, attend scheduled meetings, and participate in discussions happening in our [ground-control](https://moondao.com/meet) channel  
 
 **Communicate continuously:** Keep clear and open communication with team members
 
