@@ -99,7 +99,11 @@ After all the members have input their distribution, we publish the results and 
 
 The retroactive reward to each project is calculated as follows:
 
+<<<<<<< HEAD
 ![[⚠️⚠️⚠️THIS IMAGE LINK IS BROKEN⚠️⚠️⚠️]]
+=======
+![[https://gray-main-toad-36.mypinata.cloud/ipfs/bafkreib4zb6c22nu5q6cvcuze52222dj2lcm6me7ymawbuao2hz7oqgbqa]]
+>>>>>>> a538ad2b8edfdb370454d31f19dc213a11d05f93
 
 We multiply by 0.9 because 10% of the total rewards always goes to the Contributor Circle.  
 
@@ -108,7 +112,11 @@ We multiply by 0.9 because 10% of the total rewards always goes to the Contribut
 Each Project will decide the amount of the project rewards that goes to each Contributor to the Project as described in the “Final allocations for project rewards distribution” section under Project Completion.
 
 The reward for each Contributor will be calculated as follows:
+<<<<<<< HEAD
 ![[⚠️⚠️⚠️THIS IMAGE LINK IS BROKEN⚠️⚠️⚠️]]
+=======
+![[https://gray-main-toad-36.mypinata.cloud/ipfs/bafkreickvn7iw2fog3slk6y6iurycmikl6mriozjvr42ow7xhfl4rktdju]]
+>>>>>>> a538ad2b8edfdb370454d31f19dc213a11d05f93
 
 Where the UpfrontPayment is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets for that particular project. The subtraction will be done in-kind, therefore if the member received upfront payment in vMOONEY then that will be subtracted for only vMOONEY. If the member received upfront payment in an asset different than vMOONEY, then that asset’s USD value will be subtracted from the total reward in ETH.  In other words, **if the Contributor Reward is negative for vMOONEY or ETH, the Member will receive no bonus for that token.**  
 

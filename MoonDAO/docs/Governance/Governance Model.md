@@ -23,13 +23,13 @@ sidebar_position: 5
 While not explicitly required, we recommend becoming a member and familiarizing yourself with our processes. You can obtain $MOONEY, our governance token, [here](https://moondao.com/get-mooney). This will allow you to vote on proposals and co-govern MoonDAO. New proposals [go up for a vote once a week](https://moondao.com/vote) on Thursdays for a five-day voting period, at minimum.
 
 **Step 1: Ideation** 
-Even if you’re not a member, you can pitch an idea or weigh in on other people's ideas in our [Ideation channel](⁠https://discord.com/channels/914720248140279868/1027658256706961509) - there is no formal structure to post, and anyone can share a loose idea for feedback. No pressure. 
+Even if you’re not a member, you can pitch an idea or weigh in on other people's ideas in our [Ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) - there is no formal structure to post, and anyone can share a loose idea for feedback. No pressure. 
 
 **Step 2: Submit a Proposal** 
 When you’re ready to submit a more formal proposal, you can do so [here](https://moondao.com/submit). Most successful submissions have already been discussed in ideation to improve them and get feedback, but you may also submit directly ⁠without a thread in ideation. 
 
 **Step 3: Townhall Discussion** 
-**Every Thursday at 3PM Eastern** we discuss proposals in Discord in the [Ground-Control](⁠https://discord.com/channels/914720248140279868/917498630510878821) voice channel. Everyone is welcome to listen and participate. We record these meetings as well and you can view previous town halls on our [YouTube channel](https://www.youtube.com/@officialmoondao/streams). 
+**Every Thursday at 3PM Eastern** we discuss proposals in Discord in the [Ground-Control](https://moondao.com/meet) voice channel. Everyone is welcome to listen and participate. We record these meetings as well and you can view previous town halls on our [YouTube channel](https://www.youtube.com/@officialmoondao/streams). 
 
 - **Wednesday 3PM Eastern:** Proposal Submission Deadline. 
 The proposal may be edited up until the town hall begins, but the submission should be made at least 24 hours before the meeting.
