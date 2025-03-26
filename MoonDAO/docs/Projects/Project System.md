@@ -38,7 +38,7 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members much be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members must be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
 
 ## Start
 
@@ -99,11 +99,7 @@ After all the members have input their distribution, we publish the results and 
 
 The retroactive reward to each project is calculated as follows:
 
-<<<<<<< HEAD
-![[⚠️⚠️⚠️THIS IMAGE LINK IS BROKEN⚠️⚠️⚠️]]
-=======
 ![[https://gray-main-toad-36.mypinata.cloud/ipfs/bafkreib4zb6c22nu5q6cvcuze52222dj2lcm6me7ymawbuao2hz7oqgbqa]]
->>>>>>> a538ad2b8edfdb370454d31f19dc213a11d05f93
 
 We multiply by 0.9 because 10% of the total rewards always goes to the Contributor Circle.  
 
@@ -112,11 +108,8 @@ We multiply by 0.9 because 10% of the total rewards always goes to the Contribut
 Each Project will decide the amount of the project rewards that goes to each Contributor to the Project as described in the “Final allocations for project rewards distribution” section under Project Completion.
 
 The reward for each Contributor will be calculated as follows:
-<<<<<<< HEAD
-![[⚠️⚠️⚠️THIS IMAGE LINK IS BROKEN⚠️⚠️⚠️]]
-=======
+
 ![[https://gray-main-toad-36.mypinata.cloud/ipfs/bafkreickvn7iw2fog3slk6y6iurycmikl6mriozjvr42ow7xhfl4rktdju]]
->>>>>>> a538ad2b8edfdb370454d31f19dc213a11d05f93
 
 Where the UpfrontPayment is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets for that particular project. The subtraction will be done in-kind, therefore if the member received upfront payment in vMOONEY then that will be subtracted for only vMOONEY. If the member received upfront payment in an asset different than vMOONEY, then that asset’s USD value will be subtracted from the total reward in ETH.  In other words, **if the Contributor Reward is negative for vMOONEY or ETH, the Member will receive no bonus for that token.**  
 
