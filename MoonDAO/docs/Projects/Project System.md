@@ -12,7 +12,7 @@ keywords:
 sidebar_label: Projects
 sidebar_position: 6
 ---
-# MoonDAO Projects v6.0  
+# MoonDAO Projects v7.0  
 
 MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.  
 
