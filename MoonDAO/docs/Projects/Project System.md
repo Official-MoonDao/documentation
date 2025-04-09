@@ -12,7 +12,7 @@ keywords:
 sidebar_label: Projects
 sidebar_position: 6
 ---
-# MoonDAO Projects v6.0  
+# MoonDAO Projects v7.0  
 
 MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.  
 
@@ -38,15 +38,13 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-**Step 2: Proposal Submission.** A [Project Proposal](https://moondao.com/propose) ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be posted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. See our Proposal Process for more information on how proposals are passed.
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members must be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
 
 ## Start
 
-The Project’s Lead becomes a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position until the end of the quarter when their objective is completed. Senate members are required to attend weekly Senate meetings and required to vote and review incoming proposals. The Project Lead must ensure the following is completed BEFORE receiving their budget:  
+The Project’s Lead becomes a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position until the end of the quarter when their objective is completed. Senate members are required to attend weekly Senate meetings and required to vote and review incoming proposals. 
 
-**1. Multisig creation and administration.** If the project requires more than one transaction  a Gnosis multisig with at least a three out of five execution threshold must be created to receive the funds. Leads must keep a record of multisig transactions and ensure that the final report includes a justification for payments (who was paid, how much, and key deliverables from the payment).
-
-**2. Payment method setup.** If a project member is receiving a fixed payment upfront for their work, the project multisig may stream the payment over the course of the project until the project’s deadline. Payment streaming may be turned off by the team’s multisig if a member is no longer fulfilling their responsibilities. Alternatively, the project may send half the payment at the beginning of the project, and the other half at the end.
+**Payment method setup:** If a project member is receiving a fixed payment upfront for their work, the project multisig may stream the payment over the course of the project until the project’s deadline. Payment streaming may be turned off by the team’s multisig if a member is no longer fulfilling their responsibilities. Alternatively, the project may send half the payment at the beginning of the project, and the other half at the end.
 
 ## Updates And Responsibilities
 
@@ -64,11 +62,11 @@ Other members of the project with assigned tasks become **Contributors**. These 
 
 The Project Lead must make sure the following are complete:  
 
-**1. Complete a [Final Report](https://docs.google.com/document/d/1aa6rMBh1YwYT0IwhlcM8PStAeI0qeO-WN7C6UrLhq2c/edit).** Each project member must include their contributions in the final report. Reports must be submitted to the DAO in the [“Submit Report” channel](https://discord.com/channels/914720248140279868/1217671061269647360) on Discord before the end of the quarter to be included in that quarter’s reward cycle. These reports will be attached on Snapshot for final voting by the DAO.  
+**1. Complete a Final Report.** Use the [Final Report Template](https://docs.google.com/document/d/1aa6rMBh1YwYT0IwhlcM8PStAeI0qeO-WN7C6UrLhq2c/edit) to collaborate on your final report with your team. Each project member must include their own contributions. Reports must be submitted to the DAO through the [report editor](https://moondao.com/submit) on Discord before the end of the quarter to be included in that quarter’s reward cycle. These reports will be voted on by the DAO.  
 
-**2. Return excess funds to the DAO treasury.** Please attach a link to the DAO’s multisig in the final report along with a table including the justification for expenses.
+**2. Return excess funds to the DAO treasury.** Please attach a link to the DAO’s multisig in the final report.
 
-**3. Final allocations for project rewards distribution.** For teams of five or greater, each project member receives 100 GIVE and must distribute their full amount. For teams of four or fewer there can optionally be an agreement on distribution amounts with all members agreeing on the distribution in writing. Project Leads may also add anyone else in the Coordinape that they thought provided help to them but were not officially part of the team on the proposal, however, those added members do not receive any GIVE. Each person on the Coordinape must include their list of contributions in the final report. Please include a link to this completed Coordinape in the Final Report.
+**3. Final allocations for project rewards distribution.** Leads are required to include a reward distribution in the final report, allocating a percentage to each contributor, totaling 100%. They may recognize anyone they believe contributed to the project by noting their contributions in the report, regardless of formal team status. For small teams of four or more, we recommend using [Coordinape](https://coordinape.com/) to determine these distributions. 
 
 **4. Create Documentation.** If someone needs to maintain the work after it’s completed, or users need to know where things are, please include documentation for the people who come after you.  
 
@@ -82,7 +80,7 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. ETH Reward: 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the last day of the quarter.
+**1. ETH Reward: 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
 
 **2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
@@ -95,11 +93,9 @@ Of that total reward, 10% will automatically go to a Contributor Circle for the 
 
 **Project Reward Calculation**  
 
-At the end of the quarter, the Citizens are presented with all the projects that were completed along with their Final Reports. Each Citizen allocates their voting power between what they think is a fair proportion of rewards (out of 100%) that should go to each project. Citizens may distribute their proportion of rewards to each project, but not their own.
+At the end of the quarter, the Citizens and Voting Members are presented with all the projects that were completed along with their Final Reports. Each Citizen and Voting Member allocates their voting power between what they think is a fair proportion of rewards (out of 100%) that should go to each project. Contributors may distribute their proportion of rewards to each project, but not their own.
 
-After all the Citizens have input their distribution, we run this [script](https://colab.research.google.com/drive/15aO6ONUkUlwj-ZEqeEVRcVMLu3ZeLFb-?usp=sharing) where we calculate the average score for each project, and insert that calculated average into the missing distribution for each Citizen’s own project, and then we normalize each Citizen’s distribution to sum up to 100%. The process is repeated again until the value of each Citizen’s Project’s calculated score matches the average for that project.
-
-Then a vote is created for MoonDAO members to delegate their voting power to the Citizen’s distribution they most agree with.
+After all the members have input their distribution, we publish the results and run this [script]([https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/voting.ts) to calculate the distribution for each project, and this [script]([https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/rewards.ts) where we calculate the distribution for each contributor.
 
 The retroactive reward to each project is calculated as follows:
 
@@ -112,6 +108,7 @@ We multiply by 0.9 because 10% of the total rewards always goes to the Contribut
 Each Project will decide the amount of the project rewards that goes to each Contributor to the Project as described in the “Final allocations for project rewards distribution” section under Project Completion.
 
 The reward for each Contributor will be calculated as follows:
+
 ![[https://gray-main-toad-36.mypinata.cloud/ipfs/bafkreickvn7iw2fog3slk6y6iurycmikl6mriozjvr42ow7xhfl4rktdju]]
 
 Where the UpfrontPayment is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets for that particular project. The subtraction will be done in-kind, therefore if the member received upfront payment in vMOONEY then that will be subtracted for only vMOONEY. If the member received upfront payment in an asset different than vMOONEY, then that asset’s USD value will be subtracted from the total reward in ETH.  In other words, **if the Contributor Reward is negative for vMOONEY or ETH, the Member will receive no bonus for that token.**  
