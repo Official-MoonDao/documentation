@@ -82,7 +82,7 @@ The total amount of rewards each quarter is calculated as follows:
 
 **1. ETH Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
 
-**vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
+**2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
 2. Q1 2023: 14,250,000 MOONEY.
 3. Q2 2023: 13,537,500 MOONEY.
