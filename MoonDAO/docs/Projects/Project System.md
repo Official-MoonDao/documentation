@@ -80,12 +80,12 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. ETH Reward: 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
+**1. ETH Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
 
-**2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
+**vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
 2. Q1 2023: 14,250,000 MOONEY.
-3. . Q2 2023: 13,537,500 MOONEY.
+3. Q2 2023: 13,537,500 MOONEY.
 4. Q3 2023: 12,860,625 MOONEY.
 5. And so on, infinitely, decreasing by 0.95 every quarter.
 
