@@ -43,7 +43,7 @@ At the heart of MoonDAO is the proposal process. [Proposals](https://docs.google
 
 **4\. Project Work is Done:** If the proposal requires work, this is done in the form of a [Project](https://docs.moondao.com/Projects/Project-System#updates-and-responsibilities). The [Project Lead](https://docs.moondao.com/Projects/Project-System#updates-and-responsibilities) will update the DAO throughout the life of the project, and become a member of the Senate. They are responsible for keeping a record of transactions executed, and keeping the team members accountable for execution. Each project will have its own multisignature wallet.
 
-**5\. Work is Completed, Final Report Constructed:** Once the proposal’s work is completed, a [Final Repor](https://moondao.com/submit?tag=report)t is put together and submitted to the DAO. The final report includes a treasury transparency report, links to the work completed, and a review of the outcomes compared to what was expected. The report is then submitted in that [quarter’s reward cycle](https://moondao.com/rewards), and voting members distribute that quarter’s rewards to the project’s members.
+**5\. Work is Completed, Final Report Constructed:** Once the proposal’s work is completed, a [Final Report](https://moondao.com/submit?tag=report) is put together and submitted to the DAO. The final report includes a treasury transparency report, links to the work completed, and a review of the outcomes compared to what was expected. The report is then submitted in that [quarter’s reward cycle](https://moondao.com/projects), and voting members distribute that quarter’s rewards to the project’s members.
 
 ![](https://gateway.pinata.cloud/ipfs/bafkreibi7b2dnrrj4wpubazv3wxoqge6sftcf7iuziklyf4ei6s6jyfpwq)
 
@@ -60,7 +60,7 @@ The Space Acceleration Network is a yearly subscription to get access to the bes
 MOONEY Tokenomics: Understand how the MOONEY economy works.  
 [**Discord:**](http://moondao.com/discord) Our main town square for MoonDAO.  
 [**Become a Citizen**](http://moondao.com/join)**:** A yearly subscription to use the marketplace, jobs board, submit proposals, and get rewarded for weekly contributions.  
-[**Quarterly Rewards**](https://moondao.com/rewards)**:** We emit a portion of our treasury to projects that were completed on a quarterly basis. Members can vote to support those initiatives.  
+[**Quarterly Rewards**](https://moondao.com/projects)**:** We emit a portion of our treasury to projects that were completed on a quarterly basis. Members can vote to support those initiatives.  
 [**Weekly Contribution**](https://moondao.com/submit?tag=contribution)**:** Did something cool that you want to get rewards for? MoonDAO Citizens can submit contributions and receive rewards for their work.  
 [**MoonDAO Team**](https://moondao.com/team)**:** Teams can put things up for sale on the marketplace, list jobs, and access funding via our launchpad.  
 [**Marketplace**](https://moondao.com/marketplace)**:** MoonDAO Teams can list items to sell on the marketplace.  
