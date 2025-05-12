@@ -18,7 +18,7 @@ This article is a primer to grok how MoonDAO operates at a systems level. This s
 If you understand these three components you will fully understand how MoonDAO operates end-to-end. Everything else at MoonDAO has occurred as a result of these.
 
 **Governance: MoonDAO’s Constitution**  
-The foundational basis for MoonDAO’s governance lies in the [Constitution](https://moondao.com/constitution). This document defines the three governing bodies of MoonDAO (Senate, Member House, and Executive Branch), their checks and balances, and how they interact with the proposal process. All outflows from the [MoonDAO Treasury](https://app.safe.global/home?safe=eth:0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9) occur via a proposal.
+The foundational basis for MoonDAO’s governance lies in the [Constitution](https://docs.moondao.com/Governance/Constitution). This document defines the three governing bodies of MoonDAO (Senate, Member House, and Executive Branch), their checks and balances, and how they interact with the proposal process. All outflows from the [MoonDAO Treasury](https://app.safe.global/home?safe=eth:0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9) occur via a proposal.
 
 **Finance: MoonDAO Projects**  
 If a proposal requires a team or individual to do work to execute the proposal, then they must do so in accordance with the [Projects](https://docs.moondao.com/Projects/Project-System) system. This document outlines how a proposal team operates so that it is accountable to the rest of the DAO in executing on the proposal, and how they are to be [rewarded](https://moondao.com/rewards) for the successful implementation of a proposal.
