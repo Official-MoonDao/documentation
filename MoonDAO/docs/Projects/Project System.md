@@ -95,7 +95,7 @@ Of that total reward, 10% will automatically go to a Contributor Circle for the 
 
 At the end of the quarter, the Citizens and Voting Members are presented with all the projects that were completed along with their Final Reports. Each Citizen and Voting Member allocates their voting power between what they think is a fair proportion of rewards (out of 100%) that should go to each project. Contributors may distribute their proportion of rewards to each project, but not their own.
 
-After all the members have input their distribution, we publish the results and run this [script]([https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/voting.ts) to calculate the distribution for each project, and this [script]([https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/rewards.ts) where we calculate the distribution for each contributor.
+After all the members have input their distribution, we publish the results and run this [script](https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/rewards.ts) to calculate the distribution for each project and contributor.
 
 The retroactive reward to each project is calculated as follows:
 
