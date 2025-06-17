@@ -1,4 +1,4 @@
-MoonDAO runs quarterly retroactive rewards every three months at the end of each quarter (Q1 is Jan to Mar, Q2 Apr to Jun, etc). As MoonDAO members and citizens of the space acceleration network, we have the responsibility to review all the projects that were completed over the previous quarter and allocate retroactive rewards to the teams. This process aims to achieve a fair and meritocratic distribution of rewards.
+MoonDAO runs quarterly retroactive rewards every three months at the end of each quarter (Q1 is Jan to Mar, Q2 Apr to Jun, etc). As MoonDAO members and citizens of the Space Acceleration Network, we have the responsibility to review all the projects that were completed over the previous quarter and allocate retroactive rewards to the teams. This process aims to achieve a fair and meritocratic distribution of rewards.
 
 ## How are the total amount of rewards determined?
 
@@ -22,7 +22,7 @@ Regarding the MOONEY amount, in Q3 2023 there was 12,860,625 MOONEY, so for the 
 
 ## How are rewards for each project determined?
 
-As outlined under our Projects system, citizens of the space acceleration network and voting members evaluate each project and suggest a distribution of total rewards (as a percent) that they personally believe should go to each project.
+As outlined under our Projects system, citizens of the Space Acceleration Network and voting members evaluate each project and suggest a distribution of total rewards (as a percent) that they personally believe should go to each project.
 
 Note: at this stage, contributors who are also citizens are prohibited from delegating any value towards projects that they are receiving potential rewards from.
 
