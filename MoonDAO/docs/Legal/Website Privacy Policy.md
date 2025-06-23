@@ -25,44 +25,9 @@ This Privacy Policy covers our treatment of Personal Data and other information 
 
 **_Discord® is a registered trademark of Discord Inc. (“Discord”). GitHub® is a registered trademark of GitHub Inc. (“GitHub”). Twitter® is a registered trademark of Twitter, Inc. (“Twitter”). Please be advised that MoonDAO™ is not in any way affiliated with Discord, GitHub or Twitter, and the MoonDAO™ Offerings are not endorsed, administered or sponsored by Discord, GitHub or Twitter._**
 
-**Additional Rights Applicable to Residents of the European Union and United Kingdom; Data Controller; EU and UK Representatives**
+### **EU and UK Users**
 
-Please note, MoonDAO™ is considered the “Data Controller” in connection with the Personal Data collected pursuant to this Privacy Policy for purposes of applicable data protection laws, including the European Union’s (“EU”) General Data Protection Regulation (“GDPR”) and the United Kingdom General Data Protection Regulation (“UK GDPR”). Our Data Protection Officer may be contacted at info@moondao.com.
-
-This Privacy Policy is intended to comply with the GDPR and UK GDPR. If you are a resident of the EU or UK, you have the following rights, subject to certain limitations and exceptions imposed by the GDPR and UK GDPR, respectively:
-
-1. _Right to Access – this is the right to request copies, in a machine readable format, of those portions of your Personal Data that we have collected._
-1. _Right to Correct – this is the right to have Personal Data in our possession or control corrected if it is accurate or incomplete._
-1. _Right to Erasure – this is the right to ask us to delete or remove your Personal Data from our systems._
-1. _Right to Restrict Use – this is your right to block us from using, or to limit the ways we can use, your Personal Data._
-1. _Right to Data Portability – this is your right to request that certain of your Personal Data be transferred to a different provider._
-1. _Right to Object – this is your right to object to our use of your Personal Data, including when we use it for our legitimate interests, including for marketing purposes._
-
-We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests.
-
-Please be advised that deleting your Personal Data may terminate your access to certain of the MoonDAO™ Offerings (as defined below). If you wish to continue using the full complement of MoonDAO™ Offerings, you may not be able to delete all of the Personal Data that we have on file for you.
-
-Please be further advised that, after you delete your Personal Data, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
-
-If you have questions relating to the above rights, you can contact us at: info@moondao.com.
-
-If you are not satisfied with how we have responded to any request that you submit to us regarding the above rights, you may be able to raise your complaint with the Data Protection Authority in your jurisdiction. You can find your national Data Protection Authority [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
-
-If you are located in the United Kingdom or the EU, you may contact Achieved Compliance Advocacy, our appointed representative in the UK and the EU, at the following addresses:
-
-EU
-
-By email: TBD
-
-By mail: TBD
-
-UK
-
-By TBD
-
-By mail: TBD
-
-Please be advised that our EU representative is TBD, who can be contacted at TBD.
+As of June 23, 2025, MoonDAO services and website are not available to users located in the European Union or United Kingdom due to regulatory limitations and uncertainty. We do not knowingly collect or process any personal data of individuals located in these jurisdictions. If you believe you have accessed our services in error, please contact us at info@moondao.com.
 
 ### **Legal Basis**
 
