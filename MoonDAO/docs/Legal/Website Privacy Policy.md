@@ -27,7 +27,7 @@ This Privacy Policy covers our treatment of Personal Data and other information 
 
 ### **EU and UK Users**
 
-As of June 23, 2025, MoonDAO services and website are not available to users located in the European Union or United Kingdom due to regulatory limitations and uncertainty. We do not knowingly collect or process any personal data of individuals located in these jurisdictions. If you believe you have accessed our services in error, please contact us at info@moondao.com.
+MoonDAO services and website are not available to users located in the European Union or United Kingdom due to regulatory limitations and uncertainty. We do not knowingly collect or process any personal data of individuals located in these jurisdictions. If you believe you have accessed our services in error, please contact us at info@moondao.com.
 
 ### **Legal Basis**
 
