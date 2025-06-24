@@ -100,7 +100,7 @@ A MoonDAO Member is any individual who holds wallet-bound $vMOONEY in consonance
 
 1. Right to vote on MoonDAO Proposals that go to the Member House voting stage with $vMOONEY.
 2. Right to appeal removal from official channels of communication, as described in the ban appeal process.
-3. Members with more than 250,000 $vMOONEY have the right to submit proposals to the Senate.
+3. Right to submit proposals to the Senate.
 
 ### 2.2 Senate
 
