@@ -153,8 +153,6 @@ Signers must create and sign transactions within five days of a proposal passing
 
 Signers’ identity must be made public by the DAO. Sensitive legal documents (such as Passports, ID Cards) will be securely stored by the DAO with only the Astronauts having access to it. Treasury signers must provide contact information where they can be reached in cases of emergency.
 
-MoonDAO signers are required to have at least 250,000 $vMOONEY.
-
 
 ###### Election
 
