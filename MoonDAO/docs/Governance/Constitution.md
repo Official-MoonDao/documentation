@@ -133,7 +133,7 @@ Executive Leads are trusted members of the DAO that have the responsibility to r
 MoonDAO members may hold an election for a new Executive Lead on a yearly basis, or if there are less than two currently serving Executive Leads. Candidate Leads may be nominated by MoonDAO members and must be approved by the senate with a super majority vote. If there are multiple nominations that go through the Senate, then the DAO will vote among the candidates using $vMOONEY with Instant Runoff Ranked Choice Voting, including a "none" option.
 
 ###### Term Limits
-Executive Leads serve for a three-year term. After three years, the DAO must re-vote with a super majority to confirm they stay as an Executive Lead. They are eligible to remain an a Lead for two terms. There can only be a maximum of three Executive Leads at any given time.
+Executive Leads serve for a three-year term. After three years, the DAO must re-vote with a super majority to confirm they stay as an Executive Lead. They are eligible to remain a Lead for two terms. There can only be a maximum of three Executive Leads at any given time.
 
 ###### Removal
 Executive Leads may be removed through the creation of a Proposal that is approved by the Senate with a super majority vote, and the MoonDAO members with super majority vote over a five day voting period.
