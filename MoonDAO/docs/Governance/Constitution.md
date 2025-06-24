@@ -175,21 +175,17 @@ All MoonDAO proposals must go through the following process.
 
 #### 2.4.1 Creation
 
-Any MoonDAO member can suggest a proposal and discuss them on the [MoonDAO governance](Governance%20Model.md) forum. The Proposal must follow the templates provided by the DAO, if the proposal does not follow its relevant template then it will not be considered valid and will not go forward for a Senate vote.
+Any MoonDAO member can suggest a proposal and discuss them on the "ideation" governance forum. The Proposal must follow the templates provided by the DAO, if the proposal does not follow its relevant template then it will not be considered valid and will not go forward for a Senate vote. Proposals are submitted at https://moondao.com/propose.
 
-#### 2.4.2 Feedback from DAO members
-
-Proposals will go through a feedback process on the forum for at least a week, and the author may integrate feedback from the DAO. To officially submit the proposal to the MoonDAO senate, the proposal must be sponsored by a MoonDAO member with more than 250,000 $vMOONEY.
-
-#### 2.4.3 Senate Voting
+#### 2.4.2 Senate Voting
 
 At the Senate voting phase, the proposal will be active for no longer than 30 days since its publication in the governance forum. In order for a proposal to be voted upon by the MoonDAO Member House, it must first be approved by the Senate. For the proposal to receive approval, it must receive a favorable vote from a super majority of the Senate members. The minimum quorum of Senate members required to vote in order for the proposal to be voted upon is 70% of the total number of Senate members. Each Senate member has only one vote.
 
-#### 2.4.4 Member House Voting
+#### 2.4.3 Member House Voting
 
 At the MoonDAO Member House voting phase, if the proposal has a binary (Yes/No) outcome, it will be adopted if the proposal achieves a super majority threshold according to the quadratic voting formula of $vMOONEY. If multiple options are presented, the proposal must have ranked-choice voting. The voting period for Member House voting will be **no less than five days.**
 
-#### 2.4.5 On-chain Execution
+#### 2.4.4 On-chain Execution
 
 Following the approval of the Proposal by the Member House, if there is a transaction to be made from the MoonDAO treasury, the execution on-chain will occur within five days.
 
