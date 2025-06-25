@@ -160,16 +160,16 @@ MoonDAO signers are required to have at least 250,000 $vMOONEY.
 
 ###### Election
 
-Treasury signers are appointed by the Executive Leads, and approved by the Senate and Member House with a super majority vote, and approval of a minimum 5 signers shall also be required. Executive Leads may also provide a list of people and allow for the Member house to choose by ranked choice voting, including a "none" option.
+Signers are appointed by the Executive Leads, and approved by the Senate and Member House with a super majority vote, and approval of a minimum 5 signers shall also be required. Executive Leads may also provide a list of people and allow for the Member house to choose by ranked choice voting, including a "none" option.
 
 ###### Term Limits
-There is no limit to the length of time a member can serve as a multi-signature member.
+There is no limit to the length of time a signer can serve.
 
 ###### Removal
 Treasury signers may be removed by the Executive Leads, with approval by the Senate and Member House with a super majority vote, and approval of a minimum of 5 Treasury Signers.
 
 ###### Rights
-Right to object to a MoonDAO Proposal. Provided that the signer(s) provides written reasoning to the DAO with respect to such an objection and how such a proposal will affect the DAO in the long run.
+Right to object to a MoonDAO Proposal. Provided that the signer(s) provide written reasoning to the DAO with respect to such an objection and how such a proposal will affect the DAO in the long run.
 
 ### 2.4 Proposal Process
 
