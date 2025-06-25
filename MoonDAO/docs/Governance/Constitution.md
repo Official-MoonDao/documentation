@@ -10,7 +10,7 @@ keywords:
   - Voting
   - Multi-Sig
   - Executive Lead
-  - Rocketeers
+  - Project Lead
   - Senate
   - Guilds
   - Proposal
@@ -110,7 +110,7 @@ MoonDAO’s Senate is composed of Senators. Proposals are first voted on by the 
 
 ###### Election
 
-Each Quarter, five contributors are elected based on their performance in the previous quarter in order of retroactive rewards from the prior quarter. In addition, each active Project can select one Senator to serve on behalf of their Project for the quarter.
+Each Quarter, five contributors are elected based on their performance in the previous quarter in order of proportion of retroactive rewards. In addition, each active Project can select one Senator to serve on behalf of their Project for the quarter.
 
 ###### Term Limit and Removal
 
@@ -123,23 +123,23 @@ Senators are active until the end of the quarter that they were appointed.
 
 ### 2.3 Executive Branch
 
-MoonDAO’s Executive Branch is composed of Executive Leads and the Treasury signers (hereinafter known as ‘signers’) of the MoonDAO treasury located at Ethereum Address `0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9`. There will only be seven signers, with an execution threshold of five signers.
+MoonDAO’s Executive Branch is composed of Executive Leads and Treasury Signers (hereinafter known as ‘signers’) of the MoonDAO treasury located at Ethereum Address `0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9`. There will only be seven signers, with an execution threshold of five signers.
 
 #### 2.3.1 Executive Leads
 
 Executive Leads are trusted members of the DAO that have the responsibility to represent MoonDAO’s mission and values externally and provide leadership to the DAO internally.
 
 ###### Election
-MoonDAO members may hold an election for a new Executive Lead on a yearly basis, or if there are less than two currently serving Executive Leads. Candidate Leads may be nominated by MoonDAO members and must be approved by the senate with a super majority vote. If there are multiple nominations that go through the Senate, then the DAO will vote among the candidates using $vMOONEY with Instant Runoff Ranked Choice Voting, including a "none" option.
+A regular election for Executive Lead will occur on a yearly basis. Candidate Leads may be nominated by MoonDAO members and must be approved by the senate with a super majority vote. If there are multiple nominations approved by the Senate, then the Member House will vote among the candidates using Instant Runoff Ranked Choice Voting, including a "none" option. If "none" wins, the seat will remain vacant. If a seat becomes vacant before the completion of a term, a special election may be held within 60 days of the vacancy with the winner serving the remainder of the term they are replacing.
 
 ###### Term Limits
-Executive Leads serve for a three-year term. After three years, the DAO must re-vote with a super majority to confirm they stay as an Executive Lead. They are eligible to remain a Lead for two terms. There can only be a maximum of three Executive Leads at any given time.
+Executive Leads serve for a maximum three-year term. After their first term expires, they may go up for re-election in a regular yearly election. Executive Leads may only serve two terms. There can only be a maximum of three Executive Leads at any given time.
 
 ###### Removal
 Executive Leads may be removed through the creation of a Proposal that is approved by the Senate with a super majority vote, and the MoonDAO members with super majority vote over a five day voting period.
 
 ###### Primus Inter Pares
-Among the Executive Leads there will be one person in charge of managing the yearly budget. The Primus Inter Pares, or Primus, is selected based on consensus of the Executive Leads. If no consensus is created, then they are selected by the Member House via a ranked choice vote.
+Among the Executive Leads there will be one person in charge of managing the yearly budget. The Primus Inter Pares, or Primus, is selected on a yearly basis based consensus of the Executive Leads after an election occurs. If no consensus is found within 14 days of the election ending, then they are selected by the Member House via a ranked choice vote.
 
 ###### Rights
 
@@ -166,7 +166,7 @@ Treasury signers are appointed by the Executive Leads, and approved by the Senat
 There is no limit to the length of time a member can serve as a multi-signature member.
 
 ###### Removal
-Treasury signers members may be removed by the Executive Leads, with approval by the Senate and Member House with a super majority vote, and approval of a minimum of 5 Treasury Signers.
+Treasury signers may be removed by the Executive Leads, with approval by the Senate and Member House with a super majority vote, and approval of a minimum of 5 Treasury Signers.
 
 ###### Rights
 Right to object to a MoonDAO Proposal. Provided that the signer(s) provides written reasoning to the DAO with respect to such an objection and how such a proposal will affect the DAO in the long run.
@@ -201,7 +201,7 @@ If any treasury signers decide to veto the proposal and not sign the transaction
 
 MoonDAO is organized into sub-units called MoonDAO Projects.
 
-MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the project stewards (i.e. Rocketeers) have the authority to determine who can be part of the project, how the budget is spent, and the strategy around execution. Once the project’s original goal is achieved, the team may be disbanded to work on other projects. Specification for how MoonDAO projects operate can be found here: [https://docs.moondao.com/Projects/Project-System](https://docs.moondao.com/Projects/Project-System).
+MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the Project Leads have the authority to determine who can be part of the project, how the budget is spent, and the strategy around execution. Once the project’s original goal is achieved, the team may be disbanded to work on other projects. Specification for how MoonDAO projects operate can be found here: [https://docs.moondao.com/Projects/Project-System](https://docs.moondao.com/Projects/Project-System).
 
 Project stewards may have whatever consensus mechanism they would like internally (e.g. they may do one-person-one-vote, token voting, or just let the stewards have control). This includes how they decide over their votes in the Senate.
 
@@ -249,7 +249,7 @@ Moderators are appointed and removed by the Executive Leads at their sole discre
 
 ###### Rights
 
-1. Right to temporarily remove any member from MoonDAO official channels of communication for breaking the Code of Conduct. They must transparently provide a reason for the removal to the DAO. If the members have the right to vote in the MoonDAO senate, removal will require a review and approval by the Executive Leads. If the member is a contributor on a Project, removal will require a review and approval by the Rocketeer overseeing the Project.
+1. Right to temporarily remove any member from MoonDAO official channels of communication for breaking the Code of Conduct. They must transparently provide a reason for the removal to the DAO. If the members have the right to vote in the MoonDAO senate, removal will require a review and approval by the Executive Leads. If the member is a contributor on a Project, removal will require a review and approval by the Project Lead.
 
 Once members have been removed they have to handover key information and assets required for proper MoonDAO operations (passwords, etc.).
 
