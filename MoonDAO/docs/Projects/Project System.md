@@ -12,7 +12,7 @@ keywords:
 sidebar_label: Projects
 sidebar_position: 6
 ---
-# MoonDAO Projects v7.0  
+# MoonDAO Projects v8.0  
 
 MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.  
 
@@ -38,7 +38,7 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members must be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members must be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose). All project proposals for the quarter are due by the fourth townhall of the quarter (i.e. approximately month into the quarter), all proposals will be batched together for a ranked-choice vote. The top 50% of projects will be approved.
 
 ## Start
 
@@ -50,7 +50,7 @@ The Project’s Lead becomes a member of the **Senate** as outlined in our DAO C
 
 Throughout the lifetime of the Project the **Lead** must do the following:  
 
-**1. Provide Weekly Progress Updates to the Senate.** Every week the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Astronauts may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
+**1. Provide Mid-Point Progress Updates to the Senate.** One month into the quarter the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Astronauts may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
 
 **2. Attend weekly Senate meetings.** Project Leads must attend the weekly townhalls and are required to vote on Senate decisions as outlined in the DAO Constitution. They are required to help review incoming project proposals and encouraged to share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. **For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards.** If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
 
@@ -70,6 +70,8 @@ The Project Lead must make sure the following are complete:  
 
 **4. Create Documentation.** If someone needs to maintain the work after it’s completed, or users need to know where things are, please include documentation for the people who come after you.  
 
+**5. Present Final Report.** At the end of the quarter, the team must present the final report to the community.
+
 ## Retroactive Rewards
   
 The DAO incentivizes people to start new projects with its quarterly rewards system.  
@@ -80,7 +82,7 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. ETH Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
+**1. ETH Reward:** 2.5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
 
 **2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
