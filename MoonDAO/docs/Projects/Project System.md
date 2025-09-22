@@ -1,3 +1,6 @@
+Projects System .md File
+
+
 ---
 tags:
   - docs/governance
@@ -12,7 +15,7 @@ keywords:
 sidebar_label: Projects
 sidebar_position: 6
 ---
-# MoonDAO Projects v7.0  
+# MoonDAO Projects v8.0  
 
 MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.  
 
@@ -38,7 +41,11 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The proposal must be submitted **24 hours before** the Senate meeting. If the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote. Any pre-commitments in terms of compensation for team members must be expressed in ETH. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose)
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The total budget must be expressed in ETH. The proposal must be submitted **24 hours before** the third townhall of the quarter. If the proposal does not follow the template, then it will not be considered valid and will not go forward for a Senate vote. Teams MUST be present during the townhall to pitch their project proposal to the community. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose).
+
+**Step 3: Approval.** All valid proposals that have been approved by the Senate will then be voted on via ranked-choice vote by the Member House after they are presented during the townhall. The top 25% of proposals that quarter will be funded.
+
+
 
 ## Start
 
@@ -50,7 +57,7 @@ The Project’s Lead becomes a member of the **Senate** as outlined in our DAO C
 
 Throughout the lifetime of the Project the **Lead** must do the following:  
 
-**1. Provide Weekly Progress Updates to the Senate.** Every week the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Astronauts may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
+**1. Provide a Monthly Progress Updates to the Senate.** Every month the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Astronauts may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
 
 **2. Attend weekly Senate meetings.** Project Leads must attend the weekly townhalls and are required to vote on Senate decisions as outlined in the DAO Constitution. They are required to help review incoming project proposals and encouraged to share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. **For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards.** If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
 
@@ -80,7 +87,7 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. ETH Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter.
+**1. ETH Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables), minus the sum total of all the project budgets for that quarter. Paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter, 
 
 **2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
@@ -95,7 +102,7 @@ Of that total reward, 10% will automatically go to a Contributor Circle for the 
 
 At the end of the quarter, the Citizens and Voting Members are presented with all the projects that were completed along with their Final Reports. Each Citizen and Voting Member allocates their voting power between what they think is a fair proportion of rewards (out of 100%) that should go to each project. Contributors may distribute their proportion of rewards to each project, but not their own.
 
-After all the members have input their distribution, we publish the results and run this [script](https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/rewards.ts) to calculate the distribution for each project and contributor.
+After all the members have input their distribution, we publish the results and run this [script](https://github.com/Official-MoonDao/MoonDAO/blob/main/ui/lib/utils/rewards.ts) to calculate the distribution for each project.
 
 The retroactive reward to each project is calculated as follows:
 
@@ -107,17 +114,12 @@ We multiply by 0.9 because 10% of the total rewards always goes to the Contribut
 
 Each Project will decide the amount of the project rewards that goes to each Contributor to the Project as described in the “Final allocations for project rewards distribution” section under Project Completion.
 
-The reward for each Contributor will be calculated as follows:
-
-![[https://gray-main-toad-36.mypinata.cloud/ipfs/bafkreickvn7iw2fog3slk6y6iurycmikl6mriozjvr42ow7xhfl4rktdju]]
-
-Where the UpfrontPayment is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets for that particular project. The subtraction will be done in-kind, therefore if the member received upfront payment in vMOONEY then that will be subtracted for only vMOONEY. If the member received upfront payment in an asset different than vMOONEY, then that asset’s USD value will be subtracted from the total reward in ETH.  In other words, **if the Contributor Reward is negative for vMOONEY or ETH, the Member will receive no bonus for that token.**  
 
 **Reward Timing and Method**
 
-The ETH will be given as a lump-sum reward within a month of the end of the quarter. 
+The ETH will be given as a lump-sum reward within a month of the end of the quarter, and sent to the project's multisig.
  
-The MOONEY will be locked for four years and given in the form of delegated vMOONEY that they can unlock after it has vested.
+The MOONEY will be locked for four years and given in the form of delegated vMOONEY that they can unlock after it has vested, and sent to individual contributors directly.
 
 ## Project Intellectual Property
 
@@ -137,17 +139,33 @@ If Dispute Resolution through MoonDAO’s arbitration procedure is unsuccessful,
 
 Yes. If a Lead must step down for whatever reason but the project is not yet completed, an Astronaut may appoint a new Lead to the project.
 
+**How are payments to contributors on projects handled?**
+
+Any budget going to contributors must be streamed over the period of the project. We recommend using llamapay for setting this up.
+
+**How much can I ask for?**
+
+Proposal budgets should not exceed the total retroactive reward for that quarter. In other words, it should not be more than 5% of the treasury. If you are looking for more budget than that, consider using our launchpad to help raise funds from the community.
+
 **Can Leads be external to MoonDAO, or must they be members?**
 
 Leads must be MoonDAO members before they start a project. If someone wants to join a project but is not yet a member, they should be on-boarded into the community and get vMOONEY before starting work.
 
 **What happens if the project misses its deadline?**
 
-If you are going over the originally intended timeline please notify the Senate in your monthly update. If the deadline extends into a new quarter the Astronauts will have to approve the project’s continuation.  
+If you are going over the originally intended timeline please notify the Senate in your monthly update. If the deadline extends into a new quarter the Astronauts will have to approve the project’s continuation. This is not unexpected, the project will still be eligible for retroactive rewards in the next quarter.
+
+**What if my project will take multiple quarters to complete?**
+
+That is okay, however we recommend to break up the project into quarterly milestones, with budgets scoped out for that quarter, and separate proposals created for each new milestone -- especially if this is the first time you are submitting a proposal.
 
 **Who can be on the Project’s multisig?**
 
-Multisig signers should include the project Leads and other trusted members of our community.  
+Multisig signers should include the project Leads and other trusted members of our community.
+
+**Do I need to make a multisig?**
+
+No, we will make a multisig for your project with the addresses you have listed on the proposal.
 
 **What if a project requires a budget increase?**
 
