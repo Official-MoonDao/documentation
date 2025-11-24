@@ -38,9 +38,9 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The total budget must be expressed in ETH. The proposal must be submitted **24 hours before** the third townhall of the quarter. If the proposal does not follow the template, then it will not be considered valid and will not go forward for a Senate vote. Teams MUST be present during the townhall to pitch their project proposal to the community. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose).
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The total budget must be expressed in ETH. The proposal must be submitted **24 hours before** the third townhall of the quarter. If the proposal does not follow the template, then it will not be considered valid and will not go forward for a Senate vote. Teams MUST be present during the townhall to pitch their project proposal to the community. Proposal budgets must be less than or equal to 1/5 of the total quarterly budget. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose).
 
-**Step 3: Approval.** All valid proposals that have been approved by the Senate will then be voted on via weighted vote by the Member House after they are presented during the townhall, with a five day voting period. The top 50% of proposals that quarter will be funded, or if less than 8 proposals are considered, the top four proposals will be funded.
+**Step 3: Approval.** All valid proposals that have been approved by the Senate will then be voted on via weighted vote by the Member House after they are presented during the townhall, with a five day voting period. The top 50% of proposals that quarter will be funded, or if less than 8 proposals are considered, the top four proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget.
 
 
 
@@ -48,7 +48,7 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
 
 The Project’s Lead becomes a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position until the end of the quarter when their objective is completed. Senate members are required to attend weekly Senate meetings and required to vote and review incoming proposals. 
 
-**Payment method setup:** If a project member is receiving a fixed payment upfront for their work, the project multisig may stream the payment over the course of the project until the project’s deadline. Payment streaming may be turned off by the team’s multisig if a member is no longer fulfilling their responsibilities. Alternatively, the project may send half the payment at the beginning of the project, and the other half at the end.
+**Payment method setup:** If a project member is receiving a fixed payment upfront for their work, the project multisig may stream the payment over the course of the project until the project’s deadline. Payment streaming may be turned off by the team’s multisig if a member is no longer fulfilling their responsibilities. Alternatively, the project may send half the payment at the beginning of the project, and the other half at the end. 
 
 ## Updates And Responsibilities
 
