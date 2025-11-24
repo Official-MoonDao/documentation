@@ -142,7 +142,7 @@ Any budget going to contributors must be streamed over the period of the project
 
 **How much can I ask for?**
 
-Proposal budgets should not exceed the total retroactive reward for that quarter. In other words, it should not be more than 5% of the treasury. If you are looking for more budget than that, consider using our launchpad to help raise funds from the community.
+Proposal budgets should not exceed 20% of the total retroactive reward for that quarter. If you are looking for more budget than that, consider using our launchpad to help raise funds from the community.
 
 **Can Leads be external to MoonDAO, or must they be members?**
 
