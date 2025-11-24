@@ -40,7 +40,7 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
 
 **Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The total budget must be expressed in ETH. The proposal must be submitted **24 hours before** the third townhall of the quarter. If the proposal does not follow the template, then it will not be considered valid and will not go forward for a Senate vote. Teams MUST be present during the townhall to pitch their project proposal to the community. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose).
 
-**Step 3: Approval.** All valid proposals that have been approved by the Senate will then be voted on via weighted vote by the Member House after they are presented during the townhall. The top 50% of proposals that quarter will be funded, or if less than 8 proposals are considered, the top four proposals will be funded.
+**Step 3: Approval.** All valid proposals that have been approved by the Senate will then be voted on via weighted vote by the Member House after they are presented during the townhall, with a five day voting period. The top 50% of proposals that quarter will be funded, or if less than 8 proposals are considered, the top four proposals will be funded.
 
 
 
