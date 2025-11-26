@@ -16,10 +16,9 @@ sidebar_position: 6
 
 MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.  
 
-MoonDAO Projects are goal-oriented teams working on mission-aligned objectives. This document provides the framework to fund the team, support their progress, align their interests with the DAO, and provide retroactive incentives for projects that get us one step closer to a permanent settlement on the Moon.  
+MoonDAO Projects are goal-oriented teams working on mission-aligned objectives. This document provides the framework to fund the team, support their progress, align their interests with the DAO, and provide retroactive incentives for projects that get us one step closer to a permanent human presence on the Moon.  
 
-MoonDAO Projects consist of Project Contributors and a Project Lead. Each Project is represented in the MoonDAO Senate by their Project Lead.
-
+MoonDAO Projects consist of Project Contributors and a Project Lead.
 - [[#Project Proposal Process]]
 - [[#Project Start]]
 - [[#Project Updates And Responsibilities]]
@@ -39,7 +38,7 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
 
 **Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out and submitted [here](https://moondao.com/propose) **by the second Thursday of the Quarter.**
 
-**Step 3: Senate Review.** The Senate will convene and review incoming proposals and provide feedback the next day. Proposals may be edited until the **48 hours** before the third Thursday of the Quarter. After final submission, the Senate will approve or reject the proposals in accordance with the Constitution. If a proposal passes it will move on to the next step.
+**Step 3: Senate Review and Approval.** The Senate will convene and review incoming proposals and provide feedback the next day. Proposals may be edited up to **48 hours** before the third Thursday of the Quarter. After the editing deadline is over, the Senate will approve or reject the proposals in accordance with the Constitution. If a proposal passes it will move on to the next step.
 
 **Step 4: Townhall Presentation and Member House Vote.** Project contributors MUST be present during the townhall to pitch their project proposal to the community. The member house will then vote on proposals in accordance with the Constitution. The top 50% of proposals that quarter will be funded ranked in order of voting power allocated to them. If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget. Project contributors must abstain from voting on their own project.
 
@@ -50,13 +49,13 @@ This is meant to help YOU get feedback from people on the idea, offer alternativ
 
 ## Updates And Responsibilities
 
-Throughout the lifetime of the Project the **Lead** must do the following:  
+Throughout the lifetime of the Project the **Project Lead** must do the following:  
 
 **1. Provide monthly progress updates to the Senate.** Every month the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Executive Branch Leads may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
 
 **2. Attend weekly Senate meetings.** Project Leads must attend the weekly townhalls and are required to vote on Senate decisions as outlined in the DAO Constitution. They are required to help review incoming project proposals and encouraged to share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. **For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards.** If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
 
-Other members of the project with assigned tasks become **Contributors**. These members must:
+Other members of the project with assigned tasks become **Project Contributors**. These members must:
 
 **1. Provide weekly written updates on progress.** Post updates on work in the “progress” channel under Contribute. **If a Contributor doesn’t provide a weekly update to the DAO, then 5% of the Project Lead's rewards will be deducted per missed update.**  
 
