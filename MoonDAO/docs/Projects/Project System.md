@@ -35,18 +35,16 @@ MoonDAO Projects consist of Project Contributors and a Project Lead. Each Projec
 **Step 1: Post in the “[ideation](https://discord.com/channels/914720248140279868/1027658256706961509)” channel on Discord.** You don’t need to have a fully formed idea for a project yet, and you can be pretty informal at this stage. There are two things to articulate in the ideation channel: 
 1.) Problem to be solved.
 2.) Proposed solution.
+This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet a part of our community.
 
-This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out and submitted [here](https://moondao.com/propose) **by the second Thursday of the Quarter.**
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out. The total budget must be expressed in ETH. The proposal must be submitted **24 hours before** the third townhall of the quarter. If the proposal does not follow the template, then it will not be considered valid and will not go forward for a Senate vote. Teams MUST be present during the townhall to pitch their project proposal to the community. Proposal budgets must be less than or equal to 1/5 of the total quarterly budget. See our Proposal Process for more information on how proposals are passed. You can submit your proposal [here](https://moondao.com/propose).
+**Step 3: Senate Review.** The Senate will convene and review incoming proposals and provide feedback the next day. Proposals may be edited until the **48 hours** before the third Thursday of the Quarter. After final submission, the Senate will approve or reject the proposals in accordance with the Constitution. If a proposal passes it will move on to the next step.
 
-**Step 3: Approval.** All valid proposals that have been approved by the Senate will then be voted on via weighted vote by the Member House after they are presented during the townhall, with a five day voting period. The top 50% of proposals that quarter will be funded (ranked by order of voting power allocated to them). If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget. Project contributors must abstain from voting on their own project.
-
+**Step 4: Townhall Presentation and Member House Vote.** Project contributors MUST be present during the townhall to pitch their project proposal to the community. The member house will then vote on proposals in accordance with the Constitution. The top 50% of proposals that quarter will be funded ranked in order of voting power allocated to them. If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget. Project contributors must abstain from voting on their own project.
 
 
 ## Start
-
-The Project’s Lead becomes a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position until the end of the quarter when their objective is completed. Senate members are required to attend weekly Senate meetings and required to vote and review incoming proposals. 
 
 **Payment method setup:** If a project member is receiving a fixed payment upfront for their work, the project multisig may stream the payment over the course of the project until the project’s deadline. Payment streaming may be turned off by the team’s multisig if a member is no longer fulfilling their responsibilities. Alternatively, the project may send half the payment at the beginning of the project, and the other half at the end. 
 
@@ -73,6 +71,8 @@ The Project Lead must make sure the following are complete:  
 **3. Final allocations for project rewards distribution.** Leads are required to include a reward distribution in the final report, allocating a percentage to each contributor, totaling 100%. They may recognize anyone they believe contributed to the project by noting their contributions in the report, regardless of formal team status. For small teams of four or more, we recommend using [Coordinape](https://coordinape.com/) to determine these distributions. 
 
 **4. Create Documentation.** If someone needs to maintain the work after it’s completed, or users need to know where things are, please include documentation for the people who come after you.  
+
+**5. Final Report Review and Approval.** The Executive Branch Leads will review and grade the final report. If the project is deemed completed it will be included in that quarter's retroactive rewards. Also, if the Project is successfully completed, the Project’s Lead has the option to become a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position for six months. Senate members are required to attend Senate meetings and required to vote and review incoming proposals for the next quarter.
 
 ## Retroactive Rewards
   
