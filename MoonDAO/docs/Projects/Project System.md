@@ -91,7 +91,7 @@ The total amount of rewards each quarter is calculated as follows:
 2. Q1 2023: 14,250,000 MOONEY.
 3. Q2 2023: 13,537,500 MOONEY.
 4. Q3 2023: 12,860,625 MOONEY.
-5. And so on, infinitely, decreasing by 0.95 every quarter.
+5. And so on, infinitely, following the forumula R[Q_n] = 0.95*R[Q_n-1], where R[Q_n] means the MOONEY reward for any given quarter "n".
 
 Of that total reward, 10% will automatically go to a Contributor Circle for the community, where anyone in the community can throughout the quarter post contributions that can be accepted by any of the Senators. The rewards to individuals will be decided via a Coordinape at the end of the quarter like all other projects.
 
