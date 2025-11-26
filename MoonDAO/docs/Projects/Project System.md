@@ -116,7 +116,7 @@ Each Project will decide the amount of the project rewards that goes to each Con
 
 The ETH will be given as a lump-sum reward within a month of the end of the quarter, and sent to the project's multisig.
  
-The MOONEY will be locked for four years and given in the form of delegated vMOONEY that they can unlock after it has vested, and sent to individual contributors directly.
+The MOONEY will be locked for four years (received in the form of vMOONEY) and can be unlocked after it has vested.
 
 ## Project Intellectual Property
 
