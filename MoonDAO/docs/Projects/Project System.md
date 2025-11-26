@@ -53,11 +53,11 @@ Throughout the lifetime of the Project the **Project Lead** must do the followin
 
 **1. Provide monthly progress updates to the Senate.** Every month the team must provide a written report and present it at the townhall meeting. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Executive Branch Leads may shut the project down. If a project is shut down, all remaining funds must be returned to the DAO.
 
-**2. Attend weekly Senate meetings.** Project Leads must attend the weekly townhalls and are required to vote on Senate decisions as outlined in the DAO Constitution. They are required to help review incoming project proposals and encouraged to share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. **For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards.** If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
+**2. Attend weekly Townhalls.** Project Leads must attend weekly townhalls. **For each missed townhall, the team will be deducted 5% of their retroactive rewards.** If a Project Lead misses more than three meetings, the project may be shut down. Special exceptions can be made for Project Leads on different time zones where attendance is infeasible.
 
 Other members of the project with assigned tasks become **Project Contributors**. These members must:
 
-**1. Provide weekly written updates on progress.** Post updates on work in the “progress” channel under Contribute. **If a Contributor doesn’t provide a weekly update to the DAO, then 5% of the Project Lead's rewards will be deducted per missed update.**  
+**1. Provide weekly written updates on progress.** Post updates on work in the “What Did You Get Done This Week? (wdygdtw?)” channel in the Discord. **If a Contributor doesn’t provide a weekly update to the DAO, then 5% of the Project Lead's rewards will be deducted per missed update.**
 
 ## Completion
 
