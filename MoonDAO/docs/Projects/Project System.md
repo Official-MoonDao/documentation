@@ -36,11 +36,11 @@ MoonDAO Projects consist of Project Contributors and a Project Lead.
 2.) Proposed solution.
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet a part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out and submitted [here](https://moondao.com/propose) **by the second Thursday of the Quarter.**
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out and submitted [here](https://moondao.com/propose) **by the second Thursday of the Quarter.** Please read the Proposal Template for guidelines on proposal limits. Proposal budgets must be less than or equal to 1/5 of the total quarterly rewards. If you are looking for more budget than that, consider using our launchpad to help raise funds from the community.
 
 **Step 3: Senate Review and Approval.** The Senate will convene and review incoming proposals and provide feedback the next day. Proposals may be edited up to **48 hours** before the third Thursday of the Quarter. After the editing deadline is over, the Senate will approve or reject the proposals in accordance with the Constitution. If a proposal passes it will move on to the next step.
 
-**Step 4: Townhall Presentation and Member House Vote.** Project contributors MUST be present during the townhall to pitch their project proposal to the community. Each voter will allocate their voting power, as defined in the Constitution, between proposals -- spreading their voting power between proposals as they would like. The top 50% of proposals will be funded (rounded up if an odd number of proposals are considered -- e.g. 4 are approved if 7 are considered), ranked in order of voting power allocated to them. If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget, iteratively removed from lowest to highest until the budget constraint is satisfied. Project contributors must abstain from voting on their own project.
+**Step 4: Townhall Presentation and Member House Vote.** Project contributors MUST be present during the townhall to pitch their project proposal to the community. Each voter will allocate their voting power, as defined in the Constitution, between proposals -- spreading their voting power on a percentage basis between proposals as they would like. The top 50% of proposals will be funded (rounded up if an odd number of proposals are considered -- e.g. 4 are approved if 7 are considered), ranked in order of voting power allocated to them. If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget, iteratively removed from lowest to highest until the budget constraint is satisfied. Project contributors must abstain from voting on their own project.
 
 
 ## Start
@@ -73,7 +73,7 @@ The Project Lead must make sure the following are complete:  
 
 **5. Final Report Review and Approval.** The Executive Branch Leads will review and grade the final report. If the project is deemed completed it will be included in that quarter's retroactive rewards. Also, if the Project is successfully completed, the Project’s Lead has the option to become a member of the **Senate** as outlined in our DAO Constitution. Members of the Senate retain their position for six months. Senate members are required to attend Senate meetings and required to vote and review incoming proposals for the next quarter.
 
-## Retroactive Rewards
+## Quarterly Rewards
   
 The DAO incentivizes people to start new projects with its quarterly rewards system.  
 
