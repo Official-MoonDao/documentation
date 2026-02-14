@@ -9,7 +9,7 @@ keywords:
   - Voting
   - Multi-Sig
   - Executive Lead
-  - Rocketeers
+  - Project Leads
   - Senate
   - Guilds
   - Proposal

@@ -11,7 +11,7 @@ keywords:
   - Titles
   - Executive Leads
   - Cosmonauts
-  - Rocketeers
+  - Project Leads
   - Moon Settlers
   - Earthlings
   - Subject Roles
@@ -26,9 +26,9 @@ sidebar_position: 7
 
 ## Contributor Roles
 - **[@Moon Settler](@Moon%20Settler.md):** Currently working within a MoonDAO project.
-- **[@Rocketeer](@Rocketeer.md):** Leader of a MoonDAO project.
+- **[@Project Lead](@Project Lead.md):** Leader of a MoonDAO project.
 - **[[@Executive Lead]]:** Leader of MoonDAO.
 - **[[@TreasurySigner]]:** Signer on MoonDAO’s Treasury.
-- **[@Voyager](@Voyager.md):** Former Moonsettler, Rocketeer, Executive Lead, or Treasury Signer.
+- **[@Voyager](@Voyager.md):** Former Moonsettler, Project Lead, Executive Lead, or Treasury Signer.
 - **[[@Alien]]:** A verified member of our Discord.
 

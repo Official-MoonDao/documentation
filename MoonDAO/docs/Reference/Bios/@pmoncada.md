@@ -9,7 +9,7 @@ address:
 discord: "@pmoncada"
 roles:
   - Executive Lead
-  - Rocketeer
+  - Project Lead
   - Moon Settler
 member_since: 2021-11-22
 ---

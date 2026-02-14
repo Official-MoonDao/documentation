@@ -45,7 +45,7 @@ Gathertown is where we co-work; Follow [this link](https://app.gather.town/invit
 **Communicate continuously:** Keep clear and open communication with team members
 
 📆 **Town Hall Meetings: ** Check [the calendar](https://discord.com/channels/914720248140279868/923068372428660736) 
-At Town Hall meetings, rocketeers approve new proposals and discuss pressing matters of the DAO. Moonsettlers are recommended to join to understand the context of the organization and get involved with governance  
+At Town Hall meetings, Ss approve new proposals and discuss pressing matters of the DAO. Moonsettlers are recommended to join to understand the context of the organization and get involved with governance  
   
 📝 **Write reports updates in the [weekly-progress](https://discord.com/channels/914720248140279868/999845612277211277) channel**  
 The first ten minutes of the town hall meeting is dedicated to posting weekly progress, however you can drop your updates in at any time  
