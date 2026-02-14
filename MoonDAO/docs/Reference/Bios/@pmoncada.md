@@ -10,7 +10,7 @@ discord: "@pmoncada"
 roles:
   - Executive Lead
   - Project Lead
-  - Moon Settler
+  - Project Contributor
 member_since: 2021-11-22
 ---
 **Role**: [[@Executive Lead]], [[@Executive]], Founder

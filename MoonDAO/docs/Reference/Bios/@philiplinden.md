@@ -10,7 +10,7 @@ address: philiplinden.eth
 discord: "@philiplinden"
 roles:
   - Project Lead
-  - Moon Settler
+  - Project Contributor
 member_since: 2022-09-22
 ---
 **Role**: [@Project Lead](@Project Lead.md)

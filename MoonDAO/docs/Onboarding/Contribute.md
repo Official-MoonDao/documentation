@@ -12,7 +12,7 @@ keywords:
   - Executive Leads
   - Cosmonauts
   - Project Leads
-  - Moon Settlers
+  - Project Contributors
   - Earthlings
   - Subject Roles
   - Decentralization

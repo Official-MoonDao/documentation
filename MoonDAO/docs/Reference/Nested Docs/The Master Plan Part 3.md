@@ -129,7 +129,7 @@ We tried running this experiment in headless government for a while, not allocat
 ‍
 This is the role of the executive branch, it is to give the constant attention to the little things that keep everything functioning. The role is not that of a ruler with an iron fist, but someone that comes in to get their hands dirty tilling the soil and plucking the weeds so that the most fruitful members can focus on what they do best.  
 ‍
-The organization is not a pyramid, and it never intends to be one, it is a circle. There is a center and a boundary, and the executive branch creates the center and defines the boundary, but it is only a point, and the majority of the circle is made up of all the Project members within the Senate and Moonsettlers, and vMOONEY token holding Members within the rest of the DAO.  
+The organization is not a pyramid, and it never intends to be one, it is a circle. There is a center and a boundary, and the executive branch creates the center and defines the boundary, but it is only a point, and the majority of the circle is made up of all the Project members within the Senate and Project Contributors, and vMOONEY token holding Members within the rest of the DAO.  
 ‍
 If those members want to point in a different direction, the executive branch will move with the whole, and if the executive branch is no longer serving the rest of the whole, they have it within their power to swap for a different leadership.  
 ‍
