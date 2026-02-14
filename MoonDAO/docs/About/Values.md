@@ -8,8 +8,8 @@ keywords:
   - Governance
   - Voting
   - Multi-Sig
-  - Astronaut
-  - Rocketeers
+  - Executive Lead
+  - Project Leads
   - Senate
   - Guilds
   - Proposal

@@ -7,7 +7,7 @@ aliases:
 address: 
 discord: "@mitchie_mitch"
 roles:
-  - Rocketeer
+  - Project Lead
   - Operations Lead
   - Delegate
 member_since:

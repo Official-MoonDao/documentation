@@ -9,10 +9,10 @@ keywords:
   - Contribute
   - Progressive Governance
   - Titles
-  - Astronauts
+  - Executive Leads
   - Cosmonauts
-  - Rocketeers
-  - Moon Settlers
+  - Project Leads
+  - Project Contributors
   - Earthlings
   - Subject Roles
   - Decentralization
@@ -25,10 +25,10 @@ sidebar_position: 7
 - **[[@Delegate]]:** Holder of at least 250,000 $vMOONEY, and can officially submit proposals to the [Senate](Senate.md) on behalf of anyone.
 
 ## Contributor Roles
-- **[@Moon Settler](@Moon%20Settler.md):** Currently working within a MoonDAO project.
-- **[@Rocketeer](@Rocketeer.md):** Leader of a MoonDAO project.
-- **[[@Astronaut]]:** Leader of MoonDAO.
+- **[@Project Contributor](@Moon%20Settler.md):** Currently working within a MoonDAO project.
+- **[@Project Lead](@Project Lead.md):** Leader of a MoonDAO project.
+- **[[@Executive Lead]]:** Leader of MoonDAO.
 - **[[@TreasurySigner]]:** Signer on MoonDAO’s Treasury.
-- **[@Voyager](@Voyager.md):** Former Moonsettler, Rocketeer, Astronaut, or Treasury Signer.
+- **[@Voyager](@Voyager.md):** Former Project Contributor, Project Lead, Executive Lead, or Treasury Signer.
 - **[[@Alien]]:** A verified member of our Discord.
 

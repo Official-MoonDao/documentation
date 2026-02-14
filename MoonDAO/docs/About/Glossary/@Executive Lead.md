@@ -9,4 +9,4 @@ aliases: []
 [Definition:: Leader of MoonDAO.]
 Related:: [Roles](Roles.md)
 %%
-The **Astronaut** role is given to the current leader of [MoonDAO Governance](Governance%20Model.md).
+The **Executive Lead** role is given to the current leader of [MoonDAO Governance](Governance%20Model.md).
