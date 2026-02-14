@@ -10,7 +10,7 @@ keywords:
     Core Team,
     Progressive Governance,
     Titles,
-    Astronauts,
+    Executive Leads,
     Cosmonauts,
     Rocketeers,
     Moon Settlers,

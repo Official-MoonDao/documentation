@@ -133,7 +133,7 @@ If Dispute Resolution through MoonDAO’s arbitration procedure is unsuccessful,
 
 **Can a project change Leads?** 
 
-Yes. If a Lead must step down for whatever reason but the project is not yet completed, an Astronaut may appoint a new Lead to the project.
+Yes. If a Lead must step down for whatever reason but the project is not yet completed, an Executive Lead may appoint a new Lead to the project.
 
 **How are payments to contributors on projects handled?**
 

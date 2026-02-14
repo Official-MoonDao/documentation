@@ -123,7 +123,7 @@ MoonDAO has pushed me to grow tremendously as a person, it’s the most rewardin
 ‍
 Like I said, I know that I am not worthy for this grand mission, it would be insane to feel confident that I am the right person for this job, but I will try my best, and all glory if we achieve things should go to the people that have made this possible and the spirit of exploration and awe that inspire us.  
 ‍
-I think it’s worth noting why we have decided to have an “Astronaut” or executive branch as a DAO. Some think it is hypocritical or that there is no need within a DAO to have executive office.   
+I think it’s worth noting why we have decided to have an “Executive Lead” or executive branch as a DAO. Some think it is hypocritical or that there is no need within a DAO to have executive office.   
 ‍
 We tried running this experiment in headless government for a while, not allocating any funds towards executive operation, and we found that there are basic issues that need constant care and attention, like a gardener that looks over all the growing fruit. The fruit grows on its own and does not need to be commanded to grow, but someone needs to be there to plant the seeds, provide water, and pluck out weeds or harmful pests.  
 ‍

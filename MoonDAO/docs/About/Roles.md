@@ -9,7 +9,7 @@ keywords:
   - Contribute
   - Progressive Governance
   - Titles
-  - Astronauts
+  - Executive Leads
   - Cosmonauts
   - Rocketeers
   - Moon Settlers
@@ -27,8 +27,8 @@ sidebar_position: 7
 ## Contributor Roles
 - **[@Moon Settler](@Moon%20Settler.md):** Currently working within a MoonDAO project.
 - **[@Rocketeer](@Rocketeer.md):** Leader of a MoonDAO project.
-- **[[@Astronaut]]:** Leader of MoonDAO.
+- **[[@Executive Lead]]:** Leader of MoonDAO.
 - **[[@TreasurySigner]]:** Signer on MoonDAO’s Treasury.
-- **[@Voyager](@Voyager.md):** Former Moonsettler, Rocketeer, Astronaut, or Treasury Signer.
+- **[@Voyager](@Voyager.md):** Former Moonsettler, Rocketeer, Executive Lead, or Treasury Signer.
 - **[[@Alien]]:** A verified member of our Discord.
 

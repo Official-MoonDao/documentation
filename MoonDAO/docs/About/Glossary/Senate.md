@@ -7,7 +7,7 @@ aliases: []
 ---
 %% Dataview plugin metadata (hidden)
 [Definition:: A group of contributors that review incoming Proposals and perform due-diligence before it goes up for vote for the rest of the DAO.]
-Related:: [Governance Model](Governance%20Model.md), [@Astronaut](@Astronaut.md), [@Rocketeer](@Rocketeer.md), [@Delegate](@Delegate.md)
+Related:: [Governance Model](Governance%20Model.md), [@Executive Lead](@Executive Lead.md), [@Rocketeer](@Rocketeer.md), [@Delegate](@Delegate.md)
 %%
 
 A group of contributors that review incoming Proposals and perform due-diligence before it goes up for vote for the rest of the DAO.
