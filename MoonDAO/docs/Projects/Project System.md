@@ -36,11 +36,13 @@ MoonDAO Projects consist of Project Contributors and a Project Lead.
 2.) Proposed solution.
 This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet a part of our community.
 
-**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out and submitted [here](https://moondao.com/propose) **by the second Thursday of the Quarter.** Please read the Proposal Template for guidelines on proposal limits. Proposal budgets must be less than or equal to 1/5 of the total quarterly rewards. If you are looking for more budget than that, consider using our launchpad to help raise funds from the community.
+**Step 2: Proposal Submission.** A Project Proposal ([MoonDAO Project Proposal Template](https://docs.google.com/document/d/1p8rV9RlvFk6nAJzWh-tvroyPvasjjrvgKpyX8ibGX3I/edit#heading=h.wq6048m686gd)) must be filled out and submitted [here](https://moondao.com/propose) **by the second Thursday of the Quarter.** Please read the Proposal Template for guidelines on proposal limits. Proposal budgets must be less than or equal to 1/5 of the total project rewards for the quarter. If you are looking for more budget than that, consider using our launchpad to help raise funds from the community.
 
-**Step 3: Senate Review and Approval.** The Senate will convene and review incoming proposals and provide feedback the next day. Proposals may be edited up to **48 hours** before the third Thursday of the Quarter. After the editing deadline is over, the Senate will approve or reject the proposals in accordance with the Constitution. If a proposal passes it will move on to the next step.
+**Step 3: Senate Review.** The Senate will convene and review incoming proposals and provide feedback within a few days. Proposals may be edited up to **48 hours** before the third Thursday of the Quarter.
 
-**Step 4: Townhall Presentation and Member House Vote.** Project contributors MUST be present during the townhall to pitch their project proposal to the community. Each voter will allocate their voting power, as defined in the Constitution, between proposals -- spreading their voting power on a percentage basis between proposals as they would like. The top 50% of proposals will be funded (rounded up if an odd number of proposals are considered -- e.g. 4 are approved if 7 are considered), ranked in order of voting power allocated to them. If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the quarterly budget, then the lowest voted proposal will not be funded until the budget is less than 3/4 the quarterly budget, iteratively removed from lowest to highest until the budget constraint is satisfied. Project contributors must abstain from voting on their own project.
+**Step 4: Townhall Presentation.** Project contributors MUST be present during the townhall to pitch their project proposal to the community. Each project will have the opportunity to present their project. After the townhall is over, the Senate will approve or reject the proposals in accordance to the quorum and approval threshold in the Constitution. Proposals that pass will move on to the next step.
+
+**Step 5: Member House Vote.** Each voter will allocate their voting power, as defined in the Constitution, between proposals -- spreading their voting power on a percentage basis between proposals as they would like. The top 50% of proposals will be funded (rounded up if an odd number of proposals are considered -- e.g. 4 are approved if 7 are considered), ranked in order of voting power allocated to them. If less than six proposals are considered, the top three proposals will be funded. If the cumulative budget of accepted proposals surpasses 3/4 of the project budget for that quarter, then the lowest voted proposal will not be funded until the budget is less than 3/4 the project budget, iteratively removed from lowest to highest until the budget constraint is satisfied. Project contributors must abstain from voting on their own project.
 
 
 ## Start
@@ -83,7 +85,7 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. ETH Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables), minus the sum total of all the project budgets for that quarter (not including the Executive Branch Budget). Paid in the form of ETH. Assets with fluctuating prices will be priced at midnight of the first day of the quarter, 
+**1. Stablecoin Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables), minus the sum total of all the project budgets for that quarter (not including the Executive Branch Budget). Paid in the form of USD-pegged stablecoins. Assets with fluctuating prices will be priced at midnight of the first day of the previous quarter, 
 
 **2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
@@ -113,7 +115,7 @@ Each Project will decide the amount of the project rewards that goes to each Con
 
 **Reward Timing and Method**
 
-The ETH will be given as a lump-sum reward within a month of the end of the quarter, and sent to the project's multisig.
+The Stablecoins will be given as a lump-sum reward within a month of the end of the quarter, and sent to the project's multisig.
  
 The MOONEY will be locked for four years (received in the form of vMOONEY) and can be unlocked after it has vested.
 
@@ -133,7 +135,7 @@ If Dispute Resolution through MoonDAO’s arbitration procedure is unsuccessful,
 
 **Can a project change Leads?** 
 
-Yes. If a Lead must step down for whatever reason but the project is not yet completed, an Astronaut may appoint a new Lead to the project.
+Yes. If a Lead must step down for whatever reason but the project is not yet completed, the Executive Leads may appoint a new Lead to the project.
 
 **How are payments to contributors on projects handled?**
 
