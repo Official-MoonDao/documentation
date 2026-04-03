@@ -85,7 +85,7 @@ Each quarter, the projects that were completed will be eligible for Project Rewa
 
 The total amount of rewards each quarter is calculated as follows:
 
-**1. Stablecoin Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables), minus the sum total of all the project budgets for that quarter (not including the Executive Branch Budget). Paid in the form of USD-pegged stablecoins. Assets with fluctuating prices will be priced at midnight of the first day of the previous quarter, 
+**1. Stablecoin Reward:** 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables), minus the sum total of all the project budgets for that quarter (not including the Executive Branch Budget). Paid in the form of USD-pegged stablecoins. Assets with fluctuating prices will be priced at midnight UTC of the first day of the previous quarter, 
 
 **2. vMOONEY Reward:** A geometric series of MOONEY will be released as follows:
 1. Q4 2022: 15,000,000 MOONEY. 
