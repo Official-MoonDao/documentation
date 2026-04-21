@@ -8,7 +8,7 @@ Organized by MoonDAO
 moondao.com/overview | moondao.com/frank
 
 Effective Date: March 12, 2026  
-Last Updated: March 21, 2026
+Last Updated: April 21, 2026
 
 ---
 
@@ -44,9 +44,9 @@ These Terms may be amended from time to time as described in Section 16. Continu
 
 **"Campaign Goal"** means the full fundraising target of 965 ETH (approximately $2,000,000 USD at current rates), designed to fund two seats to sub-orbital space.
 
-**"Minimum Goal"** means 25% of the Campaign Goal (approximately 241 ETH), the minimum threshold below which the Campaign is declared a failure and full, programmatic refunds are issued. This amount represents the bare minimum required to pursue any viable mission profile.
+**"Minimum Goal"** means sufficient funding from on-chain and off-chain commitments to secure a spaceflight or stratospheric balloon seat for Frank White. Regardless of the total amount raised by the End Date, MoonDAO will proceed to negotiate with launch carriers on Frank White's behalf following campaign close.
 
-**"Milestone Goals"** means the intermediate funding thresholds that determine the available mission profile. These are defined in Section 4.3 and include: (a) 25% of the Campaign Goal, two stratospheric balloon tickets; (b) 50% of the Campaign Goal, one suborbital seat for Frank White above the Kármán line; and (c) 100% of the Campaign Goal, two suborbital seats (Frank White \+ one community-selected Candidate). Specific mission-profile decisions are subject to $OVERVIEW token holder governance, as ETH price fluctuations may affect the purchasing power of funds raised.
+**"Milestone Goals"** means the aspirational funding targets that indicate the likely mission profile available at various funding levels. These are defined in Section 4.3 and include: (a) 25% of the Campaign Goal, two stratospheric balloon tickets; (b) 50% of the Campaign Goal, one suborbital seat for Frank White above the Kármán line; and (c) 100% of the Campaign Goal, two suborbital seats (Frank White \+ one community-selected Candidate). These thresholds serve as planning guides rather than binding cutoffs; MoonDAO will negotiate with carriers regardless of the amount raised, and specific mission-profile decisions are subject to $OVERVIEW token holder governance, as ETH price fluctuations may affect the purchasing power of funds raised.
 
 **"Stretch Goals"** means any funding raised beyond the Campaign Goal (965 ETH), which may be allocated toward additional seats, an orbital mission, or other enhanced experiences as determined by $OVERVIEW token holder governance votes.
 
@@ -86,7 +86,7 @@ $OVERVIEW tokens are issued on the Arbitrum One Layer 2 proportionally to contri
 
 ### 4.2 Fund Allocation
 
-Upon successful completion of the Minimum Goal or beyond, funds are allocated as follows:
+If the campaign successfully secures a seat, funds are allocated as follows:
 
 - 90% disbursed to the Organizing Entity [multi-signature wallet](https://app.safe.global/transactions/queue?safe=arb1:0xaA1Bd6d001C0000420090EDb36bEAE0D9393B5EA) ("Overview Team" owned by the Organizing Entity) for mission execution, including flight procurement, logistics, and related expenses. 1% of which will be donated to Space Camp USA to train and inspire the next generation of astronauts.  
 - 2.5% to MoonDAO treasury for operational support.  
@@ -97,15 +97,14 @@ Upon successful completion of the Minimum Goal or beyond, funds are allocated as
 
 The Campaign Goal of 965 ETH is designed to support two suborbital seats to space: one for Frank White and one for a community-selected Candidate. The Campaign is carrier-agnostic; the specific launch provider, mission profile, and launch site location will be determined based on total funds raised, provider availability, and community governance decisions.
 
-The mission profile scales with funding according to the following Milestone Goals:
+Following campaign close, MoonDAO will proceed to negotiate with launch carriers on Frank White's behalf regardless of the total amount raised. The mission profile will be determined based on available funds, carrier options, and $OVERVIEW token holder governance. The Milestone Goals below serve as aspirational planning targets:
 
-- **Below 25% (less than 241 ETH):** Campaign is declared a failure. Full refunds are issued to all Contributors (see Section 8.1), in ETH minus gas or transaction fees.  
-- **25% of Campaign Goal (approximately 241 ETH):** Minimum Goal met. The Campaign proceeds with a minimum viable mission of two stratospheric balloon tickets.  
-- **50% of Campaign Goal (approximately 483 ETH):** Sufficient for one suborbital seat above the Kármán line for Frank White.  
+- **25% of Campaign Goal (approximately 241 ETH):** Likely sufficient for a minimum viable mission of two stratospheric balloon tickets.  
+- **50% of Campaign Goal (approximately 483 ETH):** Likely sufficient for one suborbital seat above the Kármán line for Frank White.  
 - **100% of Campaign Goal (965 ETH):** Full mission, two suborbital seats (Frank White \+ one community-selected Candidate).  
-- **Above 100%:** Stretch Goals, the community of $OVERVIEW token holders votes on enhanced mission options, which may include additional seats, an orbital mission, or other experiences.
+- **Above 100%:** Stretch Goals; the community of $OVERVIEW token holders votes on enhanced mission options, which may include additional seats, an orbital mission, or other experiences.
 
-These thresholds are approximate. Fluctuations in ETH price relative to fiat currency may shift the purchasing power of raised funds up or down. $OVERVIEW token holders will make specific mission-profile decisions based on available funds, carrier options, and provider availability at the time of mission planning, provided the Minimum Goal of 241 ETH is reached.
+These thresholds are approximate and aspirational, not binding cutoffs. Fluctuations in ETH price relative to fiat currency may shift the purchasing power of raised funds up or down. $OVERVIEW token holders will make specific mission-profile decisions based on available funds, carrier options, and provider availability at the time of mission planning.
 
 ---
 
@@ -152,7 +151,7 @@ The Selection Process consists of four rounds designed to progressively narrow t
 - **Mechanism:** Contributors allocate (pledge or back) their $OVERVIEW tokens to one Candidate of their choosing. Votes are recorded on-chain and transparently verifiable. Contributors may change their vote up until the closing date. Voting does not use or burn $OVERVIEW tokens, which remain securely in the Contributor wallet.  
 - **Visibility:** A public, real-time [leaderboard](https://moondao.com/overview-vote) displays rankings throughout the voting period.  
 - **Advancement:** The 25 Citizens with the greatest amount of $OVERVIEW tokens pledged to their name advance to Round 2.  
-- **Timeline:** Voting closes no later than 14 days after the fundraiser end date.
+- **Timeline:** Voting closes no later than 14 days after a carrier is secured.
 
 ### 7.2 Round 2: AI Evaluation
 
@@ -185,15 +184,17 @@ MoonDAO reserves the right to make reasonable modifications to the Selection Pro
 
 ## 8. Refund Policy
 
-### 8.1 Campaign Failure — Minimum Goal Not Met (Below 241 ETH)
+### 8.1 Campaign Close and Carrier Negotiations
 
-If the Campaign does not reach the Minimum Goal of 241 ETH (25% of the Campaign Goal) by the end date, the Campaign will be declared a failure. A refund payhook will be enabled by MoonDAO on the Smart Contract, after which refunds will be automatically redeemable by Contributors. To claim a refund, Contributors burn (return) their $OVERVIEW tokens through the MoonDAO Launchpad platform and receive their proportional ETH back, minus any gas or transaction fees.
+When the Juicebox fundraising campaign closes on the End Date (Monday, April 27, 2026), MoonDAO will proceed to negotiate with launch carriers to secure a flight for Frank White, regardless of the total amount raised. These negotiations will commence promptly following the End Date and will continue for up to 30 days.
 
-The refund window will remain open for 28 days from the date the refund payhook is enabled. Contributors who do not claim their refund within this window may forfeit their right to a refund. MoonDAO will communicate the exact refund window dates through all official channels.
+If carrier negotiations are unsuccessful within 30 days of the End Date, MoonDAO will simultaneously take the following actions: (a) enable a refund payhook on the Smart Contract, allowing Contributors to burn their $OVERVIEW tokens through the MoonDAO Launchpad platform and receive their proportional ETH back, minus any gas or transaction fees; and (b) open a $OVERVIEW token holder governance vote to determine the next course of action, which may include continuing or resuming negotiations, reallocating any remaining funds to an alternative goal or mission.
 
-### 8.2 Minimum Goal Met — Mission Proceeds (241 ETH or Above)
+The refund window will remain open for 28 days from the date the refund payhook is enabled. Contributors who do not claim their refund within this window may forfeit their right to a refund. MoonDAO will communicate the exact refund window dates and governance vote details through all official channels.
 
-If the Campaign raises at least 241 ETH (the Minimum Goal), the Campaign concludes successfully and funds are disbursed per Section 4.2. Once funds are disbursed, full refunds are no longer possible due to protocol fees, fund allocation, and carrier commitments. The mission profile will be determined by the Milestone Goal reached, as described in Section 4.3, and $OVERVIEW token holders will vote on specific mission-profile decisions.
+### 8.2 Successful Negotiations — Mission Proceeds
+
+If MoonDAO successfully negotiates a carrier agreement within the 30-day period following the End Date, the Campaign concludes and funds are disbursed per Section 4.2. Once funds are disbursed, full refunds are no longer possible due to protocol fees, fund allocation, and carrier commitments. The mission profile will be determined based on funds available and carrier options, as described in Section 4.3, and $OVERVIEW token holders will vote on specific mission-profile decisions.
 
 At this stage, Contributors accept that their contribution has been committed to mission execution and that no automatic refund mechanism exists. Any subsequent decisions regarding partial refunds, fund reallocation, or alternative mission profiles will be made through $OVERVIEW token holder governance.
 
