@@ -9,10 +9,10 @@ keywords:
   - Contribute
   - Progressive Governance
   - Titles
-  - Astronauts
+  - Executive Leads
   - Cosmonauts
-  - Rocketeers
-  - Moon Settlers
+  - Project Leads
+  - Project Contributors
   - Earthlings
   - Subject Roles
   - Decentralization
@@ -50,7 +50,7 @@ Leading a MoonDAO project is a larger commitment, you would steward the project 
 
 ## Level 3: Become an Elected Leader
 
-The Astronaut role is given to elected leaders that are trusted with stewarding the DAO and helping guide it as it becomes increasingly decentralized. This is the highest level of contribution to the DAO. The DAO holds annual votes to select an astronaut on staggered three-year terms, as detailed in our [Constitution](Constitution.md).
+The Executive Lead role is given to elected leaders that are trusted with stewarding the DAO and helping guide it as it becomes increasingly decentralized. This is the highest level of contribution to the DAO. The DAO holds annual votes to select an Executive Lead on staggered three-year terms, as detailed in our [Constitution](Constitution.md).
 
 ## Rewards
 
