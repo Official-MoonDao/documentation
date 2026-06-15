@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@main
         with:
           repository: jackyzha0/quartz
+          ref: v5.0.0
           fetch-depth: 0
       - name: Setup Node.js
         uses: actions/setup-node@v3
