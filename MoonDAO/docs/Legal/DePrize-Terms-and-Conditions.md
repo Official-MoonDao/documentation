@@ -1,6 +1,6 @@
 # DePrize — Terms & Conditions
 
-Effective Date: July 21, 2026 · Last Updated: July 21, 2026
+Effective Date: July 21, 2026 · Last Updated: August 18, 2026
 
 Organized by MoonDAO — moondao.com/deprize
 
@@ -46,13 +46,13 @@ Outcome tokens are ERC-1155 tokens on the Gnosis CTF. For a DePrize with N teams
 | That team loses | nothing — worthless |
 | Cancelled / no eligible winner / delivery failure | an equal share: 1/N of the collateral per token (see Section 6) |
 
-**Risk of total loss.** If the team you backed does not win, your outcome tokens for that team expire worthless and you lose the entire amount put into that position. Prices reflect collective belief, not guaranteed outcomes. As with $MOONEY and $OVERVIEW, outcome tokens are not investments, carry no expectation of profit, and should not be treated as financial instruments. Never bet more than you can afford to lose.
+**Risk of total loss.** If the team you backed does not win, your outcome tokens for that team expire worthless and you lose the entire amount put into that position. Prices reflect collective belief, not guaranteed outcomes. As with $MOONEY and other MoonDAO tokens, outcome tokens are not investments, carry no expectation of profit, and should not be treated as financial instruments. Never bet more than you can afford to lose.
 
 ---
 
 ## 5. Each DePrize's rules; resolution and finality
 
-Every DePrize has pre-defined, published rules on its page specifying the competing teams, the resolution source and criteria, the sunset time after which betting can be closed, and how cancellation / a no-winner result are handled. The published rules — not the headline or marketing copy — govern how a DePrize resolves. You are responsible for reading a DePrize's rules before you bet.
+Every DePrize has pre-defined, published rules on its page specifying the competing teams, the bound Launchpad prize pool and its governance token, the resolution source and criteria, the sunset time after which betting can be closed, and how cancellation / a no-winner result are handled. The published rules — not the headline or marketing copy — govern how a DePrize resolves. You are responsible for reading a DePrize's rules before you bet.
 
 When a DePrize concludes, the outcome is reported on-chain by the MoonDAO-designated oracle / administrator (a MoonDAO governance-controlled Safe and the oracle address published for that market), strictly per the DePrize's published rules. Resolution is final and immutable: once the payout is reported on-chain, the result cannot be reversed, altered, or refunded by MoonDAO, by you, or by any third party. Redemption is permissionless — you (or anyone) can redeem a resolved position directly against the CTF contract.
 
@@ -78,9 +78,13 @@ You accept this equal-payout mechanism as the exclusive refund method for refund
 
 ## 7. The 5% prize contribution (separate from your bet)
 
-5% of every bet is routed to the DePrize's prize pool — a MoonDAO Launchpad (Juicebox) project — rather than to the trading market. In exchange you receive that project's governance token (currently $OVERVIEW) as the beneficiary of that contribution. Consistent with the Overview Effect Terms (Section 3), that governance token is not a security, investment instrument, financial asset, or currency, carries no expectation of profit, and exists solely for governance.
+5% of every bet is routed to that DePrize's prize pool — the MoonDAO Launchpad (Juicebox) project bound to that DePrize, as published on the DePrize's page — rather than to the trading market. In exchange you receive that bound project's governance token as the beneficiary of that contribution.
 
-This 5% is separate from the 95% you trade with. It is not part of your outcome-token position and is not returned by the equal-payout refund in Section 6. Any recovery of the 5% is governed by the bound Launchpad campaign's own terms and refund mechanism (for example, burning your $OVERVIEW through the Launchpad refund payhook to receive your proportional ETH back, minus fees, when a refund window is enabled).
+The bound project (and therefore which governance token you receive) is specific to each DePrize; it is not always the same campaign. For example, a DePrize whose prize relates to the Overview Effect flight may be bound to that campaign and issue $OVERVIEW, while a DePrize bound to a different Launchpad campaign may issue a different governance token (such as $INSPIRE). You are responsible for checking a DePrize's published rules to see which prize pool and token apply before you bet.
+
+Consistent with the Launchpad Disclaimer and the bound campaign's own terms (for example, Overview Effect Terms, Section 3, where that campaign is the bound project), that governance token is not a security, investment instrument, financial asset, or currency, carries no expectation of profit, and exists solely for governance.
+
+This 5% is separate from the 95% you trade with. It is not part of your outcome-token position and is not returned by the equal-payout refund in Section 6. Any recovery of the 5% is governed by the bound Launchpad campaign's own terms and refund mechanism (for example, burning the bound project's governance token through the Launchpad refund payhook to receive your proportional ETH back, minus fees, when a refund window is enabled).
 
 ---
 
@@ -146,7 +150,7 @@ For questions about these Terms, email info@moondao.com.
 By using DePrize, you acknowledge and agree that:
 
 - You have read, understood, and agree to these Terms, the Agreement, and the Privacy Policy in their entirety.
-- Outcome tokens and the $OVERVIEW governance token are not securities, investments, or financial assets and carry no expectation of profit.
+- Outcome tokens and any Launchpad governance token issued in connection with a DePrize are not securities, investments, or financial assets and carry no expectation of profit.
 - If your team does not win, your position can become worthless — you may lose your entire stake.
 - If a DePrize is cancelled or resolves with no winner, it resolves on an equal-payout (1/N per token) basis in ETH — not a return of your original stake — and a bet placed above the average (1/N) may redeem for less than you put in.
 - Resolution is final and immutable, and redemption is permissionless.
@@ -157,7 +161,7 @@ By using DePrize, you acknowledge and agree that:
 
 ## Appendix: mapping to the on-chain mechanism (for reviewers, not users)
 
-- **Outcome tokens:** Gnosis CTF ERC-1155 positions bought via `DePrizeMint.bet()` (5% slice → Juicebox/Launchpad project; 95% → LMSR/CTF collateral).
+- **Outcome tokens:** Gnosis CTF ERC-1155 positions bought via `DePrizeMint.bet()` (5% slice → that DePrize's bound Juicebox/Launchpad project; 95% → LMSR/CTF collateral).
 - **Winner resolution:** payout vector [0,…,1,…,0] — winning tokens redeem 1:1.
 - **Refund-terminal resolution:** payout vector [1,1,…,1] — each token redeems for 1/N (`DePrizeRedeem` or direct `ctf.redeemPositions`).
 - **Finality:** `ctf.reportPayouts` is write-once; redemption is permissionless.
