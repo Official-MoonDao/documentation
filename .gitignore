@@ -22,3 +22,4 @@ desktop.ini
 
 # Generated GitHub Pages redirect site
 site/
+__pycache__/
