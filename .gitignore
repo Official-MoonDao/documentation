@@ -19,3 +19,6 @@ null*
 .trash/
 .DS_Store
 desktop.ini
+
+# Generated GitHub Pages redirect site
+site/
